@@ -13,6 +13,10 @@
           "label": "Portuguese",
           "value": "pt_MZ"
         },
+           {
+          "label": "Hindi",
+          "value": "hi_MZ"
+        },
         {
           "label": "English",
           "value": "en_MZ"
@@ -20,16 +24,20 @@
       ],
       "CHECKLIST_TYPES": [
         {
-          "name": "WAREHOUSE",
-          "code": "WAREHOUSE"
+          "name": "REGISTRATION_BASIC",
+          "code": "REGISTRATION_BASIC"
         },
         {
-          "name": "TRAINING_SUPERVISION",
-          "code": "TRAINING_SUPERVISION"
+          "name": "LOCAL_MONITOR_TRAINING",
+          "code": "LOCAL_MONITOR_TRAINING"
         },
         {
-          "name": "TEAM_FORMATION",
-          "code": "TEAM_FORMATION"
+          "name": "DISTRICT_MONITOR_TRAINING",
+          "code": "DISTRICT_MONITOR_TRAINING"
+        },
+        {
+          "name": "REGISTRATION_TEAM_TRAINING",
+          "code": "REGISTRATION_TEAM_TRAINING"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
@@ -86,16 +94,30 @@
       ],
       "DELIVERY_COMMENT_OPTIONS_POPULATOR": [
         {
+          "code": "SUCCESSFUL_DELIVERY",
+          "name": "Delivery Successful"
+        },
+        {
           "code": "INSUFFICIENT_RESOURCES",
-          "name": "INSUFFICIENT_RESOURCES"
+          "name": "Insufficient Resources"
         },
         {
           "code": "BENEFICIARY_REFUSED",
-          "name": "BENEFICIARY_REFUSED"
+          "name": "Beneficiary Refused"
         },
         {
           "code": "BENEFICIARY_ABSENT",
-          "name": "BENEFICIARY_ABSENT"
+          "name": "Beneficiary Absent"
+        }
+      ],
+      "TRANSPORT_TYPES": [
+        {
+          "code": "TRANSPORT_TYPE_1",
+          "name": "TRANSPORT_TYPE_1"
+        },
+        {
+          "code": "TRANSPORT_TYPE_2",
+          "name": "TRANSPORT_TYPE_2"
         }
       ],
       "BACKEND_INTERFACE": {
