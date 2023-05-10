@@ -4,7 +4,14 @@
   "rolesMapping": [{
     "Register": "REGISTRAR",
     "Logístico distrital": "DISTRIBUTOR",
-    "Superuser": "SUPERUSER",
-    "Distrital": "DISTRICT_SUPERVISOR"
+    "Superuser": "DHIS2_SUPERUSER",
+    "Distrital": "DISTRICT_SUPERVISOR",
+    "Registrar": "REGISTRAR",
+    "Local Monitor": "FIELD_SUPERVISOR",
+    "District Supervisor": "DISTRICT_SUPERVISOR",
+    "Supervisor": "FIELD_SUPERVISOR",
+    "Distributor": "DISTRIBUTOR",
+    "Provincial Supervisor": "PROVINCIAL_SUPERVISOR",
+    "National Supervisor": "NATIONAL_SUPERVISOR"
   }]
 }

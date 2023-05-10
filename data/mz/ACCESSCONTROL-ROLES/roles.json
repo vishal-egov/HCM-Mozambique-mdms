@@ -51,6 +51,11 @@
       "code": "WAREHOUSE_MANAGER",
       "name": "Warehouse Manager",
       "description": "Warehouse manager"
+    },
+    {
+      "code": "DHIS2_SUPERUSER",
+      "name": "Dhis2 Superuser",
+      "description": "Dhis2 Superuser"
     }
   ]
 }
