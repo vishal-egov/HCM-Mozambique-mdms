@@ -1,7 +1,7 @@
 {
   "tenantId": "mz",
   "moduleName": "HCM-MOZ-SUPERVISOR-CHECKLIST",
-  "supervisorQuestions": {
+  "supervisorQuestions": [{
     "DEV": {
       "checklistNamesMap": {
         "REGISTRATION_BASIC":  "Eyk0gAosuLH",
@@ -94,5 +94,5 @@
     },
     "QA": {},
     "UAT": {}
-  }
+  }]
 }
