@@ -58201,6 +58201,17 @@
                                                 "children": []
                                               }
                                             ]
+                                          },
+                                          {
+                                            "id": "kmtestid_11",
+                                            "boundaryNum": 6,
+                                            "name": "TEST_11",
+                                            "localname": "TEST_11",
+                                            "longitude": null,
+                                            "latitude": null,
+                                            "label": "Aldeia",
+                                            "code": "kmtestid_11",
+                                            "children": []
                                           }
                                         ]
                                       }
@@ -58270,6 +58281,17 @@
                             "children": []
                           }
                         ]
+                      },
+                      {
+                        "id": "kmtestid_11",
+                        "boundaryNum": 6,
+                        "name": "TEST_11",
+                        "localname": "TEST_11",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Aldeia",
+                        "code": "kmtestid_11",
+                        "children": []
                       }
                     ]
                   }
