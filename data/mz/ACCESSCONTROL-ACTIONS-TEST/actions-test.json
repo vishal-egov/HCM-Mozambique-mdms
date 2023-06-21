@@ -12443,6 +12443,30 @@
       "serviceCode": "hcm-moz-impl",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1655,
+      "name": "Inbox Search",
+      "url": "/inbox/v2/_search",
+      "parentModule": "inbox",
+      "displayName": "Inbox Search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "inbox",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1656,
+      "name": "Check bandwidth",
+      "url": "/project/check/bandwidth",
+      "parentModule": "project",
+      "displayName": "Check bandwidth",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
     }
   ]
 }
