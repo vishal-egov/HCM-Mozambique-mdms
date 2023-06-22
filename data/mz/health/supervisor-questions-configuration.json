@@ -7,8 +7,7 @@
         "checklistNamesMap": {
           "REGISTRATION_BASIC": "Eyk0gAosuLH",
           "LOCAL_MONITOR_TRAINING": "u8SwpaVWT4g",
-          "DISTRICT_MONITOR_TRAINING": "lKGVZrNxac5",
-          "AS_MONITORING": "lKGVZrNxac5",
+          "DISTRICT_MONITOR_TRAINING,AS_MONITORING": "lKGVZrNxac5",
           "REGISTRATION_TEAM_TRAINING": "AsYF0CXlRu0"
         },
         "checklistQuestionsMap": {
