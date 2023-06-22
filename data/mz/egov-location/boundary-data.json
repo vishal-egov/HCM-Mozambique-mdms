@@ -8,14 +8,14 @@
         "name": "ADMIN"
       },
       "boundary": {
-        "id": "mz",
+        "id": "LJX5GuypkKy",
         "boundaryNum": 1,
-        "name": "MOZAMBIQUE",
-        "localname": "MOZAMBIQUE",
+        "name": "MOÇAMBIQUE",
+        "localname": "MOÇAMBIQUE",
         "longitude": null,
         "latitude": null,
         "label": null,
-        "code": "mz",
+        "code": "Nacional",
         "children": [
           {
             "id": "UN0aH8CjbZJ",
