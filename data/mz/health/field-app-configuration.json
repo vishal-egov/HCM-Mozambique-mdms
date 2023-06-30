@@ -131,10 +131,6 @@
       ],
       "DELIVERY_COMMENT_OPTIONS_POPULATOR": [
         {
-          "code": "SUCCESSFUL_DELIVERY",
-          "name": "Entrega com sucesso"
-        },
-        {
           "code": "INSUFFICIENT_RESOURCES",
           "name": "Insuficiência de redes"
         },
