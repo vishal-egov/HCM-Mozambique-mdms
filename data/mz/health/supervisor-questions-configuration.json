@@ -3,13 +3,14 @@
   "moduleName": "HCM-MOZ-SUPERVISOR-CHECKLIST",
   "supervisorQuestions": [
     {
-      "checklistNamesMap": {
-        "REGISTRATION_BASIC": "Eyk0gAosuLH",
-        "LOCAL_MONITOR_TRAINING": "u8SwpaVWT4g",
-        "DISTRICT_MONITOR_TRAINING,AS_MONITORING": "lKGVZrNxac5",
-        "REGISTRATION_TEAM_TRAINING": "AsYF0CXlRu0"
-      },
-      "checklistQuestionsMap": {
+      "QA": {
+        "checklistNamesMap": {
+          "REGISTRATION_BASIC": "Eyk0gAosuLH",
+          "LOCAL_MONITOR_TRAINING": "u8SwpaVWT4g",
+          "DISTRICT_MONITOR_TRAINING,AS_MONITORING": "lKGVZrNxac5",
+          "REGISTRATION_TEAM_TRAINING": "AsYF0CXlRu0"
+        },
+        "checklistQuestionsMap": {
           "REGISTRATION_BASIC": {
             "NATIONAL_SUPERVISOR": {
               "qPrBdVRdOeR": "REG1",
@@ -626,6 +627,7 @@
             }
           }
         }
+      }
     }
   ]
 }
