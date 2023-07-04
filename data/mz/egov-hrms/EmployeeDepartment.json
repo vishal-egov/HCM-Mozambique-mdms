@@ -3,19 +3,55 @@
   "moduleName": "egov-hrms",
   "EmployeeDepartment": [
     {
-      "code": "NMCP",
+      "code": "Programa Nacional de Controlo da Malária",
       "active": true
     },
     {
-      "code": "TECH",
+      "code": "Departamento de Informacao para saude",
       "active": true
     },
     {
-      "code": "WAREHOUSE",
+      "code": "Departamento de Tecnologia de Informacao e Comunicacao",
       "active": true
     },
     {
-      "code": "ADM",
+      "code": "SPS",
+      "active": true
+    },
+    {
+      "code": "DPS",
+      "active": true
+    },
+    {
+      "code": "Visao Mundial",
+      "active": true
+    },
+    {
+      "code": "ADPP",
+      "active": true
+    },
+    {
+      "code": "FDC",
+      "active": true
+    },
+    {
+      "code": "FH",
+      "active": true
+    },
+    {
+      "code": "CHAI",
+      "active": true
+    },
+    {
+      "code": "eGov",
+      "active": true
+    },
+    {
+      "code": "MISAU",
+      "active": true
+    },
+    {
+      "code": "Outros",
       "active": true
     }
   ]
