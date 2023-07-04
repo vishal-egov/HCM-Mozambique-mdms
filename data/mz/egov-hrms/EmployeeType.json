@@ -11,15 +11,7 @@
       "active": true
     },
     {
-      "code": "DAILYWAGES",
-      "active": true
-    },
-    {
-      "code": "CONTRACT",
-      "active": true
-    },
-    {
-      "code": "DEPUTATION",
+      "code": "OTHERS",
       "active": true
     }
   ]

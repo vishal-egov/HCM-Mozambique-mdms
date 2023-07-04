@@ -3,32 +3,56 @@
   "moduleName": "common-masters",
   "Department": [
     {
-      "id": "1",
-      "name": "NMCP",
-      "code": "NMCP",
-      "active": true,
-      "tenantId": "mz"
+      "code": "Programa Nacional de Controlo da Malária",
+      "active": true
     },
     {
-      "id": "2",
-      "name": "TECH",
-      "code": "TECH",
-      "active": true,
-      "tenantId": "mz"
+      "code": "Departamento de Informacao para saude",
+      "active": true
     },
     {
-      "id": "3",
-      "name": "WAREHOUSE",
-      "code": "WAREHOUSE",
-      "active": true,
-      "tenantId": "mz"
+      "code": "Departamento de Tecnologia de Informacao e Comunicacao",
+      "active": true
     },
     {
-      "id": "4",
-      "name": "ADMINISTRATION",
-      "code": "ADM",
-      "active": true,
-      "tenantId": "mz"
+      "code": "SPS",
+      "active": true
+    },
+    {
+      "code": "DPS",
+      "active": true
+    },
+    {
+      "code": "Visao Mundial",
+      "active": true
+    },
+    {
+      "code": "ADPP",
+      "active": true
+    },
+    {
+      "code": "FDC",
+      "active": true
+    },
+    {
+      "code": "FH",
+      "active": true
+    },
+    {
+      "code": "CHAI",
+      "active": true
+    },
+    {
+      "code": "eGov",
+      "active": true
+    },
+    {
+      "code": "MISAU",
+      "active": true
+    },
+    {
+      "code": "Outros",
+      "active": true
     }
   ]
 }
