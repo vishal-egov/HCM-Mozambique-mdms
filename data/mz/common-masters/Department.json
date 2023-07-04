@@ -3,55 +3,94 @@
   "moduleName": "common-masters",
   "Department": [
     {
+      "id": 1,
+      "name": "Programa Nacional de Controlo da Malária",
       "code": "Programa Nacional de Controlo da Malária",
+      "tenantId": "mz",
       "active": true
     },
     {
+      "id": 2,
+      "name": "Departamento de Informacao para saude",
       "code": "Departamento de Informacao para saude",
+      "tenantId": "mz",
       "active": true
     },
     {
+      "id": 3,
+      "name": "Departamento de Tecnologia de Informacao e Comunicacao",
       "code": "Departamento de Tecnologia de Informacao e Comunicacao",
+      "tenantId": "mz",
       "active": true
     },
     {
+      "id": 4,
+      "name": "SPS",
       "code": "SPS",
+      "tenantId": "mz",
       "active": true
     },
     {
+      "id": 5,
+      "name": "DPS",
       "code": "DPS",
+      "tenantId": "mz",
       "active": true
     },
     {
+      "id": 6,
+      "name": "Visao Mundial",
       "code": "Visao Mundial",
+      "tenantId": "mz",
       "active": true
     },
     {
+      "id": 7,
+      "name": "ADPP",
       "code": "ADPP",
+      "tenantId": "mz",
       "active": true
     },
     {
+      "id": 8,
+      "name": "FDC",
       "code": "FDC",
+      "tenantId": "mz",
       "active": true
     },
     {
+      "id": 9,
+      "name": "FH",
       "code": "FH",
+      "tenantId": "mz",
       "active": true
     },
     {
+      "id": 10,
+      "name": "CHAI",
       "code": "CHAI",
+      "tenantId": "mz",
       "active": true
     },
     {
+      "id": 11,
+      "name": "eGov",
       "code": "eGov",
+      "tenantId": "mz",
       "active": true
     },
     {
+      "id": 12,
+      "name": "MISAU",
       "code": "MISAU",
+      "tenantId": "mz",
       "active": true
     },
     {
+      "id": 13,
+      "name": "Outros",
       "code": "Outros",
+      "tenantId": "mz",
       "active": true
     }
   ]
