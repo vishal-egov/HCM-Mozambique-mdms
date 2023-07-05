@@ -397,6 +397,10 @@
             }
           }
         ]
+      },
+      "FIREBASE_CONFIG": {
+        "enableCrashlytics": true,
+        "enableAnalytics": false
       }
     }
   ]
