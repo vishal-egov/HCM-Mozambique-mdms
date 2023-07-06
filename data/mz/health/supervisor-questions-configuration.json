@@ -3,7 +3,6 @@
   "moduleName": "HCM-MOZ-SUPERVISOR-CHECKLIST",
   "supervisorQuestions": [
     {
-      "QA": {
         "checklistNamesMap": {
           "REGISTRATION_BASIC": "Eyk0gAosuLH",
           "LOCAL_MONITOR_TRAINING": "u8SwpaVWT4g",
@@ -627,7 +626,6 @@
             }
           }
         }
-      }
     }
   ]
 }
