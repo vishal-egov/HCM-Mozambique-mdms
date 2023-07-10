@@ -52,6 +52,14 @@
         {
           "name": "AS_MONITORING",
           "code": "AS_MONITORING"
+        },
+        {
+          "name": "MATERIAL_RECEIVED",
+          "code": "MATERIAL_RECEIVED"
+        },
+        {
+          "name": "MATERIAL_ISSUED",
+          "code": "MATERIAL_ISSUED"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
