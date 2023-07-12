@@ -3,15 +3,15 @@
   "moduleName": "egov-hrms",
   "EmployeeDepartment": [
     {
-      "code": "Programa Nacional de Controlo da Malária",
+      "code": "NMCP",
       "active": true
     },
     {
-      "code": "Departamento de Informacao para saude",
+      "code": "DIH",
       "active": true
     },
     {
-      "code": "Departamento de Tecnologia de Informacao e Comunicacao",
+      "code": "DICT",
       "active": true
     },
     {
@@ -51,7 +51,7 @@
       "active": true
     },
     {
-      "code": "Outros",
+      "code": "OTHER",
       "active": true
     }
   ]
