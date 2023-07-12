@@ -56,7 +56,7 @@
       "serviceCode": "Other",
       "name": "Other",
       "keywords": "other",
-      "department": "ADM",
+      "department": "OTHER",
       "slaHours": 336,
       "menuPath": "Sync",
       "active": true,
