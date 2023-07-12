@@ -1,0 +1,51 @@
+{
+  "tenantId": "mz",
+  "moduleName": "HCM-MOZ-DIGIT-DHIS2-MAPPING",
+  "mappings": [
+    {
+      "forms": {
+        "HOUSEHOLD_REGISTRATION_FORM": "P6Ao4EXYTUB",
+        "COMMUNITY_WAREHOUSE_ENTRY": "ZhBeAo3zmBN",
+        "COMMUNITY_WAREHOUSE_EXIT": "oABebnKKEbf",
+        "DISTRICT_WAREHOUSE_ENTRY": "giWx8TEtKkh",
+        "DISTRICT_WAREHOUSE_EXIT": "ExowpeRp6bN",
+        "COMMUNITY_WAREHOUSE_PHYSICAL_COUNT": "nD5HVnfuujI",
+        "DISTRICT_WAREHOUSE_PHYSICAL_COUNT": "n4uZj43wVz4"
+      },
+      "dataElements": {
+        "ENTRY_QUANTITY": "ag9mpddhaJM",
+        "ENTRY_TRANSACTION_TYPE": "XVWaWiWnYdr",
+        "ENTRY_ORIGIN_FACILITY": "QtCPjXttcHS",
+        "ENTRY_DISTRICT_WAREHOUSE": "fJ8P0Cjh56m",
+        "ENTRY_COMMENT": "YtXz3D5wo0a",
+        "ENTRY_VEHICLE_NO_OR_TRANSPORT_TYPE": "g1o7LvGXTHQ",
+        "ENTRY_WAYBILL_NO": "jzQj6m6bGXP",
+        "EXIT_QUANTITY": "NcCwb6DJyQi",
+        "EXIT_DEST_FACILITY_1": "Vdl3V1908iY",
+        "ENTRY_INDICATED_QUANTITY": "rI94BFq4mST",
+        "EXIT_INDICATED_QUANTITY": "mpDzcdW1J41",
+        "EXIT_DISTRICT_WAREHOUSE": "xIfs0JpDzPk",
+        "EXIT_IDENTIFICATION_WAREHOUSE": "Hv40u95wstH",
+        "EXIT_COMMENT": "fVwwVz7QAN4",
+        "EXIT_VEHICLE_NO_OR_TRANSPORT_TYPE": "M5PUTJFEKd7",
+        "EXIT_WAYBILL_NO": "E8NKt6P15MP",
+        "PHY_COUNT_COMMENT": "bvvFhtZXfNj",
+        "PHY_COUNT_NO_OF_OPENED_BEDNETS": "VUs4UZnj7az",
+        "PHY_COUNT_DISTRICT_WAREHOUSE": "j1tb8u9fUj9",
+        "PHY_COUNT_NO_OF_UNOPENED_BUNDLES": "KsoKgfot0s3",
+        "PHY_COUNT_TOTAL_RTI": "N6Rs8uKpZ55",
+        "PHY_COUNT_IDENTIFICATION_WAREHOUSE": "hDqqFi2cmoP",
+        "AC_ENTRY_ORIGIN_FACILITY": "bL3QqMf8s0P",
+        "ENTRY_COMMUNITY_WAREHOUSE": "PrDMzejVNAY",
+        "EXIT_DEST_FACILITY_2": "TIzRl8JUlTl",
+        "EXIT_COMMUNITY_WAREHOUSE": "C6JGvFxxPAy",
+
+        "NUMBER_OF_HOUSEHOLD_MEMBERS": "cXv7zPezFqb",
+        "NUMBER_OF_BEDNETS_DISTRIBUTED": "hrGkE5VhQSi",
+        "NUMBER_OF_BEDNETS_TO_ASSIGN": "RUZzbtAyOOr",
+        "HEAD_OF_HOUSEHOLD": "vJAJ2rg8iwU",
+        "DELIVERY_COMMENT": "TSdOMFd8ipo"
+      }
+    }
+  ]
+}
