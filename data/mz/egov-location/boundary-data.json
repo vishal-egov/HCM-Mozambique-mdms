@@ -115,7 +115,30 @@
                         "latitude": null,
                         "label": "Localidade",
                         "code": "kmtestid_9",
-                        "children": []
+                        "children": [
+                          {
+                            "id": "kmtestid_10",
+                            "boundaryNum": 6,
+                            "name": "TEST_10",
+                            "localname": "TEST_10",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_10",
+                            "children": []
+                          },
+                          {
+                            "id": "kmtestid_11",
+                            "boundaryNum": 6,
+                            "name": "TEST_11",
+                            "localname": "TEST_11",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_11",
+                            "children": []
+                          }
+                        ]
                       }
                     ]
                   }
