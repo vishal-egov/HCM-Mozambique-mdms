@@ -8,14 +8,14 @@
         "name": "ADMIN"
       },
       "boundary": {
-        "id": "kmtestid_0",
+        "id": "mz",
         "boundaryNum": 1,
         "name": "TEST_0",
         "localname": "TEST_0",
         "longitude": null,
         "latitude": null,
         "label": "Nacional",
-        "code": "kmtestid_0",
+        "code": "mz",
         "children": [
           {
             "id": "kmtestid_1",
@@ -115,30 +115,7 @@
                         "latitude": null,
                         "label": "Localidade",
                         "code": "kmtestid_9",
-                        "children": [
-                          {
-                            "id": "kmtestid_10",
-                            "boundaryNum": 6,
-                            "name": "TEST_10",
-                            "localname": "TEST_10",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "kmtestid_10",
-                            "children": []
-                          },
-                          {
-                            "id": "kmtestid_11",
-                            "boundaryNum": 6,
-                            "name": "TEST_11",
-                            "localname": "TEST_11",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "kmtestid_11",
-                            "children": []
-                          }
-                        ]
+                        "children": []
                       }
                     ]
                   }
