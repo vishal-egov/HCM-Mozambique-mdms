@@ -14,7 +14,10 @@
           "LOCAL_MONITOR_TRAINING": "nSI9BQ1Hw8K",
           "DISTRICT_MONITOR_TRAINING": "OFgAIkK5Wtu",
           "REGISTRATION_TEAM_TRAINING": "rkp35y7lQks",
-          "AS_MONITORING": "OFgAIkK5Wtu"
+          "AS_MONITORING": "OFgAIkK5Wtu",
+          "NATIONAL_SUPERVISOR": "Nacional",
+          "PROVINCIAL_SUPERVISOR": "Provincial",
+          "DISTRICT_SUPERVISOR": "Distrito"
         },
         "checklistQuestionsMap": {
           "REGISTRATION_BASIC": {
