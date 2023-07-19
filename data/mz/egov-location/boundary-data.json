@@ -69,17 +69,6 @@
                             "children": []
                           },
                           {
-                            "id": "test_id_6",
-                            "boundaryNum": 6,
-                            "name": "Tumul_1",
-                            "localname": "Tumul_1",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "test_id_6",
-                            "children": []
-                          },
-                          {
                             "id": "test_id_7",
                             "boundaryNum": 6,
                             "name": "Tumul_1",
@@ -113,6 +102,17 @@
                             "children": []
                           }
                         ]
+                      },
+                      {
+                        "id": "test_id_6",
+                        "boundaryNum": 5,
+                        "name": "Tumul_1",
+                        "localname": "Tumul_1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "test_id_6",
+                        "children": []
                       }
                     ]
                   }
