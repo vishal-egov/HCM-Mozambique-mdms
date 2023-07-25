@@ -9,6 +9,16 @@
           "DISTRICT_MONITOR_TRAINING,AS_MONITORING": "lKGVZrNxac5",
           "REGISTRATION_TEAM_TRAINING": "AsYF0CXlRu0"
         },
+        "roles": {
+          "REGISTRATION_BASIC": "RiUUfZajnyt",
+          "LOCAL_MONITOR_TRAINING": "nSI9BQ1Hw8K",
+          "DISTRICT_MONITOR_TRAINING": "OFgAIkK5Wtu",
+          "REGISTRATION_TEAM_TRAINING": "rkp35y7lQks",
+          "AS_MONITORING": "OFgAIkK5Wtu",
+          "NATIONAL_SUPERVISOR": "Nacional",
+          "PROVINCIAL_SUPERVISOR": "Provincial",
+          "DISTRICT_SUPERVISOR": "Distrito"
+        },
         "checklistQuestionsMap": {
           "REGISTRATION_BASIC": {
             "NATIONAL_SUPERVISOR": {
@@ -26,7 +36,7 @@
               "otYsbNLlVYg": "REG6.ADDITIONAL_FIELD",
               "sk2ko8FEIIG": "REG7",
               "jYS3ALZsQk8": "REG7.ADDITIONAL_FIELD",
-              "NsCTjjFarE2": "REG8",
+              "uODdCCsVBwF": "REG8",
               "ZR3s9afxBk0": "REG9",
               "Q4D5A6Rx9JE": "REG10",
               "Snsb0CPCQbO": "REG11",
@@ -59,29 +69,7 @@
               "a6TlYfoXHH5": "REG6",
               "otYsbNLlVYg": "REG6.ADDITIONAL_FIELD",
               "xF6XphLrBzA": "REG7",
-              "jYS3ALZsQk8": "REG7.ADDITIONAL_FIELD",
-              "gvjjkDkO7Fx": "REG8",
-              "xsAX1V1KJdQ": "REG9",
-              "sk2ko8FEIIG": "REG10",
-              "NsCTjjFarE2": "REG11",
-              "ZR3s9afxBk0": "REG12",
-              "Q4D5A6Rx9JE": "REG13",
-              "Snsb0CPCQbO": "REG14",
-              "HAbcI8DT3ye": "REG15",
-              "m01LILxXXxd": "REG16",
-              "gZPyBbUpKUB": "REG17",
-              "rzdQSP27mi1": "REG18",
-              "fUf1D2Ra1vo": "REG19",
-              "lhdSnhvLdi2": "REG20",
-              "StaJUzZDOJR": "REG21",
-              "Mht8ORiLUy1": "REG22",
-              "dncWESUMEyP": "REG23",
-              "o5mYc0W4Rk0": "REG24",
-              "s2E1jWpnhjA": "REG25",
-              "BxMJRPAK69t": "REG26",
-              "flbDgIbR217": "REG27",
-              "xoBgKK9UtTJ": "REG28",
-              "DcyuOEEY0sK": "REG29"
+              "jYS3ALZsQk8": "REG7.ADDITIONAL_FIELD"
             },
             "DISTRICT_SUPERVISOR": {
               "RdDIItgTiyI": "REG1",
@@ -97,29 +85,7 @@
               "a6TlYfoXHH5": "REG6",
               "otYsbNLlVYg": "REG6.ADDITIONAL_FIELD",
               "xF6XphLrBzA": "REG7",
-              "jYS3ALZsQk8": "REG7.ADDITIONAL_FIELD",
-              "gvjjkDkO7Fx": "REG8",
-              "xsAX1V1KJdQ": "REG9",
-              "sk2ko8FEIIG": "REG10",
-              "NsCTjjFarE2": "REG11",
-              "ZR3s9afxBk0": "REG12",
-              "Q4D5A6Rx9JE": "REG13",
-              "Snsb0CPCQbO": "REG14",
-              "HAbcI8DT3ye": "REG15",
-              "m01LILxXXxd": "REG16",
-              "gZPyBbUpKUB": "REG17",
-              "rzdQSP27mi1": "REG18",
-              "fUf1D2Ra1vo": "REG19",
-              "lhdSnhvLdi2": "REG20",
-              "StaJUzZDOJR": "REG21",
-              "Mht8ORiLUy1": "REG22",
-              "dncWESUMEyP": "REG23",
-              "o5mYc0W4Rk0": "REG24",
-              "s2E1jWpnhjA": "REG25",
-              "BxMJRPAK69t": "REG26",
-              "flbDgIbR217": "REG27",
-              "xoBgKK9UtTJ": "REG28",
-              "DcyuOEEY0sK": "REG29"
+              "jYS3ALZsQk8": "REG7.ADDITIONAL_FIELD"
             }
           },
           "LOCAL_MONITOR_TRAINING": {
