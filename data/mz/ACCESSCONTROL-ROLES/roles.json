@@ -63,6 +63,11 @@
       "description": "Employee who can raise complaint"
     },
     {
+      "code": "CITIZEN",
+      "name": "Citizen",
+      "description": "Citizen who can raise complaint"
+    },
+    {
       "code": "PGR-ADMIN",
       "name": "PGR Administrator",
       "description": "Admin role that has super access over the system"
