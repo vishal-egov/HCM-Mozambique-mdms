@@ -58,9 +58,9 @@
       "description": "Internal role for plain access"
     },
     {
-      "code": "CITIZEN",
-      "name": "Citizen",
-      "description": "Citizen who can raise complaint"
+      "code": "EMPLOYEE",
+      "name": "Employee",
+      "description": "Employee who can raise complaint"
     },
     {
       "code": "PGR-ADMIN",
