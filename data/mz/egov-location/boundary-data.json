@@ -27,6 +27,17 @@
             "label": "Provincia",
             "code": "f5F6xAskA05",
             "children": [
+            {
+                "id": "KKsaYjfQH5n",
+                "boundaryNum": 3,
+                "name": "ENT PS CIDADE NAMPULA",
+                "localname": "ENT PS CIDADE NAMPULA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "KKsaYjfQH5n",
+                "children": []
+              },
               {
                 "id": "Svefewg4YCb",
                 "boundaryNum": 3,
