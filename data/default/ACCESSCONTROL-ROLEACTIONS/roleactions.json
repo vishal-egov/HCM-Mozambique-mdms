@@ -15573,6 +15573,66 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 1635,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1636,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1637,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1638,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1639,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1635,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1636,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1637,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1638,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1639,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1640,
       "actioncode": "",
