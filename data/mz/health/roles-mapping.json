@@ -24,8 +24,8 @@
     "Supervisor Provincial group": "SUPERVISOR,PROVINCIAL_SUPERVISOR",
     "National Supervisor": "SUPERVISOR,NATIONAL_SUPERVISOR",
     "Supervisor Nacional group": "SUPERVISOR,NATIONAL_SUPERVISOR",
-    "Monitor Local": "SUPERVISOR,FIELD_SUPERVISOR",
-    "Local Monitor": "SUPERVISOR,FIELD_SUPERVISOR",
+    "Monitor Local": "WAREHOUSE_MANAGER",
+    "Local Monitor": "WAREHOUSE_MANAGER",
     "Monitor Local group": "SUPERVISOR,FIELD_SUPERVISOR"
   }]
 }
