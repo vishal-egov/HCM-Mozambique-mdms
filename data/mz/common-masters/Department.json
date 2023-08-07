@@ -4,22 +4,22 @@
   "Department": [
     {
       "id": 1,
-      "name": "Programa Nacional de Controlo da Malária",
-      "code": "Programa Nacional de Controlo da Malária",
+      "name": "NMCP",
+      "code": "NMCP",
       "tenantId": "mz",
       "active": true
     },
     {
       "id": 2,
-      "name": "Departamento de Informacao para saude",
-      "code": "Departamento de Informacao para saude",
+      "name": "DHI",
+      "code": "DHI",
       "tenantId": "mz",
       "active": true
     },
     {
       "id": 3,
-      "name": "Departamento de Tecnologia de Informacao e Comunicacao",
-      "code": "Departamento de Tecnologia de Informacao e Comunicacao",
+      "name": "DICT",
+      "code": "DICT",
       "tenantId": "mz",
       "active": true
     },
@@ -88,8 +88,8 @@
     },
     {
       "id": 13,
-      "name": "Outros",
-      "code": "Outros",
+      "name": "OTHER",
+      "code": "OTHER",
       "tenantId": "mz",
       "active": true
     }

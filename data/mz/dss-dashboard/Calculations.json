@@ -770,6 +770,19 @@
                   }
                 ]
               },
+              {"cardName":  "DSS_CALCULATION_REGISTRATION_AND_DELIVERY_UNCOVERED_POPULATION_CHART",
+                "calculation": [
+                  {
+                    "para": "DSS_CALCULATION_REGISTRATION_AND_DELIVERY_UNCOVERED_POPULATION_CHART_ONE"
+                  },
+                  {
+                    "para": "DSS_CALCULATION_REGISTRATION_AND_DELIVERY_UNCOVERED_POPULATION_CHART_TWO"
+                  },
+                  {
+                    "para": "DSS_CALCULATION_REGISTRATION_AND_DELIVERY_UNCOVERED_POPULATION_CHART_THREE"
+                  }
+                ]
+              },
               {
                 "cardName": "DSS_CALCULATION_REGISTRATION_AND_DELIVERY_SUMMARY_REPORT",
                 "subCalculation": [
