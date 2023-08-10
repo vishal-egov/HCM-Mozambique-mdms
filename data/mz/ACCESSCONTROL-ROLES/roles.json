@@ -58,6 +58,11 @@
       "description": "Internal role for plain access"
     },
     {
+      "code": "EMPLOYEE",
+      "name": "Employee",
+      "description": "Employee who can raise complaint"
+    },
+    {
       "code": "CITIZEN",
       "name": "Citizen",
       "description": "Citizen who can raise complaint"
@@ -86,6 +91,11 @@
       "code": "CSR",
       "name": "CSR",
       "description": "CSR"
+    },
+    {
+      "code": "DHIS2_SUPERUSER",
+      "name": "DHIS2 SUPERUSER",
+      "description": "DHIS2 Superuser"
     }
   ]
 }
