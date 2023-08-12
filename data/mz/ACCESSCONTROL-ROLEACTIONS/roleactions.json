@@ -16217,6 +16217,18 @@
       "actionid": 701,
       "actioncode": "",
       "tenantid": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1657,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1657,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
