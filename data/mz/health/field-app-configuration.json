@@ -10,7 +10,7 @@
       "TENANT_ID": "mz",
       "BACKGROUND_SERVICE_CONFIG": {
         "BATTERY_PERCENT_CUT_OFF": 10,
-        "SERVICE_INTERVAL": 600,
+        "SERVICE_INTERVAL": 300,
         "API_CONCURRENCY": 2
       },
       "BANDWIDTH_BATCH_SIZE": [
