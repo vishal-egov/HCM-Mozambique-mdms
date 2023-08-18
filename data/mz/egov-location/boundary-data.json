@@ -18,6 +18,194 @@
         "code": "mz",
         "children": [
           {
+            "id": "cai3Uyc1ngZ",
+            "boundaryNum": 2,
+            "name": "NIASSA",
+            "localname": "NIASSA",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "cai3Uyc1ngZ",
+            "children": [
+              {
+                "id": "Vp36IxsEhbT",
+                "boundaryNum": 3,
+                "name": "NIPEPE",
+                "localname": "NIPEPE",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "Vp36IxsEhbT",
+                "children": []
+              },
+              {
+                "id": "Oby3S4v0e1o",
+                "boundaryNum": 3,
+                "name": "CUAMBA",
+                "localname": "CUAMBA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "Oby3S4v0e1o",
+                "children": []
+              },
+              {
+                "id": "W1KuMwvUNMC",
+                "boundaryNum": 3,
+                "name": "LAGO",
+                "localname": "LAGO",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "W1KuMwvUNMC",
+                "children": []
+              },
+              {
+                "id": "IwQ2WtLMSaQ",
+                "boundaryNum": 3,
+                "name": "METARICA",
+                "localname": "METARICA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "IwQ2WtLMSaQ",
+                "children": []
+              },
+              {
+                "id": "bu2BpgLCoit",
+                "boundaryNum": 3,
+                "name": "NGAÚMA",
+                "localname": "NGAÚMA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "bu2BpgLCoit",
+                "children": []
+              },
+              {
+                "id": "U0VmZ8BAd2F",
+                "boundaryNum": 3,
+                "name": "MUEMBE",
+                "localname": "MUEMBE",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "U0VmZ8BAd2F",
+                "children": []
+              },
+              {
+                "id": "gPwDw935I9u",
+                "boundaryNum": 3,
+                "name": "MANDIMBA",
+                "localname": "MANDIMBA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "gPwDw935I9u",
+                "children": []
+              },
+              {
+                "id": "PchXHKQ4byb",
+                "boundaryNum": 3,
+                "name": "CHIMBONILA",
+                "localname": "CHIMBONILA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "PchXHKQ4byb",
+                "children": []
+              },
+              {
+                "id": "SuN2FHZvWv9",
+                "boundaryNum": 3,
+                "name": "MAÚA",
+                "localname": "MAÚA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "SuN2FHZvWv9",
+                "children": []
+              },
+              {
+                "id": "g5PYAjWzgZ2",
+                "boundaryNum": 3,
+                "name": "MARRUPA",
+                "localname": "MARRUPA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "g5PYAjWzgZ2",
+                "children": []
+              },
+              {
+                "id": "lV1G1YhhUy5",
+                "boundaryNum": 3,
+                "name": "MAJUNE",
+                "localname": "MAJUNE",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "lV1G1YhhUy5",
+                "children": []
+              },
+              {
+                "id": "PGlN17gyLnW",
+                "boundaryNum": 3,
+                "name": "MECANHELAS",
+                "localname": "MECANHELAS",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "PGlN17gyLnW",
+                "children": []
+              },
+              {
+                "id": "ZwbZOYrt2fd",
+                "boundaryNum": 3,
+                "name": "SANGA",
+                "localname": "SANGA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "ZwbZOYrt2fd",
+                "children": []
+              },
+              {
+                "id": "QTN8DtvjQ3o",
+                "boundaryNum": 3,
+                "name": "DISTRITO DE LICHINGA",
+                "localname": "DISTRITO DE LICHINGA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "QTN8DtvjQ3o",
+                "children": []
+              },
+              {
+                "id": "z48kI3RuLS9",
+                "boundaryNum": 3,
+                "name": "MECULA",
+                "localname": "MECULA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "z48kI3RuLS9",
+                "children": []
+              },
+              {
+                "id": "m1cvxdj4TNO",
+                "boundaryNum": 3,
+                "name": "MAVAGO",
+                "localname": "MAVAGO",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "m1cvxdj4TNO",
+                "children": []
+              }
+            ]
+          },
+          {
             "id": "123456",
             "boundaryNum": 2,
             "name": "TETE",
