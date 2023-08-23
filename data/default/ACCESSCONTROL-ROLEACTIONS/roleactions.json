@@ -14199,12 +14199,6 @@
       "tenantId": "default"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 1980,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
       "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1555,
       "actioncode": "",
