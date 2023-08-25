@@ -167,6 +167,10 @@
         {
           "code": "TRANSPORT_TYPE_5",
           "name": "Motorizadas"
+        },
+        {
+          "code": "TRANSPORT_TYPE_6",
+          "name": "Em mão"
         }
       ],
       "BACKEND_INTERFACE": {
