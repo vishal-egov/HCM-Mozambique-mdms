@@ -4954,6 +4954,17 @@
                             "label": "Aldeia",
                             "code": "VeFSixj3yFfFLTxSYtUwKY",
                             "children": []
+                          },
+                          {
+                            "id": "LUUb5Rt7vKzoggKaymsdov",
+                            "boundaryNum": 6,
+                            "name": "Casos Especiais",
+                            "localname": "Casos Especiais",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "LUUb5Rt7vKzoggKaymsdov",
+                            "children": []
                           }
                         ]
                       }
@@ -11656,17 +11667,6 @@
                         "code": "3FTbqMfxpgniBBaZ9JRQYY",
                         "children": [
                           {
-                            "id": "Vo42xJ3LFs4wafrcx5y2Lm",
-                            "boundaryNum": 6,
-                            "name": "Doa Sede",
-                            "localname": "Doa Sede",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "Vo42xJ3LFs4wafrcx5y2Lm",
-                            "children": []
-                          },
-                          {
                             "id": "eLDZmvU2Xca2ADUgbK9qu6",
                             "boundaryNum": 6,
                             "name": "januario",
@@ -12149,6 +12149,72 @@
                             "label": "Aldeia",
                             "code": "jBx6Xw9qYsgYXHXVDbVDUh",
                             "children": []
+                          },
+                          {
+                            "id": "Vo42xJ3LFs4wafrcx5y2Lm",
+                            "boundaryNum": 6,
+                            "name": "Bairro  Guebuza",
+                            "localname": "Bairro  Guebuza",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "Vo42xJ3LFs4wafrcx5y2Lm",
+                            "children": []
+                          },
+                          {
+                            "id": "kKoLkGe3HGnQtDnE2APN2q",
+                            "boundaryNum": 6,
+                            "name": "Bairro Joaquim Chissano",
+                            "localname": "Bairro Joaquim Chissano",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kKoLkGe3HGnQtDnE2APN2q",
+                            "children": []
+                          },
+                          {
+                            "id": "TGurytBNgxQN6Szjzwkt96",
+                            "boundaryNum": 6,
+                            "name": "Bairro Eduardo Mondlane",
+                            "localname": "Bairro Eduardo Mondlane",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "TGurytBNgxQN6Szjzwkt96",
+                            "children": []
+                          },
+                          {
+                            "id": "UKGbUT3qxJJxaX7XSVgC8r",
+                            "boundaryNum": 6,
+                            "name": "B airro Samora Machel",
+                            "localname": "B airro Samora Machel",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "UKGbUT3qxJJxaX7XSVgC8r",
+                            "children": []
+                          },
+                          {
+                            "id": "aezGkAPvNsjrfKgwn2e2R9",
+                            "boundaryNum": 6,
+                            "name": "Bairro Josina Machel1",
+                            "localname": "Bairro Josina Machel1",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "aezGkAPvNsjrfKgwn2e2R9",
+                            "children": []
+                          },
+                          {
+                            "id": "cdvKP2t4HKPaTytQqZpmfH",
+                            "boundaryNum": 6,
+                            "name": "Bairro Josina Machel2",
+                            "localname": "Bairro Josina Machel2",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "cdvKP2t4HKPaTytQqZpmfH",
+                            "children": []
                           }
                         ]
                       },
@@ -12513,6 +12579,28 @@
                             "label": "Aldeia",
                             "code": "oCtC54xsaMTVKxnC9oWhoc",
                             "children": []
+                          },
+                          {
+                            "id": "Q3BiTmqywgP7XZNBUZRfes",
+                            "boundaryNum": 6,
+                            "name": "Traquete",
+                            "localname": "Traquete",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "Q3BiTmqywgP7XZNBUZRfes",
+                            "children": []
+                          },
+                          {
+                            "id": "Y6WANPdXX7eAboXVjnWrxG",
+                            "boundaryNum": 6,
+                            "name": "Phunzu",
+                            "localname": "Phunzu",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "Y6WANPdXX7eAboXVjnWrxG",
+                            "children": []
                           }
                         ]
                       }
@@ -12538,17 +12626,6 @@
                         "label": "Localidade",
                         "code": "Yxu6T6En36wCPnrwrU5rHz",
                         "children": [
-                          {
-                            "id": "fmMkrkJkuu8Ree4tE3wBtC",
-                            "boundaryNum": 6,
-                            "name": "Chueza Sede",
-                            "localname": "Chueza Sede",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "fmMkrkJkuu8Ree4tE3wBtC",
-                            "children": []
-                          },
                           {
                             "id": "WSs7w9BMHcxpA4nJcsta4d",
                             "boundaryNum": 6,
@@ -13108,6 +13185,50 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "iHstauXDbkB5PaXQ2ZjZv3",
+                            "children": []
+                          },
+                          {
+                            "id": "fmMkrkJkuu8Ree4tE3wBtC",
+                            "boundaryNum": 6,
+                            "name": "Matsikitsiki",
+                            "localname": "Matsikitsiki",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "fmMkrkJkuu8Ree4tE3wBtC",
+                            "children": []
+                          },
+                          {
+                            "id": "EMWhtgsoQ53u6YSU9Sij2i",
+                            "boundaryNum": 6,
+                            "name": "Bairro Central",
+                            "localname": "Bairro Central",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "EMWhtgsoQ53u6YSU9Sij2i",
+                            "children": []
+                          },
+                          {
+                            "id": "98eqYn9JCqrjcKi5ZLUMTc",
+                            "boundaryNum": 6,
+                            "name": "Bairro Sanjoa",
+                            "localname": "Bairro Sanjoa",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "98eqYn9JCqrjcKi5ZLUMTc",
+                            "children": []
+                          },
+                          {
+                            "id": "56m5eT8sfMDQjeh7JhNHmZ",
+                            "boundaryNum": 6,
+                            "name": "Bairro Guebuza",
+                            "localname": "Bairro Guebuza",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "56m5eT8sfMDQjeh7JhNHmZ",
                             "children": []
                           }
                         ]
