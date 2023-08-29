@@ -1292,20 +1292,6 @@
                     ]
                   },
                   {
-                    "heading": "DSS_CALCULATION_INVENTORY_SUMMARY_REPORT_NETS_RETURNED",
-                    "cals": [
-                      {
-                        "para": "DSS_CALCULATION_INVENTORY_SUMMARY_REPORT_NETS_RETURNED_ONE"
-                      },
-                      {
-                        "para": "DSS_CALCULATION_INVENTORY_SUMMARY_REPORT_NETS_RETURNED_TWO"
-                      },
-                      {
-                        "para": "DSS_CALCULATION_INVENTORY_SUMMARY_REPORT_NETS_RETURNED_THREE"
-                      }
-                    ]
-                  },
-                  {
                     "heading": "DSS_CALCULATION_INVENTORY_SUMMARY_REPORT_NETS_IN_STOCK",
                     "cals": [
                       {
