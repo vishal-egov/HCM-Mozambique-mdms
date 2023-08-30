@@ -53,6 +53,11 @@
       "description": "Warehouse manager"
     },
     {
+      "code": "LOCAL_MONITOR",
+      "name": "Local Monitor",
+      "description": "Local Monitor"
+    },
+    {
       "code": "INTERNAL_MICROSERVICE_ROLE",
       "name": "Internal Microservice Role",
       "description": "Internal role for plain access"
