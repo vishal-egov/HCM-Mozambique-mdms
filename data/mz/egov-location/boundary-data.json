@@ -18,17 +18,6 @@
         "code": "mz",
         "children": [
           {
-            "id": "1234567",
-            "boundaryNum": 2,
-            "name": "TETE Block 2",
-            "localname": "TETE Block 2",
-            "longitude": null,
-            "latitude": null,
-            "label": "Provincia",
-            "code": "1234567",
-            "children": []
-          },
-          {
             "id": "7654321",
             "boundaryNum": 2,
             "name": "TETE Block 2",
