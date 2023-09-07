@@ -87,6 +87,10 @@
         {
           "name": "MATERIAL_ISSUED",
           "code": "MATERIAL_ISSUED"
+        },
+        {
+          "name": "SOCIAL_MOBILIZATION",
+          "code": "SOCIAL_MOBILIZATION"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
