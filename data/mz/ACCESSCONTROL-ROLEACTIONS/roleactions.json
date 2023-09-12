@@ -16825,25 +16825,7 @@
       "tenantid": "mz"
     },
     {
-      "rolecode": "LOCAL_MONITOR",
-      "actionid": 1668,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "WAREHOUSE_MANAGER",
-      "actionid": 1668,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "DISTRIBUTOR",
-      "actionid": 1668,
-      "actioncode": "",
-      "tenantid": "mz"
-    },
-    {
-      "rolecode": "SUPERVISOR",
+      "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1668,
       "actioncode": "",
       "tenantid": "mz"
