@@ -20,8 +20,8 @@
           {
             "id": "7654321",
             "boundaryNum": 2,
-            "name": "tete block 2",
-            "localname": "tete block 2",
+            "name": "tete bloco 2",
+            "localname": "tete bloco 2",
             "longitude": null,
             "latitude": null,
             "label": "Provincia",
@@ -31743,8 +31743,8 @@
           {
             "id": "123456",
             "boundaryNum": 2,
-            "name": "TETE",
-            "localname": "TETE",
+            "name": "tete bloco 1",
+            "localname": "tete bloco 1",
             "longitude": null,
             "latitude": null,
             "label": "Provincia",
