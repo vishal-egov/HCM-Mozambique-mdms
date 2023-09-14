@@ -31611,8 +31611,8 @@
           {
             "id": "123456",
             "boundaryNum": 2,
-            "name": "TETE",
-            "localname": "TETE",
+            "name": "tete bloco 1",
+            "localname": "tete bloco 1",
             "longitude": null,
             "latitude": null,
             "label": "Provincia",
