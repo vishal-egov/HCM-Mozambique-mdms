@@ -25136,29 +25136,6 @@
                         ]
                       }
                     ]
-                  },
-                  {
-                    "id": "SYJXUgbgsrNqNvTqc2ggHn",
-                    "boundaryNum": 4,
-                    "name": "matenje",
-                    "localname": "matenje",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Posto Administrativo",
-                    "code": "SYJXUgbgsrNqNvTqc2ggHn",
-                    "children": [
-                      {
-                        "id": "H6SBUCWWy7BJRbcH7q6YqJ",
-                        "boundaryNum": 5,
-                        "name": "matenje",
-                        "localname": "matenje",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Localidade",
-                        "code": "H6SBUCWWy7BJRbcH7q6YqJ",
-                        "children": []
-                      }
-                    ]
                   }
                 ]
               },
@@ -36423,17 +36400,6 @@
                         ]
                       }
                     ]
-                  },
-                  {
-                    "id": "QzoEyohQrsda2qYY8VHXS5",
-                    "boundaryNum": 4,
-                    "name": "ntengo wa mbalane",
-                    "localname": "ntengo wa mbalane",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Posto Administrativo",
-                    "code": "QzoEyohQrsda2qYY8VHXS5",
-                    "children": []
                   }
                 ]
               },
@@ -40786,28 +40752,6 @@
                         ]
                       }
                     ]
-                  },
-                  {
-                    "id": "6tUacnKAZpVidfTcgP2ZAL",
-                    "boundaryNum": 4,
-                    "name": "muladzi",
-                    "localname": "muladzi",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Posto Administrativo",
-                    "code": "6tUacnKAZpVidfTcgP2ZAL",
-                    "children": []
-                  },
-                  {
-                    "id": "K7jZzVAZ2bBTr5kqR2RJrb",
-                    "boundaryNum": 4,
-                    "name": "mualdzi",
-                    "localname": "mualdzi",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Posto Administrativo",
-                    "code": "K7jZzVAZ2bBTr5kqR2RJrb",
-                    "children": []
                   }
                 ]
               },
