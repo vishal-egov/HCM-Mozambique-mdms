@@ -3,16 +3,12 @@
     "moduleName": "HCM-PROJECT-STAFF-ROLES",
     "projectStaffRoles": [
         {
-            "roles": [
-                {
-                    "code": "DISTRIBUTOR",
-                    "rank": 1
-                },
-                {
-                    "code": "WAREHOUSE_MANAGER",
-                    "rank": 2
-                }
-            ]
+            "code": "DISTRIBUTOR",
+            "rank": 1
+        },
+        {
+            "code": "WAREHOUSE_MANAGER",
+            "rank": 2
         }
     ]
 }
