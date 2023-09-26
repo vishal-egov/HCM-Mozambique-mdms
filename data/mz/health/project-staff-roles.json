@@ -1,7 +1,7 @@
 {
     "tenantId": "mz",
     "module": "HCM-PROJECT-STAFF-ROLES",
-    "projectStaffRoles":[
+    "appConfig":[
         {
             "roles": [
                 "DISTRIBUTOR",
