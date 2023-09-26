@@ -1,0 +1,12 @@
+{
+    "tenantId": "mz",
+    "module": "HCM-PROJECT-STAFF-ROLES",
+    "appConfig":[
+        {
+            "roles": [
+                "DISTRIBUTOR",
+                "WAREHOUSE_MANAGER"
+            ]
+        }
+    ]
+}
