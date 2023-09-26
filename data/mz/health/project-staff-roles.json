@@ -4,8 +4,14 @@
     "projectStaffRoles": [
         {
             "roles": [
-                "DISTRIBUTOR",
-                "WAREHOUSE_MANAGER"
+                {
+                    "code": "DISTRIBUTOR",
+                    "rank": 1
+                },
+                {
+                    "code": "WAREHOUSE_MANAGER",
+                    "rank": 2
+                }
             ]
         }
     ]
