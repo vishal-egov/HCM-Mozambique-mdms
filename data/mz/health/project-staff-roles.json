@@ -4,8 +4,8 @@
     "appConfig":[
         {
             "roles": [
-                "DISTRIBUTER",
-                "SUPERVISOR"
+                "DISTRIBUTOR",
+                "WAREHOUSE_MANAGER"
             ]
         }
     ]
