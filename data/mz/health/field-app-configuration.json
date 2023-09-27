@@ -175,6 +175,10 @@
         {
           "code": "Em mão",
           "name": "Em mão"
+        },
+        {
+          "code": "Trator",
+          "name": "Trator"
         }
       ],
       "BACKEND_INTERFACE": {
