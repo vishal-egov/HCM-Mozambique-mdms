@@ -1,0 +1,14 @@
+{
+    "tenantId": "mz",
+    "moduleName": "HCM-PROJECT-STAFF-ROLES",
+    "projectStaffRoles": [
+        {
+            "code": "DISTRIBUTOR",
+            "rank": 1
+        },
+        {
+            "code": "WAREHOUSE_MANAGER",
+            "rank": 2
+        }
+    ]
+}
