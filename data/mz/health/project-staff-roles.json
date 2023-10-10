@@ -3,12 +3,56 @@
     "moduleName": "HCM-PROJECT-STAFF-ROLES",
     "projectStaffRoles": [
         {
-            "code": "DISTRIBUTOR",
+            "code": "SUPERUSER",
             "rank": 1
         },
         {
-            "code": "WAREHOUSE_MANAGER",
+            "code": "L2_SUPPORT",
             "rank": 2
+        },
+        {
+            "code": "HELPDESK_USER",
+            "rank": 3
+        },
+        {
+            "code": "HRMS_ADMIN",
+            "rank": 4
+        },
+        {
+            "code": "PGR-ADMIN",
+            "rank": 5
+        },
+        {
+            "code": "SYSTEM_ADMINISTRATOR",
+            "rank": 6
+        },
+        {
+            "code": "NATIONAL_SUPERVISOR",
+            "rank": 7
+        },
+        {
+            "code": "PROVINCIAL_SUPERVISOR",
+            "rank": 8
+        },
+        {
+            "code": "DISTRICT_SUPERVISOR",
+            "rank": 9
+        },
+        {
+            "code": "LOCAL_MOINTOR",
+            "rank": 10
+        },
+        {
+            "code": "WAREHOUSE_MANAGER",
+            "rank": 11
+        },
+        {
+            "code": "DISTRIBUTOR",
+            "rank": 12
+        },
+        {
+            "code": "REGISTRAR",
+            "rank": 13
         }
     ]
 }
