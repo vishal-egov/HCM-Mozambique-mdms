@@ -1,0 +1,86 @@
+{
+    "tenantId": "mz",
+    "moduleName": "HCM-PROJECT-STAFF-ROLES",
+    "projectStaffRoles": [
+        {
+            "code": "NATIONAL_SUPERVISOR",
+            "rank": 1
+        },
+        {
+            "code": "PROVINCIAL_SUPERVISOR",
+            "rank": 2
+        },
+        {
+            "code": "DISTRICT_SUPERVISOR",
+            "rank": 3
+        },
+        {
+            "code": "LOCAL_MONITOR",
+            "rank": 4
+        },
+        {
+            "code": "WAREHOUSE_MANAGER",
+            "rank": 5
+        },
+        {
+            "code": "DISTRIBUTOR",
+            "rank": 6
+        },
+        {
+            "code": "REGISTRAR",
+            "rank": 7
+        },
+        {
+            "code": "EMPLOYEE",
+            "rank": 8
+        },
+        {
+            "code": "CITIZEN",
+            "rank": 9
+        },
+        {
+            "code": "INTERNAL_MICROSERVICE_ROLE",
+            "rank": 10
+        },
+        {
+            "code": "DHIS2_SUPERUSER",
+            "rank": 11
+        },
+        {
+            "code": "CSR",
+            "rank": 12
+        },
+        {
+            "code": "SUPERUSER",
+            "rank": 13
+        },
+        {
+            "code": "L2_SUPPORT",
+            "rank": 14
+        },
+        {
+            "code": "HELPDESK_USER",
+            "rank": 15
+        },
+        {
+            "code": "HRMS_ADMIN",
+            "rank": 16
+        },
+        {
+            "code": "PGR-ADMIN",
+            "rank": 17
+        },
+        {
+            "code": "SYSTEM_ADMINISTRATOR",
+            "rank": 18
+        },
+        {
+            "code": "FIELD_SUPERVISOR",
+            "rank": 19
+        },
+        {
+            "code": "SUPERVISOR",
+            "rank": 20
+        }
+    ]
+}
