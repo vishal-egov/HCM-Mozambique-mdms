@@ -16829,6 +16829,12 @@
       "actionid": 1668,
       "actioncode": "",
       "tenantid": "mz"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1666,
+      "actioncode": "",
+      "tenantid": "mz"
     }
   ]
 }
