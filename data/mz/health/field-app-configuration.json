@@ -91,6 +91,10 @@
         {
           "name": "SOCIAL_MOBILIZATION",
           "code": "SOCIAL_MOBILIZATION"
+        },
+        {
+          "name": "REFERRAL",
+          "code": "REFERRAL"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
