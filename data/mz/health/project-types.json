@@ -179,7 +179,7 @@
       ],
       "observationStrategy": "DOT1",
       "validMinAge": 3,
-      "validMaxAge": 60,
+      "validMaxAge": 66,
       "cycles": [
         {
           "mandatoryWaitSinceLastCycleInDays": null,
@@ -206,7 +206,7 @@
                   ]
                 },
                 {
-                  "condition": "12<=age<60",
+                  "condition": "12<=age<66",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000006",
@@ -235,7 +235,7 @@
                   ]
                 },
                 {
-                  "condition": "12<=age<60",
+                  "condition": "12<=age<66",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000007",
@@ -260,7 +260,7 @@
                   ]
                 },
                 {
-                  "condition": "12<=age<60",
+                  "condition": "12<=age<66",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000007",
@@ -297,7 +297,7 @@
                   ]
                 },
                 {
-                  "condition": "12<=age<60",
+                  "condition": "12<=age<66",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000006",
@@ -326,7 +326,7 @@
                   ]
                 },
                 {
-                  "condition": "12<=age<60",
+                  "condition": "12<=age<66",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000007",
@@ -351,7 +351,7 @@
                   ]
                 },
                 {
-                  "condition": "12<=age<60",
+                  "condition": "12<=age<66",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000007",
