@@ -111,6 +111,21 @@
       "code": "LOC_ADMIN",
       "name": "Localisation admin",
       "description": "LOC_ADMIN"
+    },
+    {
+      "code": "COMMUNITY_DISTRIBUTOR",
+      "name": "Community Distributor",
+      "description": "Community Distributor"
+    },
+    {
+      "code": "COMMUNITY_SUPERVISOR",
+      "name": "Community Supervisor",
+      "description": "Community Supervisor"
+    },
+    {
+      "code": "HEALTH_FACILITY_SUPERVISOR",
+      "name": "Health facility Supervisor",
+      "description": "Health facility Supervisor"
     }
   ]
 }

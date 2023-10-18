@@ -96,6 +96,30 @@
         {
           "name": "REFERRAL",
           "code": "REFERRAL"
+        },
+        {
+          "name": "HEALTH_PROFESSIONAL",
+          "code": "HEALTH_PROFESSIONAL"
+        },
+        {
+          "name": "ADMINISTRATION",
+          "code": "ADMINISTRATION"
+        },
+        {
+          "name": "STOCK_MANAGEMENT",
+          "code": "STOCK_MANAGEMENT"
+        },
+        {
+          "name": "PERFORMANCE_STANDARD",
+          "code": "PERFORMANCE_STANDARD"
+        },
+        {
+          "name": "PHARMACOVIGILANCE",
+          "code": "PHARMACOVIGILANCE"
+        },
+        {
+          "name": "SPAQ_CONCILIATION",
+          "code": "SPAQ_CONCILIATION"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
