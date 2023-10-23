@@ -179,7 +179,7 @@
       ],
       "observationStrategy": "DOT1",
       "validMinAge": 3,
-      "validMaxAge": 65,
+      "validMaxAge": 59,
       "cycles": [
         {
           "mandatoryWaitSinceLastCycleInDays": null,
@@ -193,7 +193,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "doseCriteria": [
                 {
-                  "condition": "3<=age<12",
+                  "condition": "3<=age<11",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000005",
@@ -202,7 +202,7 @@
                   ]
                 },
                 {
-                  "condition": "12<=age<66",
+                  "condition": "12<=age<59",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000006",
@@ -218,7 +218,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "doseCriteria": [
                 {
-                  "condition": "3<=age<12",
+                  "condition": "3<=age<11",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000005",
@@ -227,7 +227,7 @@
                   ]
                 },
                 {
-                  "condition": "12<=age<66",
+                  "condition": "12<=age<59",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000006",
@@ -243,7 +243,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "doseCriteria": [
                 {
-                  "condition": "3<=age<12",
+                  "condition": "3<=age<11",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000005",
@@ -252,7 +252,7 @@
                   ]
                 },
                 {
-                  "condition": "12<=age<66",
+                  "condition": "12<=age<59",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000006",
@@ -276,7 +276,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "doseCriteria": [
                 {
-                  "condition": "3<=age<12",
+                  "condition": "3<=age<11",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000005",
@@ -285,7 +285,7 @@
                   ]
                 },
                 {
-                  "condition": "12<=age<66",
+                  "condition": "12<=age<59",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000006",
@@ -301,7 +301,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "doseCriteria": [
                 {
-                  "condition": "3<=age<12",
+                  "condition": "3<=age<11",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000005",
@@ -310,7 +310,7 @@
                   ]
                 },
                 {
-                  "condition": "12<=age<66",
+                  "condition": "12<=age<59",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000006",
@@ -326,7 +326,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "doseCriteria": [
                 {
-                  "condition": "3<=age<12",
+                  "condition": "3<=age<11",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000005",
@@ -335,7 +335,7 @@
                   ]
                 },
                 {
-                  "condition": "12<=age<66",
+                  "condition": "12<=age<59",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-10-18-000006",
