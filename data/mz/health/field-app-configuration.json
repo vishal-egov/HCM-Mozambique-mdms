@@ -180,6 +180,16 @@
           "name": "Orientação nacional"
         }
       ],
+      "DELIVERY_COMMENT_OPTIONS_SMC_POPULATOR": [
+        {
+          "code": "SUCCESSFUL_DELIVERY",
+          "name": "Entrega com sucesso"
+        },
+        {
+          "code": "BENEFICIARY_REFERRED",
+          "name": "Beneficiário encaminhado"
+        }
+      ],
       "TRANSPORT_TYPES": [
         {
           "code": "TRANSPORT_TYPE_1",
