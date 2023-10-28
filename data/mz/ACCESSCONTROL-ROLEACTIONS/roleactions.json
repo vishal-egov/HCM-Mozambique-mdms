@@ -18286,6 +18286,18 @@
     "actionid": 1667,
     "actioncode": "",
     "tenantid": "mz"
-}
+},
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1621,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1628,
+      "actioncode": "",
+      "tenantId": "mz"
+    }
   ]
 }
