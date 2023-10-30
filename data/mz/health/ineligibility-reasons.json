@@ -1,7 +1,7 @@
 {
   "tenantId": "mz",
   "moduleName": "HCM-INELIGIBILITY-REASONS",
-  "referralReasons": [
+  "ineligibilityReasons": [
     {
       "code": "CHILD_WITH_FEVER",
       "name": "Child with fever",
