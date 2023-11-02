@@ -13092,7 +13092,7 @@
       "lastModifiedDate": null,
       "lastModifiedBy": null,
       "path": "setupCampaign.user",
-      "navigationURL": "/digit-ui/employee/dss/user",
+      "navigationURL": "/digit-ui/employee/campaign-setup/user",
       "leftIcon": "",
       "rightIcon": ""
       },
@@ -13112,7 +13112,7 @@
         "lastModifiedDate": null,
         "lastModifiedBy": null,
         "path": "setupCampaign.facility",
-        "navigationURL": "/digit-ui/employee/dss/facility",
+        "navigationURL": "/digit-ui/employee/campaign-setup/facility",
         "leftIcon": "",
         "rightIcon": ""
       },
@@ -13132,7 +13132,7 @@
         "lastModifiedDate": null,
         "lastModifiedBy": null,
         "path": "setupCampaign.ou",
-        "navigationURL": "/digit-ui/employee/dss/ou",
+        "navigationURL": "/digit-ui/employee/campaign-setup/ou",
         "leftIcon": "",
         "rightIcon": ""
     }
