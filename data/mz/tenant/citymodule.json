@@ -36,8 +36,8 @@
       ]
     },
     {
-      "module": "Workbench-hcm",
-      "code": "Workbench-hcm",
+      "module": "HCMWORKBENCH",
+      "code": "HCMWORKBENCH",
       "active": true,
       "order": 4,
       "tenants": [
