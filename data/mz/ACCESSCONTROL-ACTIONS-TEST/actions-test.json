@@ -13135,6 +13135,18 @@
         "navigationURL": "/digit-ui/employee/campaign-setup/ou",
         "leftIcon": "",
         "rightIcon": ""
-    }
+    },
+    {
+      "id": 1908,
+      "name": "Health Facility Supervisor Checklist",
+      "url": "",
+      "displayName": "HF_SUPERVISOR_CHECK_LIST_LABEL",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
+
   ]
 }
