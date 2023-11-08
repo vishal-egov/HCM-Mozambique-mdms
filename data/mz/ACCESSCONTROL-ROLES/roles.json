@@ -126,6 +126,11 @@
       "code": "HEALTH_FACILITY_SUPERVISOR",
       "name": "Health facility Supervisor",
       "description": "Health facility Supervisor"
+    },
+    {
+      "code": "LOGISTIC_FOCAL_POINT",
+      "name": "Logistic Focal Point",
+      "description": "Logistic Focal Point"
     }
   ]
 }
