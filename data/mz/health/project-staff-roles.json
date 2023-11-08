@@ -23,64 +23,68 @@
             "rank": 5
         },
         {
-            "code": "DISTRIBUTOR",
+            "code": "LOGISTIC_FOCAL_POINT",
             "rank": 6
         },
         {
-            "code": "REGISTRAR",
+            "code": "DISTRIBUTOR",
             "rank": 7
         },
         {
-            "code": "EMPLOYEE",
+            "code": "REGISTRAR",
             "rank": 8
         },
         {
-            "code": "CITIZEN",
+            "code": "EMPLOYEE",
             "rank": 9
         },
         {
-            "code": "INTERNAL_MICROSERVICE_ROLE",
+            "code": "CITIZEN",
             "rank": 10
         },
         {
-            "code": "DHIS2_SUPERUSER",
+            "code": "INTERNAL_MICROSERVICE_ROLE",
             "rank": 11
         },
         {
-            "code": "CSR",
+            "code": "DHIS2_SUPERUSER",
             "rank": 12
         },
         {
-            "code": "SUPERUSER",
+            "code": "CSR",
             "rank": 13
         },
         {
-            "code": "L2_SUPPORT",
+            "code": "SUPERUSER",
             "rank": 14
         },
         {
-            "code": "HELPDESK_USER",
+            "code": "L2_SUPPORT",
             "rank": 15
         },
         {
-            "code": "HRMS_ADMIN",
+            "code": "HELPDESK_USER",
             "rank": 16
         },
         {
-            "code": "PGR-ADMIN",
+            "code": "HRMS_ADMIN",
             "rank": 17
         },
         {
-            "code": "SYSTEM_ADMINISTRATOR",
+            "code": "PGR-ADMIN",
             "rank": 18
         },
         {
-            "code": "FIELD_SUPERVISOR",
+            "code": "SYSTEM_ADMINISTRATOR",
             "rank": 19
         },
         {
-            "code": "SUPERVISOR",
+            "code": "FIELD_SUPERVISOR",
             "rank": 20
+        },
+        {
+            "code": "SUPERVISOR",
+            "rank": 21
         }
     ]
 }
