@@ -182,12 +182,12 @@
       ],
       "DELIVERY_COMMENT_OPTIONS_SMC_POPULATOR": [
         {
-          "code": "SUCCESSFUL_DELIVERY",
-          "name": "Entrega com sucesso"
+          "code": "ADMINISTRATION_SUCCESSFUL",
+          "name": "Administração bem sucedida"
         },
         {
-          "code": "BENEFICIARY_REFERRED",
-          "name": "Beneficiário encaminhado"
+          "code": "ADMINISTRATION_NOT_SUCCESSFUL",
+          "name": "Administração sem sucesso"
         }
       ],
       "TRANSPORT_TYPES": [
