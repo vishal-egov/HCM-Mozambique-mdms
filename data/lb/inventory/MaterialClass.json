@@ -1,0 +1,21 @@
+{
+  "tenantId": "lb",
+  "moduleName": "inventory",
+  "MaterialClass": [
+    {
+      "tenantId": "lb",
+      "code": "HIGHUSAGE",
+      "name": "HighUsage"
+    },
+    {
+      "tenantId": "lb",
+      "code": "MEDIUMUSAGE",
+      "name": "MediumUsage"
+    },
+    {
+      "tenantId": "lb",
+      "code": "LOWUSAGE",
+      "name": "LowUsage"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "tenantId": "lb",
+  "moduleName": "inventory",
+  "Status": [
+    {
+      "tenantId": "lb",
+      "code": "ACTIVE",
+      "name": "Active"
+    },
+    {
+      "tenantId": "lb",
+      "code": "WITHDRAWN",
+      "name": "Withdrawn"
+    },
+    {
+      "tenantId": "lb",
+      "code": "OBSOLETE",
+      "name": "Obsolete"
+    },
+    {
+      "tenantId": "lb",
+      "code": "SUSPENDED",
+      "name": "suspended"
+    },
+    {
+      "tenantId": "lb",
+      "code": "BARRED",
+      "name": "barred"
+    },
+    {
+      "tenantId": "lb",
+      "code": "INACTIVE",
+      "name": "inactive"
+    }
+  ]
+}

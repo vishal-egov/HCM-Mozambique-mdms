@@ -1,0 +1,243 @@
+{
+  "tenantId": "lb",
+  "moduleName": "swm",
+  "WasteSubType": [
+    {
+      "tenantId": "lb",
+      "code": "test ",
+      "name": "Test",
+      "wasteType": {
+        "code": ""
+      }
+    },
+    {
+      "name": "test wastes",
+      "code": "779",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "Bio Medical Waste"
+      }
+    },
+    {
+      "name": "plumer",
+      "code": "1324",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "Cons"
+      }
+    },
+    {
+      "name": "556",
+      "code": "rtes",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "Cons"
+      }
+    },
+    {
+      "name": "Bio waste",
+      "code": "BW",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "Waste Type Code 2"
+      }
+    },
+    {
+      "name": "qwerfg",
+      "code": "werfg",
+      "tenantId": "lb"
+    },
+    {
+      "name": "Waste Test111",
+      "code": "WT111",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "BCW"
+      }
+    },
+    {
+      "name": "Syringe",
+      "code": "SYN",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "Waste Type Code 2"
+      }
+    },
+    {
+      "name": "hgfds",
+      "code": "ngbfvdsx",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "Bio Medical Waste"
+      }
+    },
+    {
+      "name": "Waste 1",
+      "code": "W1",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "Cons"
+      }
+    },
+    {
+      "name": "Test Waste1",
+      "code": "TW1",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "HHPW"
+      }
+    },
+    {
+      "name": "Test Waste2",
+      "code": "TW2",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "BCW"
+      }
+    },
+    {
+      "name": "waste test3",
+      "code": "WT3",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "BCW"
+      }
+    },
+    {
+      "name": "Test Waste 4",
+      "code": "TW4",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "Cons"
+      }
+    },
+    {
+      "name": "TestWaste 5",
+      "code": "TW5",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "Cons"
+      }
+    },
+    {
+      "name": "Test Waste 6",
+      "code": "TW6",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "DD1"
+      }
+    },
+    {
+      "name": "Wste1",
+      "code": "Waste1",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "Cons"
+      }
+    },
+    {
+      "name": "Dummy Waste Sub Type ",
+      "code": "DWST",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "BCW"
+      }
+    },
+    {
+      "name": "545",
+      "code": "564",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "Bio Medical Waste"
+      }
+    },
+    {
+      "name": "4645",
+      "code": "456",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "BCW"
+      }
+    },
+    {
+      "name": "213",
+      "code": "123",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "Bio Medical Waste"
+      }
+    },
+    {
+      "name": "Onion Peel",
+      "code": "SGK",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "BW001"
+      }
+    },
+    {
+      "name": "1234",
+      "code": "1234",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": ""
+      }
+    },
+    {
+      "name": "Onion Peels",
+      "code": "OP",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "VW"
+      }
+    },
+    {
+      "name": "Plastic Bottals",
+      "code": "PLASTIC/001/005",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "PLASTIC/001"
+      }
+    },
+    {
+      "name": "Plastic Dry Waste",
+      "code": "PLASTIC/001/006",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "Waste Type Code 1"
+      }
+    },
+    {
+      "name": "Bio Medical Waste",
+      "code": "BMW001",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "BW001"
+      }
+    },
+    {
+      "name": "BIOTEst",
+      "code": "BT09",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "Bio Medical Waste"
+      }
+    },
+    {
+      "name": "M_waste_Sub_Type",
+      "code": "MWST",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "MWN"
+      }
+    },
+    {
+      "name": "Test Waste Type",
+      "code": "Test",
+      "tenantId": "lb",
+      "wasteType": {
+        "code": "Waste Type Code 3"
+      }
+    }
+  ]
+}

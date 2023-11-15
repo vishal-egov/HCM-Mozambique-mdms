@@ -1,0 +1,324 @@
+{
+  "tenantId": "lb",
+  "moduleName": "lcms",
+  "side": [
+    {
+      "name": "Civil",
+      "code": "CVL",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Crimina",
+      "code": "CRMNL",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Original",
+      "code": "ORGNL",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "SideNameField",
+      "code": "C22",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "test01",
+      "code": "001",
+      "active": false,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Side_side",
+      "code": "002",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "SideNameFields2",
+      "code": "1002",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "SideNameField3",
+      "code": "003",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "SideNameFields4",
+      "code": "101",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Appeal from Order1hyd",
+      "code": "123",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Side/Murari",
+      "code": "side1",
+      "active": false,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Sidename/M1",
+      "code": "1001",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "SideP12",
+      "code": "10011",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "ewrwer",
+      "code": "werwer",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "dfsgdsf",
+      "code": "dsfgdsf",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "ewtet345345",
+      "code": "m1",
+      "active": false,
+      "tenantId": "lb"
+    },
+    {
+      "name": "ewtet345345",
+      "code": "ewtewrt",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "TestData3",
+      "code": "Test/11",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "TestData2",
+      "code": "546",
+      "active": false,
+      "tenantId": "lb"
+    },
+    {
+      "name": "TestData2",
+      "code": "547",
+      "active": false,
+      "tenantId": "lb"
+    },
+    {
+      "name": "TestData3",
+      "code": "548",
+      "active": false,
+      "tenantId": "lb"
+    },
+    {
+      "name": "test on 26th",
+      "code": "26",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "test789",
+      "code": "211",
+      "active": false,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Side1",
+      "code": "Side",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "on dev_102",
+      "code": "OD",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Side Road ",
+      "code": "SD1",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "tetttttt",
+      "code": "12345678",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "qq",
+      "code": "qq",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Criminal",
+      "code": "crm",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "aaa",
+      "code": "aa",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Civil",
+      "code": "CV",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Civil",
+      "code": "1255",
+      "active": false,
+      "tenantId": "lb"
+    },
+    {
+      "name": "side/murari/side",
+      "code": "89939393993",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "NewSide",
+      "code": "NS01",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "NewSide",
+      "code": "NS011",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "NewSide",
+      "code": "NEW01",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "NewSide",
+      "code": "9886582501",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "SSIIDDEE",
+      "code": "SIDE01",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "NewSSIIDDEE",
+      "code": "NSD01",
+      "active": false,
+      "tenantId": "lb"
+    },
+    {
+      "name": "ReTest",
+      "code": "RT01",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Murari r",
+      "code": "Ms",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Side testing 122",
+      "code": "121",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "SideName 1",
+      "code": "SN1",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Side Name 2",
+      "code": "SN2",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Side Name 2",
+      "code": "SN3",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "SideFoTest",
+      "code": "SFT",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "BBB",
+      "code": "BBB",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Murari Side Testing ",
+      "code": "MST",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Murari Side Testing 2",
+      "code": "MST2",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "TESTFORLATEST",
+      "code": "TFL",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "TESTFORLATESTSECOND",
+      "code": "TESTFORLATESTSECOND",
+      "active": true,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Side_name_2",
+      "code": "TTTTT",
+      "active": false,
+      "tenantId": "lb"
+    },
+    {
+      "name": "Checker_Side 2",
+      "code": "SNM4",
+      "active": true,
+      "tenantId": "lb"
+    }
+  ]
+}

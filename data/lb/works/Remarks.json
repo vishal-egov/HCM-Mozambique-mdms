@@ -1,0 +1,21 @@
+{
+  "tenantId": "lb",
+  "moduleName": "works",
+  "Remarks": [
+    {
+      "id": 1,
+      "tenantId": "lb",
+      "typeOfDocument": "Work Order / Notice",
+      "remarksType": "Approval / Show Cause / Rejection",
+      "remarksDetails": [
+        {
+          "id": 1,
+          "tenantId": "lb",
+          "remarks": null,
+          "remarksDescription": "Reviewed and approved",
+          "editable": true
+        }
+      ]
+    }
+  ]
+}
