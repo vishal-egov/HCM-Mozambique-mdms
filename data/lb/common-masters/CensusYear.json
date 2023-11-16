@@ -1,0 +1,16 @@
+{
+  "tenantId": "lb",
+  "moduleName": "common-masters",
+  "CensusYear": [
+    {
+      "tenantId": "lb",
+      "name": "2001",
+      "code": "2001"
+    },
+    {
+      "tenantId": "lb",
+      "name": "2011",
+      "code": "2011"
+    }
+  ]
+}

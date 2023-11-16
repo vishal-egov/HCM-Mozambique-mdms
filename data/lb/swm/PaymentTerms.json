@@ -1,0 +1,26 @@
+{
+  "tenantId": "lb",
+  "moduleName": "swm",
+  "PaymentTerms": [
+    {
+      "tenantId": "lb",
+      "noOfDays": 30,
+      "label": "Monthly"
+    },
+    {
+      "tenantId": "lb",
+      "noOfDays": 60,
+      "label": "Bi-monthly"
+    },
+    {
+      "tenantId": "lb",
+      "noOfDays": 90,
+      "label": "Quarterly"
+    },
+    {
+      "tenantId": "lb",
+      "noOfDays": 365,
+      "label": "Yearly"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "tenantId": "lb",
+  "moduleName": "works",
+  "RemarksType": [
+    {
+      "name": "Approval",
+      "tenantId": "lb"
+    },
+    {
+      "name": "Show Cause",
+      "tenantId": "lb"
+    },
+    {
+      "name": "Rejection",
+      "tenantId": "lb"
+    }
+  ]
+}
