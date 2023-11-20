@@ -1,0 +1,160 @@
+{
+  "tenantId": "ng",
+  "moduleName": "common-masters",
+  "Uom": [
+    {
+      "id": 1,
+      "tenantId": "ng",
+      "code": "NOS",
+      "description": "Numbers",
+      "uomCategory": "QUANTITY",
+      "baseUom": true,
+      "fromDate": 1508740856,
+      "toDate": 1893436200,
+      "conversionFactor": 1
+    },
+    {
+      "id": 2,
+      "tenantId": "ng",
+      "code": "LTR",
+      "description": "Litres",
+      "uomCategory": "VOLUME",
+      "baseUom": true,
+      "fromDate": 1508740856,
+      "toDate": 1893436200,
+      "conversionFactor": 1
+    },
+    {
+      "id": 3,
+      "tenantId": "ng",
+      "code": "CUL",
+      "description": "Cubic Litre",
+      "uomCategory": "VOLUME",
+      "baseUom": false,
+      "fromDate": 1508740856,
+      "toDate": 1893436200,
+      "conversionFactor": 1000
+    },
+    {
+      "id": 4,
+      "tenantId": "ng",
+      "code": "KGS",
+      "description": "Kilograms",
+      "uomCategory": "WEIGHT",
+      "baseUom": false,
+      "fromDate": 1508740856,
+      "toDate": 1893436200,
+      "conversionFactor": 1000
+    },
+    {
+      "id": 5,
+      "tenantId": "ng",
+      "code": "TON",
+      "description": "Tonne",
+      "uomCategory": "WEIGHT",
+      "baseUom": false,
+      "fromDate": 1508740856,
+      "toDate": 1893436200,
+      "conversionFactor": 1000000
+    },
+    {
+      "id": 6,
+      "tenantId": "ng",
+      "code": "GMS",
+      "description": "Grams",
+      "uomCategory": "WEIGHT",
+      "baseUom": true,
+      "fromDate": 1508740856,
+      "toDate": 1893436200,
+      "conversionFactor": 1
+    },
+    {
+      "id": 7,
+      "tenantId": "ng",
+      "code": "MTR",
+      "description": "Meter",
+      "uomCategory": "LENGTH",
+      "baseUom": true,
+      "fromDate": 1508740856,
+      "toDate": 1893436200,
+      "conversionFactor": 1
+    },
+    {
+      "id": 8,
+      "tenantId": "ng",
+      "code": "KM",
+      "description": "Kilometer",
+      "uomCategory": "LENGTH",
+      "baseUom": false,
+      "fromDate": 1508740856,
+      "toDate": 1893436200,
+      "conversionFactor": 1000
+    },
+    {
+      "id": 9,
+      "tenantId": "ng",
+      "code": "CM",
+      "description": "Centimeter",
+      "uomCategory": "LENGTH",
+      "baseUom": false,
+      "fromDate": 1508740856,
+      "toDate": 1893436200,
+      "conversionFactor": 0.01
+    },
+    {
+      "id": 10,
+      "tenantId": "ng",
+      "code": "SFT",
+      "description": "Square Feet",
+      "uomCategory": "AREA",
+      "baseUom": false,
+      "fromDate": 1508740856,
+      "toDate": 1893436200,
+      "conversionFactor": 0.929
+    },
+    {
+      "id": 11,
+      "tenantId": "ng",
+      "code": "SQM",
+      "description": "Square Meter",
+      "uomCategory": "AREA",
+      "baseUom": true,
+      "fromDate": 1508740856,
+      "toDate": 1893436200,
+      "conversionFactor": 1
+    },
+    {
+      "id": 12,
+      "tenantId": "ng",
+      "code": "KW",
+      "description": "Kilo Watts",
+      "uomCategory": "POWER",
+      "baseUom": false,
+      "fromDate": 1508740856,
+      "toDate": 1893436200,
+      "conversionFactor": 1
+    },
+    {
+      "id": 13,
+      "tenantId": "ng",
+      "code": "KVA",
+      "description": "Kilovolt-Ampere",
+      "uomCategory": "POWER",
+      "baseUom": false,
+      "fromDate": 1508740856,
+      "toDate": 1893436200,
+      "conversionFactor": 1
+    },
+    {
+      "id": 14,
+      "tenantId": "ng",
+      "code": "HP",
+      "description": "Horse Power",
+      "uomCategory": "POWER",
+      "baseUom": false,
+      "fromDate": 1508740856,
+      "toDate": 1893436200,
+      "conversionFactor": 1
+    }
+  ]
+}

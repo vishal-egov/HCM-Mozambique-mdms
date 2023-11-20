@@ -1,0 +1,31 @@
+{
+  "tenantId": "ng",
+  "moduleName": "inventory",
+  "SuplierType": [
+    {
+      "tenantId": "ng",
+      "code": "INDIVIDUAL",
+      "name": "individual"
+    },
+    {
+      "tenantId": "ng",
+      "code": "FIRM",
+      "name": "firm"
+    },
+    {
+      "tenantId": "ng",
+      "code": "COMPANY",
+      "name": "company"
+    },
+    {
+      "tenantId": "ng",
+      "code": "REGISTERED",
+      "name": "registered"
+    },
+    {
+      "tenantId": "ng",
+      "code": "SOCIETY",
+      "name": "society"
+    }
+  ]
+}

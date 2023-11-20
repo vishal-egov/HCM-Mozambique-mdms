@@ -1,0 +1,41 @@
+{
+  "tenantId": "ng",
+  "moduleName": "ASSET",
+  "ModeOfAcquisition": [
+    {
+      "id": 1,
+      "tenantId": "ng",
+      "code": "ACQUIRED",
+      "name": "Acquired",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "tenantId": "ng",
+      "code": "CONSTRUCTION",
+      "name": "Construction",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "tenantId": "ng",
+      "code": "PURCHASE",
+      "name": "Purchase",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "tenantId": "ng",
+      "code": "TENDER",
+      "name": "Tender",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "tenantId": "ng",
+      "code": "DONATION",
+      "name": "Donation",
+      "isActive": true
+    }
+  ]
+}

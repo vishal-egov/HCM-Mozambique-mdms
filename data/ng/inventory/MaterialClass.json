@@ -1,0 +1,21 @@
+{
+  "tenantId": "ng",
+  "moduleName": "inventory",
+  "MaterialClass": [
+    {
+      "tenantId": "ng",
+      "code": "HIGHUSAGE",
+      "name": "HighUsage"
+    },
+    {
+      "tenantId": "ng",
+      "code": "MEDIUMUSAGE",
+      "name": "MediumUsage"
+    },
+    {
+      "tenantId": "ng",
+      "code": "LOWUSAGE",
+      "name": "LowUsage"
+    }
+  ]
+}
