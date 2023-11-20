@@ -1,0 +1,30 @@
+{
+  "tenantId": "ng",
+  "moduleName": "egf-bill",
+  "BillStatus": [
+    {
+      "tenantId": "ng",
+      "name": "Created",
+      "code": "Created",
+      "moduleType": "Bill",
+      "description": "Bill Created",
+      "orderNumber": 1
+    },
+    {
+      "tenantId": "ng",
+      "name": "Approved",
+      "code": "Approved",
+      "moduleType": "Bill",
+      "description": "Bill Approved",
+      "orderNumber": 2
+    },
+    {
+      "tenantId": "ng",
+      "name": "Cancelled",
+      "code": "Cancelled",
+      "moduleType": "Bill",
+      "description": "Bill Cancelled",
+      "orderNumber": 3
+    }
+  ]
+}

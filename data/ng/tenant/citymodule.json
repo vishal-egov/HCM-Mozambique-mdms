@@ -1,0 +1,50 @@
+{
+  "tenantId": "ng",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "ng"
+        }
+      ]
+    },
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "ng"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "ng"
+        }
+      ]
+    },
+    {
+      "module": "HCMWORKBENCH",
+      "code": "HCMWORKBENCH",
+      "active": true,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "ng"
+        }
+      ]
+    }
+  ]
+}

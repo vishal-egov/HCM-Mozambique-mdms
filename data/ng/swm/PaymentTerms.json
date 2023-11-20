@@ -1,0 +1,26 @@
+{
+  "tenantId": "ng",
+  "moduleName": "swm",
+  "PaymentTerms": [
+    {
+      "tenantId": "ng",
+      "noOfDays": 30,
+      "label": "Monthly"
+    },
+    {
+      "tenantId": "ng",
+      "noOfDays": 60,
+      "label": "Bi-monthly"
+    },
+    {
+      "tenantId": "ng",
+      "noOfDays": 90,
+      "label": "Quarterly"
+    },
+    {
+      "tenantId": "ng",
+      "noOfDays": 365,
+      "label": "Yearly"
+    }
+  ]
+}

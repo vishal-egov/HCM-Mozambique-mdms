@@ -1,0 +1,16 @@
+{
+  "tenantId": "ng",
+  "moduleName": "works",
+  "PMCType": [
+    {
+      "id": 1,
+      "name": "Panel",
+      "tenantId": "ng"
+    },
+    {
+      "id": 2,
+      "name": "New Appointment",
+      "tenantId": "ng"
+    }
+  ]
+}
