@@ -13147,6 +13147,30 @@
       "serviceCode": "null",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1909,
+      "name": "Get job details of ingestion",
+      "url": "/hcm-moz-impl/v1/jobrecord/_search",
+      "displayName": "Get job details of ingestion",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "hcm-moz-impl",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1910,
+      "name": "Get event details of ingestion",
+      "url": "/hcm-moz-impl/v1/eventHistory/_search",
+      "displayName": "Get job details of ingestion",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "hcm-moz-impl",
+      "code": "null",
+      "path": ""
     }
   ]
 }
