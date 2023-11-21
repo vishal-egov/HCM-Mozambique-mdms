@@ -39,15 +39,15 @@
       "LANGUAGES": [
         {
           "label": "Portuguese",
-          "value": "pt_LB"
+          "value": "pt_LR"
         },
         {
           "label": "French",
-          "value": "fr_LB"
+          "value": "fr_LR"
         },
         {
           "label": "English",
-          "value": "en_LB"
+          "value": "en_LR"
         }
       ],
       "CALL_SUPPORT":[
