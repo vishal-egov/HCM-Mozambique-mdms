@@ -13,7 +13,7 @@
       "hasLocalisation": true,
       "isLanguageSelectionDisabled": false,
       "isForgotPwdDisabled": true,
-      "defaultLanguage": "pt_LB",
+      "defaultLanguage": "en_LB",
       "isCitySelectionDisabled": true,
       "defaultCity": "lb",
       "languages": [
