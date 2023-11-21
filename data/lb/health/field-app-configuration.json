@@ -38,16 +38,16 @@
       ],
       "LANGUAGES": [
         {
+          "label": "English",
+          "value": "en_LB"
+        },
+        {
           "label": "Portuguese",
-          "value": "pt_LR"
+          "value": "pt_LB"
         },
         {
           "label": "French",
-          "value": "fr_LR"
-        },
-        {
-          "label": "English",
-          "value": "en_LR"
+          "value": "fr_LB"
         }
       ],
       "CALL_SUPPORT":[

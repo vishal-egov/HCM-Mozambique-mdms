@@ -13,17 +13,17 @@
       "hasLocalisation": true,
       "isLanguageSelectionDisabled": false,
       "isForgotPwdDisabled": true,
-      "defaultLanguage": "pt_LR",
+      "defaultLanguage": "en_LB",
       "isCitySelectionDisabled": true,
       "defaultCity": "lb",
       "languages": [
         {
           "label": "ENGLISH",
-          "value": "en_LR"
+          "value": "en_LB"
         },
         {
           "label": "PORTUGUÊS",
-          "value": "pt_LR"
+          "value": "pt_LB"
         }
       ],
       "localizationModules": [
