@@ -12,8 +12,12 @@
       "cycles": [
         {
           "mandatoryWaitSinceLastCycleInDays": null,
+          "startDate": 1698777000000,
+          "endDate": 1701282600000,
+          "id": 1,
           "deliveries": [
             {
+              "id": 1,
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "doseCriteria" : [
                 {
