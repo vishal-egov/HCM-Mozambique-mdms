@@ -3,28 +3,38 @@
   "moduleName": "HCM-INELIGIBILITY-REASONS",
   "ineligibilityReasons": [
     {
-      "code": "CHILD_WITH_FEVER",
-      "name": "Child with fever",
+      "code": "BREAST_FEEDING",
+      "name": "Breast Feeding",
       "active": true
     },
     {
-      "code": "CHILD_WITH_MALARIA",
-      "name": "Child with Malaria",
+      "code": "PREGNANT",
+      "name": "Pregnant",
       "active": true
     },
     {
-      "code": "CHILD_CANNOT_SWALLOW",
-      "name": "Children who cannot swallow",
+      "code": "SICK",
+      "name": "Sick",
       "active": true
     },
     {
-      "code": "CHILD_ON_MEDICATION_1",
-      "name": "Children who are taking sulfonamides such as Cotrimoxazole (Septrin or Bactrim)",
+      "code": "ABSENT",
+      "name": "Absent",
       "active": true
     },
     {
-      "code": "CHILD_ON_MEDICATION_2",
-      "name": "Children who are taking prophylaxis with cotrimoxazole",
+      "code": "UNDERAGE",
+      "name": "Underage",
+      "active": true
+    },
+    {
+      "code": "STUNTED_GROWTH",
+      "name": "Stunted Growth",
+      "active": true
+    },
+    {
+      "code": "DISABILITY",
+      "name": "Disability",
       "active": true
     }
   ]
