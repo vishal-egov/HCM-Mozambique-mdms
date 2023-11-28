@@ -1,0 +1,36 @@
+{
+  "tenantId": "ng",
+  "moduleName": "HCM-DISABILITY-TYPES",
+  "symptomsTypes": [
+    {
+      "code": "NO_DISABILITY",
+      "name": "No Disability",
+      "active": true
+    },
+    {
+      "code": "VISION_DISABILITY",
+      "name": "Vision Disability / Blind",
+      "active": true
+    },
+    {
+      "code": "HEARING_DISABILITY",
+      "name": "Hearing Disability / Deaf",
+      "active": true
+    },
+    {
+      "code": "PHYSICAL_DISABILITY",
+      "name": "Physical Disability",
+      "active": true
+    },
+    {
+      "code": "INTELLECTUAL_DISABILITY",
+      "name": "Intellectual Disability",
+      "active": true
+    },
+    {
+      "code": "MENTAL_DISABILITY",
+      "name": "Mental / Psychosocial",
+      "active": true
+    }
+  ]
+}
