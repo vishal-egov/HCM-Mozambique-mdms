@@ -183,11 +183,11 @@
       "DELIVERY_COMMENT_OPTIONS_SMC_POPULATOR": [
         {
           "code": "ADMINISTRATION_SUCCESSFUL",
-          "name": "Administração bem sucedida"
+          "name": "Administration Successful"
         },
         {
           "code": "ADMINISTRATION_NOT_SUCCESSFUL",
-          "name": "Administração sem sucesso"
+          "name": "Administration Unsuccessful"
         }
       ],
       "TRANSPORT_TYPES": [
