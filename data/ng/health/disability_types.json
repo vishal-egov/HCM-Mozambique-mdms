@@ -1,7 +1,7 @@
 {
   "tenantId": "ng",
   "moduleName": "HCM-DISABILITY-TYPES",
-  "symptomsTypes": [
+  "disabilityTypes": [
     {
       "code": "NO_DISABILITY",
       "name": "No Disability",
