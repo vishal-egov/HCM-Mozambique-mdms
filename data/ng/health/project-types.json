@@ -19,9 +19,27 @@
             {
               "id": 1,
               "mandatoryWaitSinceLastDeliveryInDays": null,
-              "doseCriteria" : [
+              "doseCriteria": [
                 {
-                  "condition": "90<=height<119",
+                  "condition": "age>0andage<24",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2023-11-20-000015",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>24andage<60",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2023-11-20-000014",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>60andheight>90andheight<120",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-11-20-000014",
@@ -34,7 +52,7 @@
                   ]
                 },
                 {
-                  "condition": "120<=height<139",
+                  "condition": "age>60andheight>119andheight<140",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-11-20-000014",
@@ -47,7 +65,7 @@
                   ]
                 },
                 {
-                  "condition": "140<=height<159",
+                  "condition": "age>60andheight<160andheight>139",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-11-20-000014",
@@ -60,7 +78,7 @@
                   ]
                 },
                 {
-                  "condition": "160<=height<200",
+                  "condition": "age>60andheight>159",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-11-20-000014",
