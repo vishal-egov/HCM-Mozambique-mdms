@@ -17776,12 +17776,6 @@
     },
     {
       "rolecode": "HEALTH_FACILITY_SUPERVISOR",
-      "actionid": 1908,
-      "actioncode": "",
-      "tenantid": "ng"
-    },
-    {
-      "rolecode": "HEALTH_FACILITY_SUPERVISOR",
       "actionid": 1546,
       "actioncode": "",
       "tenantId": "ng"
