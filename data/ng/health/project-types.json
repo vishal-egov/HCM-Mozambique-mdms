@@ -39,7 +39,7 @@
                   ]
                 },
                 {
-                  "condition": "age>59andheight>89andheight<120",
+                  "condition": "age>59andheight>-1andheight<120",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-11-20-000014",
