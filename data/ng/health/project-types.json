@@ -30,7 +30,7 @@
                   ]
                 },
                 {
-                  "condition": "age>24andage<60",
+                  "condition": "age>=24andage<60",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-11-20-000014",
@@ -39,7 +39,7 @@
                   ]
                 },
                 {
-                  "condition": "age>60andheight>90andheight<120",
+                  "condition": "age>=60andheight>90andheight<120",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-11-20-000014",
@@ -52,7 +52,7 @@
                   ]
                 },
                 {
-                  "condition": "age>60andheight>119andheight<140",
+                  "condition": "age>=60andheight>119andheight<140",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-11-20-000014",
@@ -65,7 +65,7 @@
                   ]
                 },
                 {
-                  "condition": "age>60andheight<160andheight>139",
+                  "condition": "age>=60andheight<160andheight>139",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-11-20-000014",
@@ -78,7 +78,7 @@
                   ]
                 },
                 {
-                  "condition": "age>60andheight>159",
+                  "condition": "age>=60andheight>159",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-11-20-000014",
