@@ -24,8 +24,8 @@
                   "condition": "age>0andage<24",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2023-11-20-000015",
-                      "quantity": 1
+                      "productVariantId": "PVAR-2023-11-20-000014",
+                      "quantity": 0.5
                     }
                   ]
                 },
