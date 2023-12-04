@@ -60,22 +60,22 @@
                           {
                             "id": "44pTU3",
                             "boundaryNum": 6,
-                            "name": "Village1",
-                            "localname": "Village1",
+                            "name": "Settlement1",
+                            "localname": "Settlement1",
                             "longitude": null,
                             "latitude": null,
-                            "label": "Village",
+                            "label": "Settlement",
                             "code": "44pTU3",
                             "children": []
                           },
                           {
                             "id": "44pTU4",
                             "boundaryNum": 6,
-                            "name": "Village2",
-                            "localname": "Village2",
+                            "name": "Settlement2",
+                            "localname": "Settlement2",
                             "longitude": null,
                             "latitude": null,
-                            "label": "Village",
+                            "label": "Settlement",
                             "code": "44pTU4",
                             "children": []
                           }
