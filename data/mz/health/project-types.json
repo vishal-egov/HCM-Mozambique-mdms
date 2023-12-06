@@ -22,7 +22,23 @@
           "productVariantId": "PVAR-2022-12-20-000035",
           "isBaseUnitVariant": true
         }
-      ]
+      ],
+      "boundaryData": {
+      "boundaryHierarchy": [
+        { "level": 0, "label": null },
+        { "level": 1, "label": "Country" },
+        { "level": 2, "label": "Province" },
+        { "level": 3, "label": "District" },
+        { "level": 4, "label": "Administrative Province" },
+        { "level": 5, "label": "Locality" },
+        { "level": 6, "label": "Village" }
+      ],
+      "aggregateTarget": {
+        "level": 6,
+        "label": "Village"
+      },
+      "targetColumnHeaders": ["targetHousehold", "targetIndividual"]
+    }
     },
     {
       "id": "a6907f0c-7a91-4c76-afc2-a279d8a7b76a",
