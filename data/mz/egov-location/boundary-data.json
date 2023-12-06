@@ -18,6 +18,158 @@
         "code": "mz",
         "children": [
           {
+            "id": "f59850de397417d5e8324a",
+            "boundaryNum": 2,
+            "name": "Gaza",
+            "localname": "Gaza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "f59850de397417d5e8324a",
+            "children": [
+              {
+                "id": "anBqc48QdZqDYF4H3yqa62",
+                "boundaryNum": 3,
+                "name": "Massangena",
+                "localname": "Massangena",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "anBqc48QdZqDYF4H3yqa62",
+                "children": [
+                  {
+                    "id": "BeaivTqQNSQWHqUBXBPzP4",
+                    "boundaryNum": 4,
+                    "name": "Massangena",
+                    "localname": "Massangena",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Posto Administrativo",
+                    "code": "BeaivTqQNSQWHqUBXBPzP4",
+                    "children": [
+                      {
+                        "id": "7fSGQBky5kax2Ptnp7ZNes",
+                        "boundaryNum": 5,
+                        "name": "Massangena-Sede",
+                        "localname": "Massangena-Sede",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "7fSGQBky5kax2Ptnp7ZNes",
+                        "children": [
+                          {
+                            "id": "fgefuifhfd6d",
+                            "boundaryNum": 6,
+                            "name": "Test health campaign",
+                            "localname": "Test health campaign",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Health Facility",
+                            "code": "fgefuifhfd6d",
+                            "children": [
+                              {
+                                "id": "DRgEWzRQdM7tG6m2jh6BHo",
+                                "boundaryNum": 7,
+                                "name": "Vila De Bocoda",
+                                "localname": "Vila De Bocoda",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Aldeia",
+                                "code": "DRgEWzRQdM7tG6m2jh6BHo",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "fdhjwgvuyg67ferh",
+                            "boundaryNum": 6,
+                            "name": "Test health campaign 2",
+                            "localname": "Test health campaign 2",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Health Facility",
+                            "code": "fdhjwgvuyg67ferh",
+                            "children": [
+                              {
+                                "id": "Pn2gdy8oZVyXryXscTmkCg",
+                                "boundaryNum": 7,
+                                "name": "Chicumbo",
+                                "localname": "Chicumbo",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Aldeia",
+                                "code": "Pn2gdy8oZVyXryXscTmkCg",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "V3zffh45BwarFGzdqxb5dg",
+                        "boundaryNum": 5,
+                        "name": "Mabondzo",
+                        "localname": "Mabondzo",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "V3zffh45BwarFGzdqxb5dg",
+                        "children": [
+                          {
+                            "id": "jzhUYSUYGhdufer4",
+                            "boundaryNum": 6,
+                            "name": "Test health campaign 3",
+                            "localname": "Test health campaign 3",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Health Facility",
+                            "code": "jzhUYSUYGhdufer4",
+                            "children": [
+                              {
+                                "id": "RqSHjNm3ZFHbGmcVFykmY4",
+                                "boundaryNum": 7,
+                                "name": "Maninge",
+                                "localname": "Maninge",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Aldeia",
+                                "code": "RqSHjNm3ZFHbGmcVFykmY4",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "vdhrbDHYHHu3dgds",
+                            "boundaryNum": 6,
+                            "name": "Test health campaign 4",
+                            "localname": "Test health campaign 4",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Health Facility",
+                            "code": "vdhrbDHYHHu3dgds",
+                            "children": [
+                              {
+                                "id": "J8YmG6eVhwuTcyAgkhkRBa",
+                                "boundaryNum": 7,
+                                "name": "Matchendjele",
+                                "localname": "Matchendjele",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Aldeia",
+                                "code": "J8YmG6eVhwuTcyAgkhkRBa",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "id": "123456789",
             "boundaryNum": 2,
             "name": "Test_HCM1",
