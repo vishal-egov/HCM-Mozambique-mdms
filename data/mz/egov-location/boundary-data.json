@@ -18,6 +18,17 @@
         "code": "mz",
         "children": [
           {
+            "id": "123456789",
+            "boundaryNum": 2,
+            "name": "Test_HCM1",
+            "localname": "Test_HCM1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "123456789",
+            "children": []
+          },
+          {
             "id": "f59850de397417d5e8324a",
             "boundaryNum": 2,
             "name": "Gaza",
@@ -168,17 +179,6 @@
                 ]
               }
             ]
-          },
-          {
-            "id": "123456789",
-            "boundaryNum": 2,
-            "name": "Test_HCM1",
-            "localname": "Test_HCM1",
-            "longitude": null,
-            "latitude": null,
-            "label": "Provincia",
-            "code": "123456789",
-            "children": []
           }
         ]
       }
