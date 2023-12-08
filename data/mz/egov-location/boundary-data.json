@@ -113,19 +113,7 @@
                                 "children": []
                               }
                             ]
-                          }
-                        ]
-                      },
-                      {
-                        "id": "V3zffh45BwarFGzdqxb5dg",
-                        "boundaryNum": 5,
-                        "name": "Mabondzo",
-                        "localname": "Mabondzo",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Localidade",
-                        "code": "V3zffh45BwarFGzdqxb5dg",
-                        "children": [
+                          },
                           {
                             "id": "jzhUYSUYGhdufer4",
                             "boundaryNum": 6,
@@ -148,7 +136,19 @@
                                 "children": []
                               }
                             ]
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "id": "V3zffh45BwarFGzdqxb5dg",
+                        "boundaryNum": 5,
+                        "name": "Mabondzo",
+                        "localname": "Mabondzo",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "V3zffh45BwarFGzdqxb5dg",
+                        "children": [
                           {
                             "id": "vdhrbDHYHHu3dgds",
                             "boundaryNum": 6,
@@ -168,6 +168,29 @@
                                 "latitude": null,
                                 "label": "Aldeia",
                                 "code": "J8YmG6eVhwuTcyAgkhkRBa",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "kdfjuyfYTdhd",
+                            "boundaryNum": 6,
+                            "name": "Test health campaign 5",
+                            "localname": "Test health campaign 5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Health Facility",
+                            "code": "kdfjuyfYTdhd",
+                            "children": [
+                              {
+                                "id": "lGfdyetjRFEUEEhe",
+                                "boundaryNum": 7,
+                                "name": "Village 1",
+                                "localname": "Village 1",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Aldeia",
+                                "code": "lGfdyetjRFEUEEhe",
                                 "children": []
                               }
                             ]
