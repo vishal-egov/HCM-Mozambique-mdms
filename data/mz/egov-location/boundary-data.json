@@ -18,6 +18,17 @@
         "code": "mz",
         "children": [
           {
+            "id": "123456789",
+            "boundaryNum": 2,
+            "name": "Test_HCM1",
+            "localname": "Test_HCM1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "123456789",
+            "children": []
+          },
+          {
             "id": "f59850de397417d5e8324a",
             "boundaryNum": 2,
             "name": "Gaza",
@@ -102,19 +113,7 @@
                                 "children": []
                               }
                             ]
-                          }
-                        ]
-                      },
-                      {
-                        "id": "V3zffh45BwarFGzdqxb5dg",
-                        "boundaryNum": 5,
-                        "name": "Mabondzo",
-                        "localname": "Mabondzo",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Localidade",
-                        "code": "V3zffh45BwarFGzdqxb5dg",
-                        "children": [
+                          },
                           {
                             "id": "jzhUYSUYGhdufer4",
                             "boundaryNum": 6,
@@ -137,7 +136,19 @@
                                 "children": []
                               }
                             ]
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "id": "V3zffh45BwarFGzdqxb5dg",
+                        "boundaryNum": 5,
+                        "name": "Mabondzo",
+                        "localname": "Mabondzo",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "V3zffh45BwarFGzdqxb5dg",
+                        "children": [
                           {
                             "id": "vdhrbDHYHHu3dgds",
                             "boundaryNum": 6,
@@ -160,6 +171,29 @@
                                 "children": []
                               }
                             ]
+                          },
+                          {
+                            "id": "kdfjuyfYTdhd",
+                            "boundaryNum": 6,
+                            "name": "Test health campaign 5",
+                            "localname": "Test health campaign 5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Health Facility",
+                            "code": "kdfjuyfYTdhd",
+                            "children": [
+                              {
+                                "id": "lGfdyetjRFEUEEhe",
+                                "boundaryNum": 7,
+                                "name": "Village 1",
+                                "localname": "Village 1",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Aldeia",
+                                "code": "lGfdyetjRFEUEEhe",
+                                "children": []
+                              }
+                            ]
                           }
                         ]
                       }
@@ -170,15 +204,39 @@
             ]
           },
           {
-            "id": "123456789",
+            "id": "earfhrbevbaeuf",
             "boundaryNum": 2,
-            "name": "Test_HCM1",
-            "localname": "Test_HCM1",
+            "name": "Province 1",
+            "localname": "Province 1",
             "longitude": null,
             "latitude": null,
             "label": "Provincia",
-            "code": "123456789",
-            "children": []
+            "code": "earfhrbevbaeuf",
+            "children": [
+              {
+                "id": "dfjbgrjgbzdnf",
+                "boundaryNum": 3,
+                "name": "Distric 1",
+                "localname": "Distric 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "dfjbgrjgbzdnf",
+                "children": [
+                  {
+                    "id": "mrhjhfbefhdfhbg",
+                    "boundaryNum": 4,
+                    "name": "AP 1",
+                    "localname": "AP 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Posto Administrativo",
+                    "code": "mrhjhfbefhdfhbg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
