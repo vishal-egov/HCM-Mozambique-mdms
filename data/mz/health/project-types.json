@@ -37,7 +37,21 @@
         "level": 6,
         "label": "Village"
       },
-      "targetColumnHeaders": ["total_households", "targeted_households","total_individuals","targeted_individuals","estimated_bednets"]
+      "targetColumnHeaders": ["total_households", "targeted_households","total_individuals","targeted_individuals","estimated_bednets"],
+        "totalVsTarget": [
+          {
+            "total": "total_households",
+            "target": "targeted_households"
+          },
+          {
+            "total": "total_individuals",
+            "target": "targeted_individuals"
+          },
+          {
+            "total": "total_bednets",
+            "target": "estimated_bednets"
+          }
+        ]
     }
     },
     {
