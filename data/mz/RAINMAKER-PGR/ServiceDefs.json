@@ -53,20 +53,20 @@
       "order": 1
     },
     {
-      "serviceCode": "Other",
-      "name": "Other",
-      "keywords": "other",
-      "department": "OTHER",
+      "serviceCode": "LackOfInternet",
+      "name": "Lack of internet",
+      "keywords": "technical, internet",
+      "department": "eGov",
       "slaHours": 336,
       "menuPath": "Sync",
       "active": true,
       "order": 1
     },
     {
-      "serviceCode": "LackOfInternet",
-      "name": "Falta de megas",
-      "keywords": "technical, internet",
-      "department": "eGov",
+      "serviceCode": "Other",
+      "name": "Other",
+      "keywords": "other",
+      "department": "OTHER",
       "slaHours": 336,
       "menuPath": "Sync",
       "active": true,
