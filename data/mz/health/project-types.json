@@ -51,6 +51,20 @@
             "total": "total_bednets",
             "target": "estimated_bednets"
           }
+        ],
+        "projectTargets": [
+          {
+            "beneficiarytype": "INDIVIDUAL",
+            "targetedColumn": "targeted_individuals"
+          },
+          {
+            "beneficiarytype": "HOUSEHOLD",
+            "targetedColumn": "targeted_households"
+          },
+          {
+            "beneficiarytype": "PRODUCT",
+            "targetedColumn": "estimated_bednets"
+          }
         ]
     }
     },
