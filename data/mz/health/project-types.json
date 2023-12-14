@@ -406,7 +406,21 @@
           "level": 6,
           "label": "Village"
         },
-        "targetColumnHeaders": ["targetHousehold", "targetIndividual"]
+        "targetColumnHeaders": ["targeted_individuals", "targeted_3_12", "targeted_13_59"],
+        "projectTargets": [
+          {
+            "beneficiarytype": "INDIVIDUAL",
+            "targetedColumn": "targeted_individuals"
+          },
+          {
+            "beneficiarytype": "CHILD3TO12",
+            "targetedColumn": "targeted_3_12"
+          },
+          {
+            "beneficiarytype": "CHILD13TO59",
+            "targetedColumn": "targeted_13_59"
+          }
+        ]
       }
     }
   ]
