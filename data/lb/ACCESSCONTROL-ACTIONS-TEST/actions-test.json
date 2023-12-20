@@ -13147,6 +13147,18 @@
       "serviceCode": "null",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1909,
+      "name": "View Attendance",
+      "url": "",
+      "displayName": "VIEW_ATTENDANCE_LABEL",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
     }
   ]
 }
