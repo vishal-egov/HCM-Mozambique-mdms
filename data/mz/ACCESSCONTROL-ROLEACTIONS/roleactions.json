@@ -18781,6 +18781,48 @@
       "actionid": 1666,
       "actioncode": "",
       "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1911,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1911,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1911,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "COMMUNITY_SUPERVISOR",
+      "actionid": 1911,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_SUPERVISOR",
+      "actionid": 1911,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "LOGISTIC_FOCAL_POINT",
+      "actionid": 1911,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "SUPERVISOR",
+      "actionid": 1911,
+      "actioncode": "",
+      "tenantid": "mz"
     }
   ]
 }

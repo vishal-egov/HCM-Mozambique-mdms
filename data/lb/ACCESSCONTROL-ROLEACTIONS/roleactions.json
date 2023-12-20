@@ -18769,6 +18769,18 @@
       "actionid": 1666,
       "actioncode": "",
       "tenantid": "lb"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1910,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1910,
+      "actioncode": "",
+      "tenantid": "lb"
     }
   ]
 }
