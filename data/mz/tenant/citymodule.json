@@ -45,6 +45,17 @@
           "code": "mz"
         }
       ]
+    },
+    {
+      "module": "Utilities",
+      "code": "Utilities",
+      "active": true,
+      "order": 5,
+      "tenants": [
+        {
+          "code": "mz"
+        }
+      ]
     }
   ]
 }
