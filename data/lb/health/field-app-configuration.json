@@ -273,6 +273,13 @@
           },
           {
             "type": "LOCALIZATION_MODULE",
+            "name": "hcm-attendance",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
             "name": "hcm-household",
             "config": {
               "localStoreTTL": 172800
