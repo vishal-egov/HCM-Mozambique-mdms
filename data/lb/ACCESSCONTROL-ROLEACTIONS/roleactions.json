@@ -18901,6 +18901,18 @@
       "actionid": 1920,
       "actioncode": "",
       "tenantid": "lb"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1909,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1909,
+      "actioncode": "",
+      "tenantid": "lb"
     }
   ]
 }
