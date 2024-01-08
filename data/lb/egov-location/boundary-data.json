@@ -46,7 +46,7 @@
                     "latitude": null,
                     "label": "Community",
                     "code": "9VF8znNYVyMT2MhEpgtNrn",
-                    "area": "test_distribution_center",
+                    "area": "Distribution Post 1",
                     "children": []
                   },
                   {
@@ -58,6 +58,7 @@
                     "latitude": null,
                     "label": "Community",
                     "code": "44pTU3wW4ezz5kmCNji85J",
+                    "area": "Distribution Post 2",
                     "children": []
                   }
                 ]
@@ -81,6 +82,7 @@
                     "latitude": null,
                     "label": "Community",
                     "code": "DChZ8DxSE9ntfreW8jvMtD",
+                    "area": "Distribution Post 3",
                     "children": []
                   },
                   {
@@ -92,6 +94,7 @@
                     "latitude": null,
                     "label": "Community",
                     "code": "E3SCXJRaAw9xFkA7pT7cPg",
+                    "area": "Distribution Post 4",
                     "children": []
                   }
                 ]
@@ -127,6 +130,7 @@
                     "latitude": null,
                     "label": "Community",
                     "code": "9VF8znNYVyMT2",
+                    "area": "Distribution Post 5",
                     "children": []
                   },
                   {
@@ -138,6 +142,7 @@
                     "latitude": null,
                     "label": "Community",
                     "code": "44pTU3wW4ezz5km",
+                    "area": "Distribution Post 6",
                     "children": []
                   }
                 ]
@@ -161,6 +166,7 @@
                     "latitude": null,
                     "label": "Community",
                     "code": "9VF8znN",
+                    "area": "Distribution Post 7",
                     "children": []
                   },
                   {
@@ -172,6 +178,7 @@
                     "latitude": null,
                     "label": "Community",
                     "code": "44pTU3wW",
+                    "area": "Distribution Post 8",
                     "children": []
                   }
                 ]
