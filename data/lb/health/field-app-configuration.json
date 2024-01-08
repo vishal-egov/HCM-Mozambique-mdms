@@ -192,32 +192,32 @@
       ],
       "TRANSPORT_TYPES": [
         {
-          "code": "TRANSPORT_TYPE_1",
-          "name": "Camião"
+          "code": "TRUCK",
+          "name": "Truck"
         },
         {
-          "code": "TRANSPORT_TYPE_2",
-          "name": "Cabina duple"
+          "code": "DOUBLE_CABIN",
+          "name": "Double cabin"
         },
         {
-          "code": "TRANSPORT_TYPE_3",
-          "name": "Cabina Simple"
+          "code": "SINGLE_CABIN",
+          "name": "Single Cabin"
         },
         {
-          "code": "TRANSPORT_TYPE_4",
-          "name": "Carrinha"
+          "code": "VAN",
+          "name": "Van"
         },
         {
-          "code": "TRANSPORT_TYPE_5",
-          "name": "Motorizadas"
+          "code": "MOTORCYCLE",
+          "name": "Motorcycle"
         },
         {
-          "code": "Em mão",
-          "name": "Em mão"
+          "code": "IN_HAND",
+          "name": "In Hand"
         },
         {
-          "code": "Trator",
-          "name": "Trator"
+          "code": "TRACTOR",
+          "name": "Tractor"
         }
       ],
       "BACKEND_INTERFACE": {
