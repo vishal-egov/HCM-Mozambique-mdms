@@ -16,6 +16,7 @@
       "defaultLanguage": "en_LB",
       "isCitySelectionDisabled": true,
       "defaultCity": "lb",
+      "complaintBoundaryType": "District",
       "languages": [
         {
           "label": "ENGLISH",
