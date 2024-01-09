@@ -62,64 +62,8 @@
       ],
       "CHECKLIST_TYPES": [
         {
-          "name": "REGISTRATION_BASIC",
-          "code": "REGISTRATION_BASIC"
-        },
-        {
-          "name": "LOCAL_MONITOR_TRAINING",
-          "code": "LOCAL_MONITOR_TRAINING"
-        },
-        {
-          "name": "DISTRICT_MONITOR_TRAINING",
-          "code": "DISTRICT_MONITOR_TRAINING"
-        },
-        {
-          "name": "REGISTRATION_TEAM_TRAINING",
-          "code": "REGISTRATION_TEAM_TRAINING"
-        },
-        {
-          "name": "AS_MONITORING",
-          "code": "AS_MONITORING"
-        },
-        {
-          "name": "MATERIAL_RECEIVED",
-          "code": "MATERIAL_RECEIVED"
-        },
-        {
-          "name": "MATERIAL_ISSUED",
-          "code": "MATERIAL_ISSUED"
-        },
-        {
-          "name": "SOCIAL_MOBILIZATION",
-          "code": "SOCIAL_MOBILIZATION"
-        },
-        {
-          "name": "REFERRAL",
-          "code": "REFERRAL"
-        },
-        {
-          "name": "HEALTH_PROFESSIONAL",
-          "code": "HEALTH_PROFESSIONAL"
-        },
-        {
-          "name": "ADMINISTRATION",
-          "code": "ADMINISTRATION"
-        },
-        {
-          "name": "STOCK_MANAGEMENT",
-          "code": "STOCK_MANAGEMENT"
-        },
-        {
-          "name": "PERFORMANCE_STANDARD",
-          "code": "PERFORMANCE_STANDARD"
-        },
-        {
-          "name": "PHARMACOVIGILANCE",
-          "code": "PHARMACOVIGILANCE"
-        },
-        {
-          "name": "SPAQ_CONCILIATION",
-          "code": "SPAQ_CONCILIATION"
+          "name": "END_PROCESS_DISTRIBUTION",
+          "code": "END_PROCESS_DISTRIBUTION"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
