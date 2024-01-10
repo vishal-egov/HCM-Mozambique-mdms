@@ -3,11 +3,6 @@
   "moduleName": "egov-boundary-hierarchy",
   "boundaryHierarchy": [
     {
-      "level": 0,
-      "label": null,
-      "indexLabel": null
-    },
-    {
       "level": 1,
       "label": "Country",
       "indexLabel": "country"
