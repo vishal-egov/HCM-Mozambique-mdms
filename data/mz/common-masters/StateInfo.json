@@ -4,10 +4,10 @@
   "StateInfo": [
     {
       "name": "Tete",
-      "code":"mz",
+      "code": "mz",
       "bannerUrl": "https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/moz-mal-cmpn.png",
-      "logoUrl":"https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/moz-gov-logo.jpeg",
-      "digitLogoUrl":"https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/digit-logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/moz-gov-logo.jpeg",
+      "digitLogoUrl": "https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/digit-logo.png",
       "headerProgramLogoUrl": "https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/moz-prg-logo.png",
       "customReportsDriveLink": "https://drive.google.com/drive/folders/1Fr9DvzNkGNCTGuTqXFW3M98Czxp4wc_Z",
       "hasLocalisation": true,
@@ -16,6 +16,12 @@
       "defaultLanguage": "pt_MZ",
       "isCitySelectionDisabled": true,
       "defaultCity": "mz",
+      "HRMS_CONSTANTS": {
+        "DEFAULT_DEPARTMENT": "OTHER",
+        "DEFAULT_DOB": "1970-01-01",
+        "INDIA_COUNTRY_CODE": "+91",
+        "MOZ_COUNTRY_CODE": "+258"
+      },
       "languages": [
         {
           "label": "ENGLISH",
