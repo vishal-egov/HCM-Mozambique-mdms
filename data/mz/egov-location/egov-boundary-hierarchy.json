@@ -1,0 +1,36 @@
+{
+  "tenantId": "mz",
+  "moduleName": "egov-boundary-hierarchy",
+  "boundaryHierarchy": [
+    {
+      "level": 1,
+      "label": "Country",
+      "indexLabel": "country"
+    },
+    {
+      "level": 2,
+      "label": "Provincia",
+      "indexLabel": "province"
+    },
+    {
+      "level": 3,
+      "label": "Distrito",
+      "indexLabel": "district"
+    },
+    {
+      "level": 4,
+      "label": "Posto Administrativo",
+      "indexLabel": "administrativeProvince"
+    },
+    {
+      "level": 5,
+      "label": "Localidade",
+      "indexLabel": "locality"
+    },
+    {
+      "level": 6,
+      "label": "Aldeia",
+      "indexLabel": "village"
+    }
+  ]
+}
