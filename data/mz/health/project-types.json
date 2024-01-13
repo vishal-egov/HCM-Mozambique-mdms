@@ -621,25 +621,21 @@
           "label": "Village"
         },
         "targetColumnHeaders": [
-          "total_households",
-          "targeted_households",
           "total_individuals",
           "targeted_individuals",
-          "estimated_bednets"
+          "total_3_11",
+          "targeted_3_11",
+          "total_12_59",
+          "targeted_12_59",
+          "total_spaq_1",
+          "targeted_spaq_1",
+          "total_spaq_2",
+          "targeted_spaq_2",
+          "total_spaq",
+          "health_facility",
+          "checklist_target"
         ],
         "totalVsTarget": [
-          {
-            "total": "total_households",
-            "target": "targeted_households"
-          },
-          {
-            "total": "total_individuals",
-            "target": "targeted_individuals"
-          },
-          {
-            "total": "total_bednets",
-            "target": "estimated_bednets"
-          }
         ],
         "projectTargets": [
           {
@@ -647,12 +643,24 @@
             "targetedColumn": "targeted_individuals"
           },
           {
-            "beneficiarytype": "HOUSEHOLD",
-            "targetedColumn": "targeted_households"
+            "beneficiarytype": "3-11MONTH",
+            "targetedColumn": "targeted_3_11"
+          },
+          {
+            "beneficiarytype": "12-59MONTH",
+            "targetedColumn": "targeted_12_59"
           },
           {
             "beneficiarytype": "PRODUCT",
-            "targetedColumn": "estimated_bednets"
+            "targetedColumn": "total_spaq"
+          },
+          {
+            "beneficiarytype": "SPAQ1",
+            "targetedColumn": "targeted_spaq_1"
+          },
+          {
+            "beneficiarytype": "SPAQ2",
+            "targetedColumn": "targeted_spaq_2"
           }
         ]
       }
