@@ -631,8 +631,7 @@
           "targeted_spaq_1",
           "total_spaq_2",
           "targeted_spaq_2",
-          "total_spaq",
-          "checklist_target"
+          "total_spaq"
         ],
         "totalVsTarget": [
         ],
