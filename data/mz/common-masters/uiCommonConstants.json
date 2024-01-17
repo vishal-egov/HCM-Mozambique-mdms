@@ -4,7 +4,7 @@
     "uiCommonConstants": [
       {
         "elastic": {
-          "hcm-moz-routes": {
+          "iframe-routes": {
             "home": {
               "routePath": "/kibana-upgrade/login",
               "isOrigin": true
