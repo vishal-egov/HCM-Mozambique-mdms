@@ -1,21 +1,36 @@
 {
-    "tenantId": "mz",
-    "moduleName": "common-masters",
-    "uiCommonConstants": [
-      {
-        "elastic": {
-          "iframe-routes": {
-            "home": {
-              "routePath": "/kibana-upgrade/login",
-              "isOrigin": true
-            },
-            "hcmtest": {
-              "routePath": "/kibana-upgrade/app/dashboards?auth_provider_hint=anonymous1#/view/bd787a10-b06c-11ee-9699-f1700406d964?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))&_a=(description:'',filters:!(),fullScreenMode:!f,options:(hidePanelTitles:!f,syncColors:!f,syncTooltips:!f,useMargins:!t),panels:!((embeddableConfig:(attributes:(references:!((id:'853bdd54-f07c-4ee0-9765-021f9c9f9129',name:indexpattern-datasource-layer-f5a6e810-6fe6-4427-9950-5db302a9607f,type:index-pattern)),state:(adHocDataViews:(),datasourceStates:(indexpattern:(layers:(f5a6e810-6fe6-4427-9950-5db302a9607f:(columnOrder:!('63884591-66bf-42b5-9ca4-003ecce940e8','63884591-66bf-42b5-9ca4-003ecce940e8X0'),columns:('63884591-66bf-42b5-9ca4-003ecce940e8':(dataType:number,isBucketed:!f,label:'unique_count(household.id.keyword)',operationType:formula,params:(formula:'unique_count(household.id.keyword)',isFormulaBroken:!f),references:!('63884591-66bf-42b5-9ca4-003ecce940e8X0'),scale:ratio),'63884591-66bf-42b5-9ca4-003ecce940e8X0':(customLabel:!t,dataType:number,isBucketed:!f,label:'Part%20of%20unique_count(household.id.keyword)',operationType:unique_count,params:(emptyAsNull:!f),scale:ratio,sourceField:household.id.keyword)),incompleteColumns:('63884591-66bf-42b5-9ca4-003ecce940e8':(operationType:unique_count)))))),filters:!(),internalReferences:!(),query:(language:kuery,query:''),visualization:(accessor:'63884591-66bf-42b5-9ca4-003ecce940e8',layerId:f5a6e810-6fe6-4427-9950-5db302a9607f,layerType:data)),title:'',type:lens,visualizationType:lnsLegacyMetric),enhancements:()),gridData:(h:15,i:'6cb14eba-1502-47a1-bc23-8e58bca066bb',w:24,x:0,y:0),panelIndex:'6cb14eba-1502-47a1-bc23-8e58bca066bb',type:lens,version:'8.5.1')),query:(language:kuery,query:''),tags:!(),timeRestore:!f,title:'Sample%20dashboard',viewMode:edit)",
-              "isOrigin": true,
-              "title": "DASHBOARD_HCM"
-            }
+  "tenantId": "mz",
+  "moduleName": "common-masters",
+  "uiCommonConstants": [
+    {
+      "elastic": {
+        "hcm-moz-routes": {
+          "home": {
+            "routePath": "/kibana-upgrade/login",
+            "isOrigin": true
+          },
+          "hcmtest": {
+            "routePath": "/kibana-upgrade/app/dashboards?auth_provider_hint=anonymous1#/view/bd787a10-b06c-11ee-9699-f1700406d964?_g=(refreshInterval:(pause:!t,value:60000),time:(from:'2024-01-18T05:16:00.000Z',to:'2024-01-18T05:16:30.000Z'))&_a=()",
+            "isOrigin": true,
+            "title": "DASHBOARD_HCM"
+          },
+          "district1": {
+            "routePath": "/kibana-upgrade/app/dashboards?auth_provider_hint=anonymous1#/view/e2a61420-b5bf-11ee-8d45-19e9ae7c281d?_g=(refreshInterval:(pause:!t,value:60000),time:(from:'2024-01-18T05:16:00.000Z',to:'2024-01-18T05:16:30.000Z'))&_a=()",
+            "isOrigin": true,
+            "title": "DISTRICT1_DASHBOARD"
+          },
+          "province1": {
+            "routePath": "/kibana-upgrade/app/dashboards?auth_provider_hint=anonymous1#/view/eb5e85a0-b5c1-11ee-8d45-19e9ae7c281d?_g=(refreshInterval:(pause:!t,value:60000),time:(from:'2024-01-18T05:16:00.000Z',to:'2024-01-18T05:16:30.000Z'))&_a=()",
+            "isOrigin": true,
+            "title": "PROVINCE1_DASHBOARD"
+          },
+          "national": {
+            "routePath": "/kibana-upgrade/app/dashboards?auth_provider_hint=anonymous1#/view/44c2a080-b5c3-11ee-8d45-19e9ae7c281d?_g=(refreshInterval:(pause:!t,value:60000),time:(from:'2024-01-18T05:16:00.000Z',to:'2024-01-18T05:16:30.000Z'))&_a=()",
+            "isOrigin": true,
+            "title": "NATIONAL_DASHBOARD"
           }
         }
       }
-    ]
-  }
+    }
+  ]
+}
