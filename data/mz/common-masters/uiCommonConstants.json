@@ -10,7 +10,7 @@
             "isOrigin": true
           },
           "hcmtest": {
-            "routePath": "/kibana-upgrade/app/dashboards?auth_provider_hint=anonymous1#/view/bd787a10-b06c-11ee-9699-f1700406d964?_g=(refreshInterval:(pause:!t,value:60000),time:(from:'2024-01-18T05:16:00.000Z',to:'2024-01-18T05:16:30.000Z'))&_a=()",
+            "routePath": "/kibana8/app/dashboards#/view/2c6f6c20-aed9-11ee-8b31-1d71be3d712a?_g=(filters:!((query:(match_phrase:(Data.boundaryHierarchy.district:Nampula)))))",
             "isOrigin": true,
             "title": "DASHBOARD_HCM"
           },
