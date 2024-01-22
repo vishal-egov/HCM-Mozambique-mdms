@@ -13154,7 +13154,7 @@
       "enabled": true,
       "serviceCode": "iframe",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/district",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/district?query=true",
       "path": "iframe.HCM",
       "leftIcon": ""
     },
@@ -13168,7 +13168,7 @@
       "enabled": true,
       "serviceCode": "iframe",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/province",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/province?query=true",
       "path": "iframe.HCM",
       "leftIcon": ""
     }
