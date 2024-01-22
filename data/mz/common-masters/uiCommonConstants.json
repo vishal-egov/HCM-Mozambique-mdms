@@ -14,20 +14,20 @@
             "isOrigin": true,
             "title": "DASHBOARD_HCM"
           },
-          "district1": {
-            "routePath": "/kibana-upgrade/app/dashboards?auth_provider_hint=anonymous1#/view/e2a61420-b5bf-11ee-8d45-19e9ae7c281d?_g=(refreshInterval:(pause:!t,value:60000),time:(from:'2024-01-18T05:16:00.000Z',to:'2024-01-18T05:16:30.000Z'))&_a=()",
-            "isOrigin": true,
-            "title": "DISTRICT1_DASHBOARD"
-          },
-          "province1": {
-            "routePath": "/kibana-upgrade/app/dashboards?auth_provider_hint=anonymous1#/view/eb5e85a0-b5c1-11ee-8d45-19e9ae7c281d?_g=(refreshInterval:(pause:!t,value:60000),time:(from:'2024-01-18T05:16:00.000Z',to:'2024-01-18T05:16:30.000Z'))&_a=()",
-            "isOrigin": true,
-            "title": "PROVINCE1_DASHBOARD"
-          },
           "national": {
-            "routePath": "/kibana-upgrade/app/dashboards?auth_provider_hint=anonymous1#/view/44c2a080-b5c3-11ee-8d45-19e9ae7c281d?_g=(refreshInterval:(pause:!t,value:60000),time:(from:'2024-01-18T05:16:00.000Z',to:'2024-01-18T05:16:30.000Z'))&_a=()",
+            "routePath": "/kibana-upgrade/s/moz/app/dashboards?auth_provider_hint=anonymous1#/view/fb59e2ff-e6d3-4afa-bc1d-dbc6c785bf9c?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))&_a=()",
             "isOrigin": true,
             "title": "NATIONAL_DASHBOARD"
+          },
+          "district": {
+            "routePath": "/kibana-upgrade/s/moz/app/dashboards#/view/b01a97ef-17ea-4903-9a07-6adf3437546c?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+            "isOrigin": true,
+            "title": "DISTRICT_DASHBOARD"
+          },
+          "province": {
+            "routePath": "kibana-upgrade/s/moz/app/dashboards#/view/b01a97ef-17ea-4903-9a07-6adf3437546c?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+            "isOrigin": true,
+            "title": "PROVINCE_DASHBOARD"
           }
         }
       }
