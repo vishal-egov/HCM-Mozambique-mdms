@@ -9,28 +9,18 @@
     },
     {
       "level": 2,
-      "label": "Provincia",
-      "indexLabel": "province"
+      "label": "County",
+      "indexLabel": "county"
     },
     {
       "level": 3,
-      "label": "Distrito",
+      "label": "District",
       "indexLabel": "district"
     },
     {
       "level": 4,
-      "label": "Posto Administrativo",
-      "indexLabel": "administrativeProvince"
-    },
-    {
-      "level": 5,
-      "label": "Localidade",
-      "indexLabel": "locality"
-    },
-    {
-      "level": 6,
-      "label": "Aldeia",
-      "indexLabel": "village"
+      "label": "Community",
+      "indexLabel": "community"
     }
   ]
 }
