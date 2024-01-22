@@ -62,8 +62,44 @@
       ],
       "CHECKLIST_TYPES": [
         {
+          "name": "DATA_COLLECTION_SYNCING_ETC",
+          "code": "DATA_COLLECTION_SYNCING_ETC"
+        },
+        {
+          "name": "DEVICES_DIGITALIZATION",
+          "code": "DEVICES_DIGITALIZATION"
+        },
+        {
+          "name": "DISTRIBUTION_PROCESS",
+          "code": "DISTRIBUTION_PROCESS"
+        },
+        {
+          "name": "EXIT_INTERVIEWS_AT_THE_DP",
+          "code": "EXIT_INTERVIEWS_AT_THE_DP"
+        },
+        {
           "name": "END_PROCESS_DISTRIBUTION",
           "code": "END_PROCESS_DISTRIBUTION"
+        },
+        {
+          "name": "END_PROCESS_REGISTRATION",
+          "code": "END_PROCESS_REGISTRATION"
+        },
+        {
+          "name": "IN_PROCESS_REGISTRATION",
+          "code": "IN_PROCESS_REGISTRATION"
+        },
+        {
+          "name": "LOGISTICS",
+          "code": "LOGISTICS"
+        },
+        {
+          "name": "OVERALL_ORGANIZATION_OF_DPs",
+          "code": "OVERALL_ORGANIZATION_OF_DPs"
+        },
+        {
+          "name": "SOCIAL_BEHAVIOURAL_CHANGE",
+          "code": "SOCIAL_BEHAVIOURAL_CHANGE"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
