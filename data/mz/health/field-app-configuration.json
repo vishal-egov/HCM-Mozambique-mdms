@@ -102,8 +102,8 @@
           "code": "HEALTH_PROFESSIONAL"
         },
         {
-          "name": "ADMINISTRATION",
-          "code": "ADMINISTRATION"
+          "name": "TEAM_SUPERVISION",
+          "code": "TEAM_SUPERVISION"
         },
         {
           "name": "STOCK_MANAGEMENT",
@@ -118,8 +118,16 @@
           "code": "PHARMACOVIGILANCE"
         },
         {
-          "name": "SPAQ_CONCILIATION",
-          "code": "SPAQ_CONCILIATION"
+          "name": "SPAQ_RECEIVED",
+          "code": "SPAQ_RECEIVED"
+        },
+        {
+          "name": "SPAQ_ISSUED",
+          "code": "SPAQ_ISSUED"
+        },
+        {
+          "name": "PAYMENT_DATA",
+          "code": "PAYMENT_DATA"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
@@ -182,12 +190,12 @@
       ],
       "DELIVERY_COMMENT_OPTIONS_SMC_POPULATOR": [
         {
-          "code": "SUCCESSFUL_DELIVERY",
-          "name": "Entrega com sucesso"
+          "code": "ADMINISTRATION_SUCCESSFUL",
+          "name": "Readministração com sucesso"
         },
         {
-          "code": "BENEFICIARY_REFERRED",
-          "name": "Beneficiário encaminhado"
+          "code": "ADMINISTRATION_NOT_SUCCESSFUL",
+          "name": "Readministração sem sucesso"
         }
       ],
       "TRANSPORT_TYPES": [

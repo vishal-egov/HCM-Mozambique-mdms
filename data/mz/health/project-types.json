@@ -15,11 +15,7 @@
       },
       "resources": [
         {
-          "productVariantId": "PVAR-2022-12-20-000034",
-          "isBaseUnitVariant": false
-        },
-        {
-          "productVariantId": "PVAR-2022-12-20-000035",
+          "productVariantId": "PVAR-2023-07-11-000001",
           "isBaseUnitVariant": true
         }
       ]
@@ -44,7 +40,85 @@
           "productVariantId": "PVAR-2022-12-20-000037",
           "isBaseUnitVariant": true
         }
-      ]
+      ],
+      "boundaryData": {
+        "boundaryHierarchy": [
+          {
+            "level": 0,
+            "label": null,
+            "indexLabel": null
+          },
+          {
+            "level": 1,
+            "label": "Country",
+            "indexLabel": "country"
+          },
+          {
+            "level": 2,
+            "label": "Provincia",
+            "indexLabel": "province"
+          },
+          {
+            "level": 3,
+            "label": "Distrito",
+            "indexLabel": "district"
+          },
+          {
+            "level": 4,
+            "label": "Posto Administrativo",
+            "indexLabel": "administrativeProvince"
+          },
+          {
+            "level": 5,
+            "label": "Localidade",
+            "indexLabel": "locality"
+          },
+          {
+            "level": 6,
+            "label": "Aldeia",
+            "indexLabel": "village"
+          }
+        ],
+        "aggregateTarget": {
+          "level": 6,
+          "label": "Village"
+        },
+        "targetColumnHeaders": [
+          "total_households",
+          "targeted_households",
+          "total_individuals",
+          "targeted_individuals",
+          "estimated_bednets"
+        ],
+        "totalVsTarget": [
+          {
+            "total": "total_households",
+            "target": "targeted_households"
+          },
+          {
+            "total": "total_individuals",
+            "target": "targeted_individuals"
+          },
+          {
+            "total": "total_bednets",
+            "target": "estimated_bednets"
+          }
+        ],
+        "projectTargets": [
+          {
+            "beneficiarytype": "INDIVIDUAL",
+            "targetedColumn": "targeted_individuals"
+          },
+          {
+            "beneficiarytype": "HOUSEHOLD",
+            "targetedColumn": "targeted_households"
+          },
+          {
+            "beneficiarytype": "PRODUCT",
+            "targetedColumn": "estimated_bednets"
+          }
+        ]
+      }
     },
     {
       "id": "b1107f0c-7a91-4c76-afc2-a279d8a7b76a",
@@ -61,7 +135,85 @@
           "productVariantId": "PVAR-2022-12-20-000039",
           "isBaseUnitVariant": true
         }
-      ]
+      ],
+      "boundaryData": {
+        "boundaryHierarchy": [
+          {
+            "level": 0,
+            "label": null,
+            "indexLabel": null
+          },
+          {
+            "level": 1,
+            "label": "Country",
+            "indexLabel": "country"
+          },
+          {
+            "level": 2,
+            "label": "Provincia",
+            "indexLabel": "province"
+          },
+          {
+            "level": 3,
+            "label": "Distrito",
+            "indexLabel": "district"
+          },
+          {
+            "level": 4,
+            "label": "Posto Administrativo",
+            "indexLabel": "administrativeProvince"
+          },
+          {
+            "level": 5,
+            "label": "Localidade",
+            "indexLabel": "locality"
+          },
+          {
+            "level": 6,
+            "label": "Aldeia",
+            "indexLabel": "village"
+          }
+        ],
+        "aggregateTarget": {
+          "level": 6,
+          "label": "Village"
+        },
+        "targetColumnHeaders": [
+          "total_households",
+          "targeted_households",
+          "total_individuals",
+          "targeted_individuals",
+          "estimated_bednets"
+        ],
+        "totalVsTarget": [
+          {
+            "total": "total_households",
+            "target": "targeted_households"
+          },
+          {
+            "total": "total_individuals",
+            "target": "targeted_individuals"
+          },
+          {
+            "total": "total_bednets",
+            "target": "estimated_bednets"
+          }
+        ],
+        "projectTargets": [
+          {
+            "beneficiarytype": "INDIVIDUAL",
+            "targetedColumn": "targeted_individuals"
+          },
+          {
+            "beneficiarytype": "HOUSEHOLD",
+            "targetedColumn": "targeted_households"
+          },
+          {
+            "beneficiarytype": "PRODUCT",
+            "targetedColumn": "estimated_bednets"
+          }
+        ]
+      }
     },
     {
       "id": "40a528a0-4e0e-11ee-be56-0242ac120002",
@@ -159,7 +311,85 @@
             }
           ]
         }
-      ]
+      ],
+      "boundaryData": {
+        "boundaryHierarchy": [
+          {
+            "level": 0,
+            "label": null,
+            "indexLabel": null
+          },
+          {
+            "level": 1,
+            "label": "Country",
+            "indexLabel": "country"
+          },
+          {
+            "level": 2,
+            "label": "Provincia",
+            "indexLabel": "province"
+          },
+          {
+            "level": 3,
+            "label": "Distrito",
+            "indexLabel": "district"
+          },
+          {
+            "level": 4,
+            "label": "Posto Administrativo",
+            "indexLabel": "administrativeProvince"
+          },
+          {
+            "level": 5,
+            "label": "Localidade",
+            "indexLabel": "locality"
+          },
+          {
+            "level": 6,
+            "label": "Aldeia",
+            "indexLabel": "village"
+          }
+        ],
+        "aggregateTarget": {
+          "level": 6,
+          "label": "Village"
+        },
+        "targetColumnHeaders": [
+          "total_households",
+          "targeted_households",
+          "total_individuals",
+          "targeted_individuals",
+          "estimated_bednets"
+        ],
+        "totalVsTarget": [
+          {
+            "total": "total_households",
+            "target": "targeted_households"
+          },
+          {
+            "total": "total_individuals",
+            "target": "targeted_individuals"
+          },
+          {
+            "total": "total_bednets",
+            "target": "estimated_bednets"
+          }
+        ],
+        "projectTargets": [
+          {
+            "beneficiarytype": "INDIVIDUAL",
+            "targetedColumn": "targeted_individuals"
+          },
+          {
+            "beneficiarytype": "HOUSEHOLD",
+            "targetedColumn": "targeted_households"
+          },
+          {
+            "beneficiarytype": "PRODUCT",
+            "targetedColumn": "estimated_bednets"
+          }
+        ]
+      }
     },
     {
       "id": "644c4356-5214-11ee-be56-0242ac120002",
@@ -183,8 +413,8 @@
       "cycles": [
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1698777000000,
-          "endDate": 1701325799000,
+          "startDate": 1705343399000,
+          "endDate": 1706034599000,
           "id": 1,
           "deliveries": [
             {
@@ -266,8 +496,8 @@
         },
         {
           "mandatoryWaitSinceLastCycleInDays": "30",
-          "startDate": 1701369000000,
-          "endDate": 1704004199000,
+          "startDate": 1706034600000,
+          "endDate": 1706725799000,
           "id": 2,
           "deliveries": [
             {
@@ -347,7 +577,91 @@
             }
           ]
         }
-      ]
+      ],
+      "boundaryData": {
+        "boundaryHierarchy": [
+          {
+            "level": 0,
+            "label": null,
+            "indexLabel": null
+          },
+          {
+            "level": 1,
+            "label": "Country",
+            "indexLabel": "country"
+          },
+          {
+            "level": 2,
+            "label": "Provincia",
+            "indexLabel": "province"
+          },
+          {
+            "level": 3,
+            "label": "Distrito",
+            "indexLabel": "district"
+          },
+          {
+            "level": 4,
+            "label": "Posto Administrativo",
+            "indexLabel": "administrativeProvince"
+          },
+          {
+            "level": 5,
+            "label": "Localidade",
+            "indexLabel": "locality"
+          },
+          {
+            "level": 6,
+            "label": "Aldeia",
+            "indexLabel": "village"
+          }
+        ],
+        "aggregateTarget": {
+          "level": 6,
+          "label": "Village"
+        },
+        "targetColumnHeaders": [
+          "total_individuals",
+          "targeted_individuals",
+          "total_3_11",
+          "targeted_3_11",
+          "total_12_59",
+          "targeted_12_59",
+          "total_spaq_1",
+          "targeted_spaq_1",
+          "total_spaq_2",
+          "targeted_spaq_2",
+          "total_spaq"
+        ],
+        "totalVsTarget": [
+        ],
+        "projectTargets": [
+          {
+            "beneficiarytype": "INDIVIDUAL",
+            "targetedColumn": "targeted_individuals"
+          },
+          {
+            "beneficiarytype": "3-11MONTH",
+            "targetedColumn": "targeted_3_11"
+          },
+          {
+            "beneficiarytype": "12-59MONTH",
+            "targetedColumn": "targeted_12_59"
+          },
+          {
+            "beneficiarytype": "PRODUCT",
+            "targetedColumn": "total_spaq"
+          },
+          {
+            "beneficiarytype": "SPAQ1",
+            "targetedColumn": "targeted_spaq_1"
+          },
+          {
+            "beneficiarytype": "SPAQ2",
+            "targetedColumn": "targeted_spaq_2"
+          }
+        ]
+      }
     }
   ]
 }

@@ -35,56 +35,68 @@
             "rank": 8
         },
         {
-            "code": "EMPLOYEE",
+            "code": "HEALTH_FACILITY_SUPERVISOR",
             "rank": 9
         },
         {
-            "code": "CITIZEN",
+            "code": "COMMUNITY_SUPERVISOR",
             "rank": 10
         },
         {
-            "code": "INTERNAL_MICROSERVICE_ROLE",
+            "code": "COMMUNITY_DISTRIBUTOR",
             "rank": 11
         },
         {
-            "code": "DHIS2_SUPERUSER",
+            "code": "EMPLOYEE",
             "rank": 12
         },
         {
-            "code": "CSR",
+            "code": "CITIZEN",
             "rank": 13
         },
         {
-            "code": "SUPERUSER",
+            "code": "INTERNAL_MICROSERVICE_ROLE",
             "rank": 14
         },
         {
-            "code": "L2_SUPPORT",
+            "code": "DHIS2_SUPERUSER",
             "rank": 15
         },
         {
-            "code": "HELPDESK_USER",
+            "code": "CSR",
             "rank": 16
         },
         {
-            "code": "HRMS_ADMIN",
+            "code": "SUPERUSER",
             "rank": 17
         },
         {
-            "code": "PGR-ADMIN",
+            "code": "L2_SUPPORT",
             "rank": 18
         },
         {
-            "code": "SYSTEM_ADMINISTRATOR",
+            "code": "HELPDESK_USER",
             "rank": 19
         },
         {
-            "code": "FIELD_SUPERVISOR",
+            "code": "HRMS_ADMIN",
             "rank": 20
         },
         {
-            "code": "SUPERVISOR",
+            "code": "PGR-ADMIN",
             "rank": 21
+        },
+        {
+            "code": "SYSTEM_ADMINISTRATOR",
+            "rank": 22
+        },
+        {
+            "code": "FIELD_SUPERVISOR",
+            "rank": 23
+        },
+        {
+            "code": "SUPERVISOR",
+            "rank": 24
         }
     ]
 }

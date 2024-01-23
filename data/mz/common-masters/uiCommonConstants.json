@@ -1,0 +1,36 @@
+{
+  "tenantId": "mz",
+  "moduleName": "common-masters",
+  "uiCommonConstants": [
+    {
+      "elastic": {
+        "iframe-routes": {
+          "home": {
+            "routePath": "/kibana-upgrade/login",
+            "isOrigin": true
+          },
+          "hcmtest": {
+            "routePath": "/kibana8/app/dashboards#/view/2c6f6c20-aed9-11ee-8b31-1d71be3d712a?_g=(filters:!((query:(match_phrase:(Data.boundaryHierarchy.district:Nampula)))))",
+            "isOrigin": true,
+            "title": "DASHBOARD_HCM"
+          },
+          "national": {
+            "routePath": "/kibana-upgrade/s/moz/app/dashboards?auth_provider_hint=anonymous1#/view/fb59e2ff-e6d3-4afa-bc1d-dbc6c785bf9c?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))&_a=()",
+            "isOrigin": true,
+            "title": "NATIONAL_DASHBOARD"
+          },
+          "district": {
+            "routePath": "/kibana-upgrade/s/moz/app/dashboards#/view/b01a97ef-17ea-4903-9a07-6adf3437546c?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+            "isOrigin": true,
+            "title": "DISTRICT_DASHBOARD"
+          },
+          "province": {
+            "routePath": "/kibana-upgrade/s/moz/app/dashboards#/view/b01a97ef-17ea-4903-9a07-6adf3437546c?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+            "isOrigin": true,
+            "title": "PROVINCE_DASHBOARD"
+          }
+        }
+      }
+    }
+  ]
+}

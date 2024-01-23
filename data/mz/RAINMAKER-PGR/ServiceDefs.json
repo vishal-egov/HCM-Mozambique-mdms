@@ -53,6 +53,16 @@
       "order": 1
     },
     {
+      "serviceCode": "LackOfInternet",
+      "name": "Lack of internet",
+      "keywords": "technical, internet",
+      "department": "eGov",
+      "slaHours": 336,
+      "menuPath": "Sync",
+      "active": true,
+      "order": 1
+    },
+    {
       "serviceCode": "Other",
       "name": "Other",
       "keywords": "other",
