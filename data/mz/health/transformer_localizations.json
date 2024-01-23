@@ -1,0 +1,46 @@
+{
+    "tenantId": "mz",
+    "moduleName": "HCM-TRANSFORMER-LOCALIZATIONS",
+    "transformerLocalizations": [
+        {
+            "text": "PENDING_ASSIGNMENT",
+            "translatedText": "Reclamações abertas"
+        },
+        {
+            "text": "RESOLVED",
+            "translatedText": "Resolvido"
+        },
+        {
+            "text": "REJECTED",
+            "translatedText": "Rejeitado"
+        },
+        {
+            "text": "TechnicalIssues",
+            "translatedText": "Problemas Técnicos do Dispositivo"
+        },
+        {
+            "text": "LackOfInternet",
+            "translatedText": "Falta de megas"
+        },
+        {
+            "text": "UserAccountIssues",
+            "translatedText": "Problemas de Credenciais"
+        },
+        {
+            "text": "DataIssues",
+            "translatedText": "Problemas de dados"
+        },
+        {
+            "text": "PerformanceIssue",
+            "translatedText": "Problema de desempenho"
+        },
+        {
+            "text": "SecurityIssues",
+            "translatedText": "Questões de segurança"
+        },
+        {
+            "text": "Other",
+            "translatedText": "Outros"
+        }
+    ]
+}
