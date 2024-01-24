@@ -3,7 +3,7 @@
   "moduleName": "roles",
   "rolesMapping": [{
     "Register": "REGISTRAR,DISTRIBUTOR",
-    "Registrar": "REGISTRAR,DISTRIBUTOR",
+    "Registrar": "REGISTRAR",
     "Registrador": "REGISTRAR,DISTRIBUTOR",
     "Registrador group": "REGISTRAR,DISTRIBUTOR",
     "Distribuição": "DISTRIBUTOR",
