@@ -15,7 +15,7 @@
             "title": "DASHBOARD_HCM"
           },
           "national": {
-            "routePath": "de3c60e0-47a4-46b3-94a5-bb15b8608bfa/s/moz/app/dashboards?auth_provider_hint=anonymous1#/view/ca965460-5c72-410a-9b3c-f55c06beb898?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))&_a=()",
+            "routePath": "/de3c60e0-47a4-46b3-94a5-bb15b8608bfa/s/moz/app/dashboards?auth_provider_hint=anonymous1#/view/ca965460-5c72-410a-9b3c-f55c06beb898?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))&_a=()",
             "isOrigin": true,
             "title": "NATIONAL_DASHBOARD"
           },
