@@ -15,17 +15,17 @@
             "title": "DASHBOARD_HCM"
           },
           "national": {
-            "routePath": "/kibana-upgrade/s/moz/app/dashboards?auth_provider_hint=anonymous1#/view/fb59e2ff-e6d3-4afa-bc1d-dbc6c785bf9c?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))&_a=()",
+            "routePath": "de3c60e0-47a4-46b3-94a5-bb15b8608bfa/s/moz/app/dashboards?auth_provider_hint=anonymous1#/view/ca965460-5c72-410a-9b3c-f55c06beb898?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))&_a=()",
             "isOrigin": true,
             "title": "NATIONAL_DASHBOARD"
           },
           "district": {
-            "routePath": "/kibana-upgrade/s/moz/app/dashboards#/view/b01a97ef-17ea-4903-9a07-6adf3437546c?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+            "routePath": "/de3c60e0-47a4-46b3-94a5-bb15b8608bfa/s/moz/app/dashboards?auth_provider_hint=anonymous1#/view/f99d8514-6342-4551-98d7-2c99fc97963d?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))&_a=()",
             "isOrigin": true,
             "title": "DISTRICT_DASHBOARD"
           },
           "province": {
-            "routePath": "/kibana-upgrade/s/moz/app/dashboards#/view/b01a97ef-17ea-4903-9a07-6adf3437546c?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+            "routePath": "/de3c60e0-47a4-46b3-94a5-bb15b8608bfa/s/moz/app/dashboards?auth_provider_hint=anonymous1#/view/f99d8514-6342-4551-98d7-2c99fc97963d?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))&_a=()",
             "isOrigin": true,
             "title": "PROVINCE_DASHBOARD"
           }
