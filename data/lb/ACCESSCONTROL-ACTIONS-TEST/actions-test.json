@@ -13315,7 +13315,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "COMPLAINT",
-      "code": "",
+      "code": "null",
       "path": "COMPLAINT.Search",
       "navigationURL": "/digit-ui/employee/pgr/inbox",
       "leftIcon": "social:people"
