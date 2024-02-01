@@ -13308,15 +13308,15 @@
     },
     {
       "id": 1922,
-      "name": "COMPLAINT",
+      "name": "PGR",
       "url": "url",
       "displayName": "Search Complaint",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
-      "serviceCode": "COMPLAINT",
+      "serviceCode": "PGR",
       "code": "null",
-      "path": "COMPLAINT.Search",
+      "path": "PGR.Search",
       "navigationURL": "/digit-ui/employee/pgr/inbox",
       "leftIcon": "social:people"
     }
