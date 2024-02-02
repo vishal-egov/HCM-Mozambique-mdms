@@ -13183,6 +13183,48 @@
       "serviceCode": "referralmanagement",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1912,
+      "name": "HRMS",
+      "url": "url",
+      "displayName": "Create Employee",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "HRMS",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/hrms/create",
+      "path": "HRMS.Create",
+      "leftIcon": "social:people"
+    },
+    {
+      "id": 1913,
+      "name": "PGR",
+      "url": "url",
+      "displayName": "Search Complaint",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "PGR.Search",
+      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "leftIcon": "social:people"
+    },
+    {
+      "id": 1914,
+      "name": "PGR",
+      "url": "url",
+      "displayName": "Create Complaint",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "PGR.Create",
+      "navigationURL": "/digit-ui/employee/pgr/complaint/create",
+      "leftIcon": "social:people"
     }
   ]
 }
