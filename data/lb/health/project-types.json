@@ -40,7 +40,69 @@
           "productVariantId": "PVAR-2022-12-20-000037",
           "isBaseUnitVariant": true
         }
-      ]
+      ],
+      "boundaryData": {
+        "boundaryHierarchy": [
+          {
+            "level": 0,
+            "label": null,
+            "indexLabel": null
+          },
+          {
+            "level": 1,
+            "label": "Country",
+            "indexLabel": "country"
+          },
+          {
+            "level": 2,
+            "label": "County",
+            "indexLabel": "county"
+          },
+          {
+            "level": 3,
+            "label": "District",
+            "indexLabel": "district"
+          },
+          {
+            "level": 4,
+            "label": "HealthFacility",
+            "indexLabel": "healthFacility"
+          },
+          {
+            "level": 5,
+            "label": "Community",
+            "indexLabel": "community"
+          }
+        ],
+        "aggregateTarget": {
+          "level": 5,
+          "label": "Community"
+        },
+        "targetColumnHeaders": [
+          "total_households",
+          "targeted_households",
+          "total_individuals",
+          "targeted_individuals",
+          "total_bednets",
+          "targeted_bednets"
+        ],
+        "totalVsTarget": [
+        ],
+        "projectTargets": [
+          {
+            "beneficiarytype": "HOUSEHOLD",
+            "targetedColumn": "targeted_households"
+          },
+          {
+            "beneficiarytype": "INDIVIDUAL",
+            "targetedColumn": "targeted_individuals"
+          },
+          {
+            "beneficiarytype": "PRODUCT",
+            "targetedColumn": "targeted_bednets"
+          }
+        ]
+      }
     },
     {
       "id": "b1107f0c-7a91-4c76-afc2-a279d8a7b76a",
