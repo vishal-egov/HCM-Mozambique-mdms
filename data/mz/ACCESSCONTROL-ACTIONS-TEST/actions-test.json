@@ -13185,6 +13185,18 @@
       "path": "PGR.Create",
       "navigationURL": "/digit-ui/employee/pgr/complaint/create",
       "leftIcon": "social:people"
+    },
+    {
+      "id": 1911,
+      "name": "Downsync",
+      "url": "/referralmanagement/beneficiary-downsync/v1/_get",
+      "displayName": "Downsync",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "referralmanagement",
+      "code": "null",
+      "path": ""
     }
   ]
 }
