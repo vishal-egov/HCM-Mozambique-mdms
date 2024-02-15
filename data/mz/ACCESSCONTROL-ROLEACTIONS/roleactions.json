@@ -18829,6 +18829,54 @@
       "actionid": 1911,
       "actioncode": "",
       "tenantid": "mz"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_SUPERVISOR",
+      "actionid": 1920,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_SUPERVISOR",
+      "actionid": 1921,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_SUPERVISOR",
+      "actionid": 1922,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_SUPERVISOR",
+      "actionid": 1923,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_SUPERVISOR",
+      "actionid": 1924,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_SUPERVISOR",
+      "actionid": 1925,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_SUPERVISOR",
+      "actionid": 1926,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_SUPERVISOR",
+      "actionid": 1927,
+      "actioncode": "",
+      "tenantid": "mz"
     }
   ]
 }
