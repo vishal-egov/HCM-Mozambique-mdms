@@ -13293,6 +13293,19 @@
       "serviceCode": "null",
       "code": "null",
       "path": ""
+    }, {
+      "id": 1928,
+      "name": "DASHBOARD",
+      "url": "url",
+      "displayName": "LOCALITY_DASHBOARD",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "iframe",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/locality?query=true",
+      "path": "iframe.HCM",
+      "leftIcon": ""
     }
   ]
 }
