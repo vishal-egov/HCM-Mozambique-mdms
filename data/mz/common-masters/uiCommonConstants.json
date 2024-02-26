@@ -25,7 +25,7 @@
             "title": "PROVINCE_DASHBOARD"
           },
           "locality": {
-            "routePath": "/kibana-upgrade/s/health-facility-supervisor/app/dashboards#/view/3fea3bb8-53db-4629-afd5-4cbac39956aa?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))/kibana-upgrade/s/moz/app/dashboards#/view/f99d8514-6342-4551-98d7-2c99fc97963d?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+            "routePath": "/kibana-upgrade/s/health-facility-supervisor/app/dashboards#/view/3fea3bb8-53db-4629-afd5-4cbac39956aa?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
             "isOrigin": true,
             "title": "LOCALITY_DASHBOARD"
           }
