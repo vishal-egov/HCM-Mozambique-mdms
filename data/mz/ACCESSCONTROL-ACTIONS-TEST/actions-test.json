@@ -13293,6 +13293,34 @@
       "serviceCode": "null",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1928,
+      "name": "DASHBOARD",
+      "url": "url",
+      "displayName": "HF_DASHBOARD",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "iframe",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/hf?query=true",
+      "path": "iframe.HCM",
+      "leftIcon": ""
+    },
+    {
+      "id": 1929,
+      "name": "DASHBOARD",
+      "url": "url",
+      "displayName": "CS_DASHBOARD",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "iframe",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/cs?query=true",
+      "path": "iframe.HCM",
+      "leftIcon": ""
     }
   ]
 }

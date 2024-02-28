@@ -5,29 +5,30 @@
     {
       "elastic": {
         "iframe-routes": {
-          "home": {
-            "routePath": "/kibana-upgrade/login",
-            "isOrigin": true
-          },
-          "hcmtest": {
-            "routePath": "/kibana8/app/dashboards#/view/2c6f6c20-aed9-11ee-8b31-1d71be3d712a?_g=(filters:!((query:(match_phrase:(Data.boundaryHierarchy.district:Nampula)))))",
-            "isOrigin": true,
-            "title": "DASHBOARD_HCM"
-          },
           "national": {
-            "routePath": "/de3c60e0-47a4-46b3-94a5-bb15b8608bfa/s/moz/app/dashboards?auth_provider_hint=anonymous1#/view/ca965460-5c72-410a-9b3c-f55c06beb898?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))&_a=()",
+            "routePath": "/de3c60e0-47a4-46b3-94a5-bb15b8608bfa/s/national-dashboard/app/dashboards#/view/27ba5a75-644a-4087-8c00-5785d7df91f9?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
             "isOrigin": true,
             "title": "NATIONAL_DASHBOARD"
           },
           "district": {
-            "routePath": "/de3c60e0-47a4-46b3-94a5-bb15b8608bfa/s/moz/app/dashboards?auth_provider_hint=anonymous1#/view/f99d8514-6342-4551-98d7-2c99fc97963d?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))&_a=()",
+            "routePath": "/de3c60e0-47a4-46b3-94a5-bb15b8608bfa/s/district-dashboard/app/dashboards#/view/58f3f6e8-ad7c-40be-b203-aa3cdc9cde4f?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
             "isOrigin": true,
             "title": "DISTRICT_DASHBOARD"
           },
           "province": {
-            "routePath": "/de3c60e0-47a4-46b3-94a5-bb15b8608bfa/s/moz/app/dashboards?auth_provider_hint=anonymous1#/view/f99d8514-6342-4551-98d7-2c99fc97963d?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))&_a=()",
+            "routePath": "/de3c60e0-47a4-46b3-94a5-bb15b8608bfa/s/national-dashboard/app/dashboards#/view/95cef51b-9ec0-4ca0-aee0-d312ffbf3f23?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
             "isOrigin": true,
             "title": "PROVINCE_DASHBOARD"
+          },
+          "hf": {
+            "routePath": "/de3c60e0-47a4-46b3-94a5-bb15b8608bfa/s/hfs-dashboard/app/dashboards#/view/3fea3bb8-53db-4629-afd5-4cbac39956aa?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+            "isOrigin": true,
+            "title": "HF_DASHBOARD"
+          },
+          "cs": {
+            "routePath": "/de3c60e0-47a4-46b3-94a5-bb15b8608bfa/s/cs-dashboard/app/dashboards#/view/dc7e853b-706d-4164-988f-8114d7d8e11f?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+            "isOrigin": true,
+            "title": "CS_DASHBOARD"
           }
         }
       }
