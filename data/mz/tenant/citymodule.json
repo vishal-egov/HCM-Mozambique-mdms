@@ -36,8 +36,8 @@
       ]
     },
     {
-      "module": "HCMWORKBENCH",
-      "code": "HCMWORKBENCH",
+      "module": "Utilities",
+      "code": "Utilities",
       "active": true,
       "order": 4,
       "tenants": [
