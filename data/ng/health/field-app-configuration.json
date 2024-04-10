@@ -38,14 +38,6 @@
       ],
       "LANGUAGES": [
         {
-          "label": "Portuguese",
-          "value": "pt_NG"
-        },
-        {
-          "label": "French",
-          "value": "fr_NG"
-        },
-        {
           "label": "English",
           "value": "en_NG"
         }
