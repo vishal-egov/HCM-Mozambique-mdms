@@ -580,7 +580,7 @@
         {
           "mandatoryWaitSinceLastCycleInDays": "30",
           "startDate": 1710527400000,
-          "endDate": 1713551400000,
+          "endDate": 1712707199000,
           "id": 3,
           "deliveries": [
             {
@@ -716,8 +716,7 @@
           "targeted_spaq_2",
           "total_spaq"
         ],
-        "totalVsTarget": [
-        ],
+        "totalVsTarget": [],
         "projectTargets": [
           {
             "beneficiarytype": "INDIVIDUAL",
