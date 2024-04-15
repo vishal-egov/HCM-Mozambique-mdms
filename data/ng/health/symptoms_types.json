@@ -3,23 +3,8 @@
     "moduleName": "HCM-SYMPTOMS-TYPES",
     "symptomsTypes": [
         {
-            "code": "VOMITTING",
-            "name": "Vomitting",
-            "active": true
-        },
-        {
             "code": "ABDOMINAL_PAIN",
             "name": "Abdominal Pain",
-            "active": true
-        },
-        {
-            "code": "SKIN_REACTION",
-            "name": "Skin Reaction",
-            "active": true
-        },
-        {
-            "code": "WEAKNESS",
-            "name": "Weakness",
             "active": true
         },
         {
@@ -35,6 +20,61 @@
         {
             "code": "OTHER",
             "name": "Other",
+            "active": true
+        },
+        {
+            "code": "NAUSEA AND VOMITING",
+            "name": "nausea and vomiting",
+            "active": true
+        },
+        {
+            "code": "SHAKING AND TREMBLING",
+            "name": "shaking and trembling",
+            "active": true
+        },
+        {
+            "code": "ITCHING OR SKIN RASH",
+            "name": "itching or skin rash",
+            "active": true
+        },
+        {
+            "code": "RAPID HEARTBEAT",
+            "name": "rapid heartbeat",
+            "active": true
+        },
+        {
+            "code": "RAPID HEARTBEAT",
+            "name": "rapid heartbeat",
+            "active": true
+        },
+        {
+            "code": "HEADACHE",
+            "name": "headache",
+            "active": true
+        },
+        {
+            "code": "SWELLING OF THE FACE HANDS ARMS FEET OR LEGS",
+            "name": "swelling of the face hands arms feet or legs",
+            "active": true
+        },
+        {
+            "code": "DIZZINESS",
+            "name": "dizziness",
+            "active": true
+        },
+        {
+            "code": "LOSS OF APPETITE",
+            "name": "loss of appetite",
+            "active": true
+        },
+        {
+            "code": "SLEEPINESS",
+            "name": "sleepiness",
+            "active": true
+        },
+        {
+            "code": "SLEEPINESS",
+            "name": "sleepiness",
             "active": true
         }
     ]

@@ -13,13 +13,8 @@
             "active": true
         },
         {
-            "code": "DRUG_SIDE_EFFECT_FROM_PREV_CYCLE",
-            "name": "Drug Side Effect from the previous cycle",
-            "active": true
-        },
-        {
-            "code": "DRUG_SIDE_EFFECT_FROM_CURRENT_CYCLE",
-            "name": "Drug Side Effect from the current cycle",
+            "code": "DRUG_SIDE_EFFECT",
+            "name": "Drug Side Effect",
             "active": true
         }
     ]
