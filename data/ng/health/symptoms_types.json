@@ -23,37 +23,32 @@
             "active": true
         },
         {
-            "code": "NAUSEA AND VOMITING",
+            "code": "NAUSEA_AND_VOMITING",
             "name": "nausea and vomiting",
             "active": true
         },
         {
-            "code": "SHAKING AND TREMBLING",
+            "code": "SHAKING_AND_TREMBLING",
             "name": "shaking and trembling",
             "active": true
         },
         {
-            "code": "ITCHING OR SKIN RASH",
+            "code": "ITCHING_OR_SKIN_RASH",
             "name": "itching or skin rash",
             "active": true
         },
         {
-            "code": "RAPID HEARTBEAT",
+            "code": "RAPID_HEARTBEAT",
             "name": "rapid heartbeat",
             "active": true
-        },
-        {
-            "code": "RAPID HEARTBEAT",
-            "name": "rapid heartbeat",
-            "active": true
-        },
+        }
         {
             "code": "HEADACHE",
             "name": "headache",
             "active": true
         },
         {
-            "code": "SWELLING OF THE FACE HANDS ARMS FEET OR LEGS",
+            "code": "SWELLING_OF_THE_FACE_HANDS_ARMS_FEET_OR_LEGS",
             "name": "swelling of the face hands arms feet or legs",
             "active": true
         },
@@ -65,11 +60,6 @@
         {
             "code": "LOSS OF APPETITE",
             "name": "loss of appetite",
-            "active": true
-        },
-        {
-            "code": "SLEEPINESS",
-            "name": "sleepiness",
             "active": true
         },
         {
