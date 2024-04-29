@@ -9,6 +9,79 @@
       "group": "MALARIA",
       "beneficiaryType": "INDIVIDUAL",
       "observationStrategy": "DOT1",
+      "boundaryData": {
+        "boundaryHierarchy": [
+          {
+            "level": 1,
+            "label": "Country",
+            "indexLabel": "country"
+          },
+          {
+            "level": 2,
+            "label": "LGA",
+            "indexLabel": "lga"
+          },
+          {
+            "level": 3,
+            "label": "ward",
+            "indexLabel": "Ward"
+          },
+          {
+            "level": 4,
+            "label": "flhf",
+            "indexLabel": "FLHF"
+          },
+          {
+            "level": 5,
+            "label": "community",
+            "indexLabel": "Community"
+          },
+          {
+            "level": 6,
+            "label": "settlement",
+            "indexLabel": "Settlement"
+          }
+        ],
+        "aggregateTarget": {
+          "level": 6,
+          "label": "Village"
+        },
+        "targetColumnHeaders": [
+          "total_households",
+          "targeted_households",
+          "total_individuals",
+          "targeted_individuals",
+          "estimated_bednets"
+        ],
+        "totalVsTarget": [
+          {
+            "total": "total_households",
+            "target": "targeted_households"
+          },
+          {
+            "total": "total_individuals",
+            "target": "targeted_individuals"
+          },
+          {
+            "total": "total_bednets",
+            "target": "estimated_bednets"
+          }
+        ],
+        "projectTargets": [
+          {
+            "beneficiarytype": "INDIVIDUAL",
+            "targetedColumn": "targeted_individuals"
+          },
+          {
+            "beneficiarytype": "HOUSEHOLD",
+            "targetedColumn": "targeted_households"
+          },
+          {
+            "beneficiarytype": "PRODUCT",
+            "targetedColumn": "estimated_bednets"
+          }
+        ]
+      },
       "cycles": [
         {
           "mandatoryWaitSinceLastCycleInDays": null,
@@ -95,85 +168,7 @@
             }
           ]
         }
-      ],
-      "boundaryData": {
-        "boundaryHierarchy": [
-          {
-            "level": 0,
-            "label": null,
-            "indexLabel": null
-          },
-          {
-            "level": 1,
-            "label": "Country",
-            "indexLabel": "Country"
-          },
-          {
-            "level": 2,
-            "label": "Provincia",
-            "indexLabel": "LGA"
-          },
-          {
-            "level": 3,
-            "label": "Distrito",
-            "indexLabel": "Ward"
-          },
-          {
-            "level": 4,
-            "label": "Posto Administrativo",
-            "indexLabel": "FLHF"
-          },
-          {
-            "level": 5,
-            "label": "Localidade",
-            "indexLabel": "Community"
-          },
-          {
-            "level": 6,
-            "label": "Aldeia",
-            "indexLabel": "Settlement"
-          }
-        ],
-        "aggregateTarget": {
-          "level": 6,
-          "label": "Village"
-        },
-        "targetColumnHeaders": [
-          "total_households",
-          "targeted_households",
-          "total_individuals",
-          "targeted_individuals",
-          "estimated_bednets"
-        ],
-        "totalVsTarget": [
-          {
-            "total": "total_households",
-            "target": "targeted_households"
-          },
-          {
-            "total": "total_individuals",
-            "target": "targeted_individuals"
-          },
-          {
-            "total": "total_bednets",
-            "target": "estimated_bednets"
-          }
-        ],
-        "projectTargets": [
-          {
-            "beneficiarytype": "INDIVIDUAL",
-            "targetedColumn": "targeted_individuals"
-          },
-          {
-            "beneficiarytype": "HOUSEHOLD",
-            "targetedColumn": "targeted_households"
-          },
-          {
-            "beneficiarytype": "PRODUCT",
-            "targetedColumn": "estimated_bednets"
-          }
-        ]
-      }
+      ]
     }
   ]
 }
