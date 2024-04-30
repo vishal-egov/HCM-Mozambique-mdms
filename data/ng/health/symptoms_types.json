@@ -18,11 +18,6 @@
             "active": true
         },
         {
-            "code": "OTHER",
-            "name": "Other",
-            "active": true
-        },
-        {
             "code": "NAUSEA_AND_VOMITING",
             "name": "nausea and vomiting",
             "active": true
@@ -65,6 +60,11 @@
         {
             "code": "SLEEPINESS",
             "name": "sleepiness",
+            "active": true
+        },
+        {
+            "code": "OTHER",
+            "name": "Other",
             "active": true
         }
     ]
