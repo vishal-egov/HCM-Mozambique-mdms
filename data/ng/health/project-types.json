@@ -23,28 +23,28 @@
           },
           {
             "level": 3,
-            "label": "ward",
-            "indexLabel": "Ward"
+            "label": "Ward",
+            "indexLabel": "ward"
           },
           {
             "level": 4,
-            "label": "flhf",
-            "indexLabel": "FLHF"
+            "label": "FLHF",
+            "indexLabel": "flhf"
           },
           {
             "level": 5,
-            "label": "community",
-            "indexLabel": "Community"
+            "label": "Community",
+            "indexLabel": "community"
           },
           {
             "level": 6,
-            "label": "settlement",
-            "indexLabel": "Settlement"
+            "label": "Settlement",
+            "indexLabel": "settlement"
           }
         ],
         "aggregateTarget": {
           "level": 6,
-          "label": "Village"
+          "label": "Settlement"
         },
         "targetColumnHeaders": [
           "total_households",
