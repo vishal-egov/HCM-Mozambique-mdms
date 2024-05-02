@@ -18,32 +18,37 @@
           },
           {
             "level": 2,
+            "label": "State",
+            "indexLabel": "state"
+          },
+          {
+            "level": 3,
             "label": "LGA",
             "indexLabel": "lga"
           },
           {
-            "level": 3,
+            "level": 4,
             "label": "Ward",
             "indexLabel": "ward"
           },
           {
-            "level": 4,
-            "label": "FLHF",
-            "indexLabel": "flhf"
+            "level": 5,
+            "label": "Health Facility",
+            "indexLabel": "healthFacility"
           },
           {
-            "level": 5,
+            "level": 6,
             "label": "Community",
             "indexLabel": "community"
           },
           {
-            "level": 6,
+            "level": 7,
             "label": "Settlement",
             "indexLabel": "settlement"
           }
         ],
         "aggregateTarget": {
-          "level": 6,
+          "level": 7,
           "label": "Settlement"
         },
         "targetColumnHeaders": [

@@ -7,6 +7,10 @@
       "indexLabel": "country"
     },
     {
+      "label": "State",
+      "indexLabel": "state"
+    },
+    {
       "label": "LGA",
       "indexLabel": "lga"
     },
@@ -15,8 +19,8 @@
       "indexLabel": "ward"
     },
     {
-      "label": "FLHF",
-      "indexLabel": "flhf"
+      "label": "Health Facility",
+      "indexLabel": "healthFacility"
     },
     {
       "label": "Community",

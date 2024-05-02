@@ -18,66 +18,78 @@
         "code": "ng",
         "children": [
           {
-            "id": "mrn7cFSqrHcNxeJ",
+            "id": "mrn7cFSqrHcNx12",
             "boundaryNum": 2,
-            "name": "Arochukwu",
-            "localname": "Arochukwu",
+            "name": "Kano",
+            "localname": "Kano",
             "longitude": null,
             "latitude": null,
-            "label": "LGA",
-            "code": "mrn7cFSqrHcNxeJ",
+            "label": "State",
+            "code": "mrn7cFSqrHcNx12",
             "children": [
               {
-                "id": "8S9JyLtQxkUcQh",
+                "id": "mrn7cFSqrHcNxeJ",
                 "boundaryNum": 3,
-                "name": "Ward1",
-                "localname": "Ward1",
+                "name": "Minjibir",
+                "localname": "Minjibir",
                 "longitude": null,
                 "latitude": null,
-                "label": "Ward",
-                "code": "8S9JyLtQxkUcQh",
+                "label": "LGA",
+                "code": "mrn7cFSqrHcNxeJ",
                 "children": [
                   {
-                    "id": "9VF8znNYVyMT",
+                    "id": "8S9JyLtQxkUcQh",
                     "boundaryNum": 4,
-                    "name": "FLHF1",
-                    "localname": "FLHF1",
+                    "name": "Azore",
+                    "localname": "Azore",
                     "longitude": null,
                     "latitude": null,
-                    "label": "FLHF",
-                    "code": "9VF8znNYVyMT",
+                    "label": "Ward",
+                    "code": "8S9JyLtQxkUcQh",
                     "children": [
                       {
-                        "id": "44pTU3wW4",
+                        "id": "9VF8znNYVyMT",
                         "boundaryNum": 5,
-                        "name": "community1",
-                        "localname": "community1",
+                        "name": "Gandurawa Health Post",
+                        "localname": "Gandurawa Health Post",
                         "longitude": null,
                         "latitude": null,
-                        "label": "Community",
-                        "code": "44pTU3wW4",
+                        "label": "Health Facility",
+                        "code": "9VF8znNYVyMT",
                         "children": [
                           {
-                            "id": "44pTU3",
+                            "id": "44pTU3wW4",
                             "boundaryNum": 6,
-                            "name": "Settlement1",
-                            "localname": "Settlement1",
+                            "name": "Community 1",
+                            "localname": "Community 1",
                             "longitude": null,
                             "latitude": null,
-                            "label": "Settlement",
-                            "code": "44pTU3",
-                            "children": []
-                          },
-                          {
-                            "id": "44pTU4",
-                            "boundaryNum": 6,
-                            "name": "Settlement2",
-                            "localname": "Settlement2",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Settlement",
-                            "code": "44pTU4",
-                            "children": []
+                            "label": "Community",
+                            "code": "44pTU3wW4",
+                            "children": [
+                              {
+                                "id": "44pTU5",
+                                "boundaryNum": 7,
+                                "name": "Farawa Fulani",
+                                "localname": "Farawa Fulani",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Settlement",
+                                "code": "44pTU5",
+                                "children": []
+                              },
+                              {
+                                "id": "44pTU4",
+                                "boundaryNum": 7,
+                                "name": "Farawa Layin Gidan Dagaci",
+                                "localname": "Farawa Layin Gidan Dagaci",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Settlement",
+                                "code": "44pTU4",
+                                "children": []
+                              }
+                            ]
                           }
                         ]
                       }
