@@ -1,0 +1,30 @@
+{
+  "tenantId": "mz",
+  "moduleName": "HCM-TRANSFORMER-ELASTIC-INDEX-LABELS",
+  "transformerElasticIndexLabels": [
+    {
+      "label": "Country",
+      "indexLabel": "country"
+    },
+    {
+      "label": "LGA",
+      "indexLabel": "lga"
+    },
+    {
+      "label": "Ward",
+      "indexLabel": "ward"
+    },
+    {
+      "label": "FLHF",
+      "indexLabel": "flhf"
+    },
+    {
+      "label": "Community",
+      "indexLabel": "community"
+    },
+    {
+      "label": "Settlement",
+      "indexLabel": "settlement"
+    }
+  ]
+}
