@@ -23,10 +23,6 @@
       "indexLabel": "healthFacility"
     },
     {
-      "label": "Community",
-      "indexLabel": "community"
-    },
-    {
       "label": "Settlement",
       "indexLabel": "settlement"
     }

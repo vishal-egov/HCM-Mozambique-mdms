@@ -38,17 +38,12 @@
           },
           {
             "level": 6,
-            "label": "Community",
-            "indexLabel": "community"
-          },
-          {
-            "level": 7,
             "label": "Settlement",
             "indexLabel": "settlement"
           }
         ],
         "aggregateTarget": {
-          "level": 7,
+          "level": 6,
           "label": "Settlement"
         },
         "targetColumnHeaders": [
