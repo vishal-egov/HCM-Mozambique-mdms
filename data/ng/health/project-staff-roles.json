@@ -15,15 +15,15 @@
             "rank": 3
         },
         {
-            "code": "LOCAL_MONITOR",
+            "code": "WAREHOUSE_MANAGER",
             "rank": 4
         },
         {
-            "code": "WAREHOUSE_MANAGER",
+            "code": "HEALTH_FACILITY_SUPERVISOR",
             "rank": 5
         },
         {
-            "code": "LOGISTIC_FOCAL_POINT",
+            "code": "COMMUNITY_DISTRIBUTOR",
             "rank": 6
         },
         {
