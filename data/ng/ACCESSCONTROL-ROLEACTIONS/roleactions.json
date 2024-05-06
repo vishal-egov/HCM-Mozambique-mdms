@@ -18423,6 +18423,102 @@
       "tenantId": "ng"
     },
     {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1660,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1667,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1585,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1586,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1587,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1588,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1589,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1590,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1591,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1601,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1602,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1603,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1604,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1605,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1606,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1607,
+      "actioncode": "",
+      "tenantId": "ng"
+    },
+    {
       "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1905,
       "actioncode": "",
