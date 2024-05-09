@@ -94,25 +94,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "doseCriteria": [
                 {
-                  "condition": "age>0andage<24",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2023-11-20-000014",
-                      "quantity": 0.5
-                    }
-                  ]
-                },
-                {
-                  "condition": "age>23andage<60",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2023-11-20-000014",
-                      "quantity": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "age>59andheight>-1andheight<120",
+                  "condition": "age>59andheight>89andheight<120",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2023-11-20-000014",
