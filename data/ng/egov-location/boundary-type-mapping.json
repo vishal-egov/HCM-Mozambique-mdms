@@ -1,0 +1,36 @@
+{
+  "tenantId": "ng",
+  "moduleName": "HCM-BOUNDARY-TYPE-MAPPING",
+  "boundaryTypeMapping": [
+    {
+      "boundaryNum": "1",
+      "parentBoundaryType": "NA",
+      "childBoundaryType": "State"
+    },
+    {
+      "boundaryNum": "2",
+      "parentBoundaryType": "Country",
+      "childBoundaryType": "LGA"
+    },
+    {
+      "boundaryNum": "3",
+      "parentBoundaryType": "State",
+      "childBoundaryType": "Ward"
+    },
+    {
+      "boundaryNum": "4",
+      "parentBoundaryType": "LGA",
+      "childBoundaryType": "Health Facility"
+    },
+    {
+      "boundaryNum": "5",
+      "parentBoundaryType": "Ward",
+      "childBoundaryType": "Settlement"
+    },
+    {
+      "boundaryNum": "6",
+      "parentBoundaryType": "Health Facility",
+      "childBoundaryType": "NA"
+    }
+  ]
+}
