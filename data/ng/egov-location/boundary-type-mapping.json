@@ -4,31 +4,37 @@
   "boundaryTypeMapping": [
     {
       "boundaryNum": "1",
+      "boundaryType": "Country",
       "parentBoundaryType": "NA",
       "childBoundaryType": "State"
     },
     {
       "boundaryNum": "2",
+      "boundaryType": "State",
       "parentBoundaryType": "Country",
       "childBoundaryType": "LGA"
     },
     {
       "boundaryNum": "3",
+      "boundaryType": "LGA",
       "parentBoundaryType": "State",
       "childBoundaryType": "Ward"
     },
     {
       "boundaryNum": "4",
+      "boundaryType": "Ward",
       "parentBoundaryType": "LGA",
       "childBoundaryType": "Health Facility"
     },
     {
       "boundaryNum": "5",
+      "boundaryType": "Health Facility",
       "parentBoundaryType": "Ward",
       "childBoundaryType": "Settlement"
     },
     {
       "boundaryNum": "6",
+      "boundaryType": "Settlement",
       "parentBoundaryType": "Health Facility",
       "childBoundaryType": "NA"
     }
