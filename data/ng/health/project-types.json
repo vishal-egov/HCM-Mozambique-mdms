@@ -8,6 +8,16 @@
       "code": "NTD-NG",
       "group": "MALARIA",
       "beneficiaryType": "INDIVIDUAL",
+      "resources": [
+        {
+          "productVariantId": "PVAR-2023-11-20-000014",
+          "isBaseUnitVariant": false
+        },
+        {
+          "productVariantId": "PVAR-2023-11-20-000015",
+          "isBaseUnitVariant": true
+        }
+      ],
       "observationStrategy": "DOT1",
       "boundaryData": {
         "boundaryHierarchy": [
