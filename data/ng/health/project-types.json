@@ -102,11 +102,11 @@
         ],
         "projectTargets": [
           {
-            "beneficiarytype": "INDIVIDUAL",
+            "beneficiarytype": "HOUSEHOLD",
             "targetedColumn": "target_1"
           },
           {
-            "beneficiarytype": "HOUSEHOLD",
+            "beneficiarytype": "INDIVIDUAL",
             "targetedColumn": "target_2"
           },
           {

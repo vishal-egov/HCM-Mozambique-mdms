@@ -18,24 +18,24 @@
       "boundaryNum": "3",
       "boundaryType": "LGA",
       "parentBoundaryType": "State",
-      "childBoundaryType": "Ward"
+      "childBoundaryType": "Health Facility"
     },
     {
       "boundaryNum": "4",
       "boundaryType": "Ward",
-      "parentBoundaryType": "LGA",
-      "childBoundaryType": "Health Facility"
+      "parentBoundaryType": "NA",
+      "childBoundaryType": "NA"
     },
     {
       "boundaryNum": "5",
       "boundaryType": "Health Facility",
-      "parentBoundaryType": "Ward",
-      "childBoundaryType": "Settlement"
+      "parentBoundaryType": "LGA",
+      "childBoundaryType": "NA"
     },
     {
       "boundaryNum": "6",
       "boundaryType": "Settlement",
-      "parentBoundaryType": "Health Facility",
+      "parentBoundaryType": "NA",
       "childBoundaryType": "NA"
     }
   ]
