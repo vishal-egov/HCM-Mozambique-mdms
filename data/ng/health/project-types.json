@@ -52,38 +52,72 @@
           "label": "Settlement"
         },
         "targetColumnHeaders": [
-          "total_households",
-          "targeted_households",
-          "total_individuals",
-          "targeted_individuals",
-          "estimated_bednets"
+          "target_1",
+          "target_2",
+          "target_3",
+          "target_4",
+          "target_5",
+          "target_6",
+          "target_7"
         ],
         "totalVsTarget": [
           {
-            "total": "total_households",
-            "target": "targeted_households"
+            "total": "total_1",
+            "target": "target_1"
           },
           {
-            "total": "total_individuals",
-            "target": "targeted_individuals"
+            "total": "total_2",
+            "target": "target_2"
           },
           {
-            "total": "total_bednets",
-            "target": "estimated_bednets"
+            "total": "total_3",
+            "target": "target_3"
+          },
+          {
+            "total": "total_4",
+            "target": "target_4"
+          },
+          {
+            "total": "total_5",
+            "target": "target_5"
+          },
+          {
+            "total": "total_6",
+            "target": "target_6"
+          },
+          {
+            "total": "total_7",
+            "target": "target_7"
           }
         ],
         "projectTargets": [
           {
             "beneficiarytype": "INDIVIDUAL",
-            "targetedColumn": "targeted_individuals"
+            "targetedColumn": "target_1"
           },
           {
             "beneficiarytype": "HOUSEHOLD",
-            "targetedColumn": "targeted_households"
+            "targetedColumn": "target_2"
           },
           {
             "beneficiarytype": "PRODUCT",
-            "targetedColumn": "estimated_bednets"
+            "targetedColumn": "target_7"
+          },
+          {
+            "beneficiarytype": "5-14YEARS",
+            "targetedColumn": "target_3"
+          },
+          {
+            "beneficiarytype": "14+YEARS",
+            "targetedColumn": "target_4"
+          },
+          {
+            "beneficiarytype": "IVERMECTIN",
+            "targetedColumn": "target_5"
+          },
+          {
+            "beneficiarytype": "ALBENDAZOLE",
+            "targetedColumn": "target_6"
           }
         ]
       },
