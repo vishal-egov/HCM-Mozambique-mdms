@@ -1,7 +1,7 @@
 {
     "tenantId": "ng",
-    "moduleName": "HCM-SYMPTOMS-TYPES",
-    "symptomsTypes": [
+    "moduleName": "HCM-SYMPTOMS-TYPES-SMC",
+    "symptomsTypesSmc": [
         {
             "code": "VOMITTING",
             "name": "Vomitting",
