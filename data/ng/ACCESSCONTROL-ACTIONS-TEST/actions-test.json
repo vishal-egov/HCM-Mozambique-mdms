@@ -13147,6 +13147,20 @@
       "serviceCode": "null",
       "code": "null",
       "path": ""
+    }, 
+    {
+      "id": 1909,
+      "name": "DASHBOARD",
+      "url": "url",
+      "displayName": "NATIONAL_DASHBOARD",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "iframe",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/national",
+      "path": "iframe.HCM",
+      "leftIcon": ""
     }
   ]
 }
