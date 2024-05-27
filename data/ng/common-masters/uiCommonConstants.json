@@ -1,0 +1,22 @@
+{
+    "tenantId": "ng",
+    "moduleName": "common-masters",
+    "uiCommonConstants": [
+      {
+        "elastic": {
+          "iframe-routes": {
+            "home": {
+              "routePath": "/kibana-upgrade/login",
+              "isOrigin": true
+            },
+            "national": {
+              "routePath": "/kibana-upgrade/s/national-supervisor/app/dashboards#/view/27ba5a75-644a-4087-8c00-5785d7df91f9?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+              "isOrigin": true,
+              "title": "NATIONAL_DASHBOARD"
+            }
+
+          }
+        }
+      }
+    ]
+  }

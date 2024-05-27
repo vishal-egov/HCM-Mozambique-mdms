@@ -18643,6 +18643,12 @@
       "actionid": 1662,
       "actioncode": "",
       "tenantid": "ng"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1909,
+      "actioncode": "",
+      "tenantid": "ng"
     }
   ]
 }
