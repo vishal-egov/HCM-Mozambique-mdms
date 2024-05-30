@@ -831,7 +831,7 @@
     {
       "id": "644c4356-5214-11ee-be56-0242ac120004",
       "name": "Configuration for Multi Round Campaigns",
-      "code": "MR-DN",
+      "code": "SMC",
       "group": "MALARIA",
       "beneficiaryType": "INDIVIDUAL",
       "resources": [
