@@ -18643,6 +18643,18 @@
       "actionid": 1662,
       "actioncode": "",
       "tenantid": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1661,
+      "actioncode": "",
+      "tenantid": "ng"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1661,
+      "actioncode": "",
+      "tenantid": "ng"
     }
   ]
 }
