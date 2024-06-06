@@ -1,0 +1,9 @@
+{
+    "tenantId": "sn",
+    "moduleName": "RAINMAKER-PGR",
+    "ComplainClosingTime": [
+      {
+        "ComplainMaxIdleTime": 3600000
+      }
+    ]
+   }

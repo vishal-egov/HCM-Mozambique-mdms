@@ -1,0 +1,14 @@
+{
+  "tenantId": "sn",
+  "moduleName": "egov-hrms",
+  "EmployeeStatus": [
+    {
+      "code": "ACTIVE",
+      "active": true
+    },
+    {
+      "code": "INACTIVE",
+      "active": true
+    }
+  ]
+}

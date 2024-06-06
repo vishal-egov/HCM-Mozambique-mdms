@@ -1,0 +1,27 @@
+{
+  "tenantId": "sn",
+  "moduleName": "works",
+  "NatureOfWork": [
+    {
+      "id": 1,
+      "name": "New",
+      "expenditureType": "CAPITAL",
+      "code": "New",
+      "tenantId": "sn"
+    },
+    {
+      "id": 2,
+      "name": "Repairs",
+      "expenditureType": "REVENUE",
+      "code": "Repairs",
+      "tenantId": "sn"
+    },
+    {
+      "id": 3,
+      "name": "Addition",
+      "expenditureType": "REVENUE",
+      "code": "Addition",
+      "tenantId": "sn"
+    }
+  ]
+}

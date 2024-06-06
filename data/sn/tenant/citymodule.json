@@ -1,0 +1,50 @@
+{
+  "tenantId": "sn",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "sn"
+        }
+      ]
+    },
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "sn"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "sn"
+        }
+      ]
+    },
+    {
+      "module": "Utilities",
+      "code": "Utilities",
+      "active": true,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "sn"
+        }
+      ]
+    }
+  ]
+}

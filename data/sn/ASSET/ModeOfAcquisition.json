@@ -1,0 +1,41 @@
+{
+  "tenantId": "sn",
+  "moduleName": "ASSET",
+  "ModeOfAcquisition": [
+    {
+      "id": 1,
+      "tenantId": "sn",
+      "code": "ACQUIRED",
+      "name": "Acquired",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "tenantId": "sn",
+      "code": "CONSTRUCTION",
+      "name": "Construction",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "tenantId": "sn",
+      "code": "PURCHASE",
+      "name": "Purchase",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "tenantId": "sn",
+      "code": "TENDER",
+      "name": "Tender",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "tenantId": "sn",
+      "code": "DONATION",
+      "name": "Donation",
+      "isActive": true
+    }
+  ]
+}

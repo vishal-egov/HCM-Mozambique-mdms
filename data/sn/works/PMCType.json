@@ -1,0 +1,16 @@
+{
+  "tenantId": "sn",
+  "moduleName": "works",
+  "PMCType": [
+    {
+      "id": 1,
+      "name": "Panel",
+      "tenantId": "sn"
+    },
+    {
+      "id": 2,
+      "name": "New Appointment",
+      "tenantId": "sn"
+    }
+  ]
+}

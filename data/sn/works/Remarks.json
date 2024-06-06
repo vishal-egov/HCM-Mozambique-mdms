@@ -1,0 +1,21 @@
+{
+  "tenantId": "sn",
+  "moduleName": "works",
+  "Remarks": [
+    {
+      "id": 1,
+      "tenantId": "sn",
+      "typeOfDocument": "Work Order / Notice",
+      "remarksType": "Approval / Show Cause / Rejection",
+      "remarksDetails": [
+        {
+          "id": 1,
+          "tenantId": "sn",
+          "remarks": null,
+          "remarksDescription": "Reviewed and approved",
+          "editable": true
+        }
+      ]
+    }
+  ]
+}

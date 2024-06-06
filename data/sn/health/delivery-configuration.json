@@ -1,0 +1,10 @@
+{
+  "tenantId": "sn",
+  "moduleName": "HCM-DELIVERY-CONFIGURATION",
+  "deliveryConfiguration": [
+    {
+      "programMandateValue": 3,
+      "dividingFactor": 1.8
+    }
+  ]
+}

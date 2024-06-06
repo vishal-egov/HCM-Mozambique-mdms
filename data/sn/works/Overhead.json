@@ -1,0 +1,42 @@
+{
+  "tenantId": "sn",
+  "moduleName": "works",
+  "Overhead": [
+    {
+      "id": 1,
+      "tenantId": "sn",
+      "code": "TAXFake",
+      "name": "TAXFake",
+      "description": "TAX - Fake",
+      "accountCode": "41230041 - Bridges and flyover - Fake",
+      "overheadRates": [
+        {
+          "id": 1,
+          "tenantId": "sn",
+          "lumpsumAmount": 0,
+          "percentage": 100,
+          "fromDate": 1546541452157,
+          "toDate": 1546541452157
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tenantId": "sn",
+      "code": "TDSFake",
+      "name": "TDSFake",
+      "description": "TDS - Fake",
+      "accountCode": "41230041 - Bridges and flyover - Fake",
+      "overheadRates": [
+        {
+          "id": 1,
+          "tenantId": "sn",
+          "lumpsumAmount": 2548,
+          "percentage": 0,
+          "fromDate": 1546541452157,
+          "toDate": 1546541452157
+        }
+      ]
+    }
+  ]
+}

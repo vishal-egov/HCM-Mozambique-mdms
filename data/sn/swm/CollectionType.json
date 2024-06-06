@@ -1,0 +1,176 @@
+{
+  "tenantId": "sn",
+  "moduleName": "swm",
+  "CollectionType": [
+    {
+      "tenantId": "sn",
+      "name": "Door to Door Collection (Wet \u0026 Dry)",
+      "code": "Collection Type Code 1"
+    },
+    {
+      "tenantId": "sn",
+      "name": "(Day to Day Basis)",
+      "code": "Collection Type Code 2"
+    },
+    {
+      "tenantId": "sn",
+      "name": "Collection from collection point",
+      "code": "Collection Type Code 3"
+    },
+    {
+      "tenantId": "sn",
+      "name": "From demolished apartments",
+      "code": "asdsad"
+    },
+    {
+      "tenantId": "sn",
+      "name": "Weekly Collection (Door to Door)",
+      "code": "Weekly Collection"
+    },
+    {
+      "tenantId": "sn",
+      "name": "Test Collection",
+      "code": "Test Collection"
+    },
+    {
+      "tenantId": "sn",
+      "name": "CP Name",
+      "code": "CPN"
+    },
+    {
+      "tenantId": "sn",
+      "name": "CT Name",
+      "code": "CTN"
+    },
+    {
+      "tenantId": "sn",
+      "name": "12",
+      "code": "11"
+    },
+    {
+      "tenantId": "sn",
+      "name": "Coll Type updated",
+      "code": "CTS"
+    },
+    {
+      "tenantId": "sn",
+      "name": "From Dust Bin",
+      "code": "FDB"
+    },
+    {
+      "tenantId": "sn",
+      "name": "Door To Door",
+      "code": "CollectionTypeCode001"
+    },
+    {
+      "tenantId": "sn",
+      "name": "Road Bin",
+      "code": "RB"
+    },
+    {
+      "tenantId": "sn",
+      "name": "Wastage",
+      "code": "WASTAGE"
+    },
+    {
+      "tenantId": "sn",
+      "name": "TTT",
+      "code": "Test"
+    },
+    {
+      "tenantId": "sn",
+      "name": "TestForTest",
+      "code": "TFT"
+    },
+    {
+      "tenantId": "sn",
+      "name": "VVV",
+      "code": "VVV"
+    },
+    {
+      "tenantId": "sn",
+      "name": "NNN",
+      "code": "NNN"
+    },
+    {
+      "tenantId": "sn",
+      "name": "CCC",
+      "code": "CSD"
+    },
+    {
+      "tenantId": "sn",
+      "name": "KKK",
+      "code": "KKK"
+    },
+    {
+      "tenantId": "sn",
+      "name": "New CT Test 101",
+      "code": "CT 101"
+    },
+    {
+      "tenantId": "sn",
+      "name": "M_Collection_Point",
+      "code": "MCollect"
+    },
+    {
+      "tenantId": "sn",
+      "name": "M_Colleaction_Point_2",
+      "code": "MCollection"
+    },
+    {
+      "tenantId": "sn",
+      "name": "New Collection Type 23",
+      "code": "NCT 23"
+    },
+    {
+      "tenantId": "sn",
+      "name": "Collection Type 24",
+      "code": "CT 24"
+    },
+    {
+      "tenantId": "sn",
+      "name": "ttt",
+      "code": "TTT"
+    },
+    {
+      "tenantId": "sn",
+      "name": "RRR",
+      "code": "RRR"
+    },
+    {
+      "tenantId": "sn",
+      "name": "COll Type 999",
+      "code": "CT999"
+    },
+    {
+      "tenantId": "sn",
+      "name": "mmmm",
+      "code": "MMM"
+    },
+    {
+      "tenantId": "sn",
+      "name": "CT Dev",
+      "code": "CTD 1"
+    },
+    {
+      "tenantId": "sn",
+      "name": "CT Name 999",
+      "code": "CTN 999"
+    },
+    {
+      "tenantId": "sn",
+      "name": "Collection Test 101",
+      "code": "CT Test 101"
+    },
+    {
+      "tenantId": "sn",
+      "name": "Test 2424",
+      "code": "CT 2424"
+    },
+    {
+      "tenantId": "sn",
+      "name": "Test 2525",
+      "code": "CT 2525"
+    }
+  ]
+}

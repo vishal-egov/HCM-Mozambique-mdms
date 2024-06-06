@@ -1,0 +1,41 @@
+{
+  "tenantId": "sn",
+  "moduleName": "common-masters",
+  "uiCommonConstants": [
+    {
+      "elastic": {
+        "iframe-routes": {
+          "home": {
+            "routePath": "/kibana-upgrade/login",
+            "isOrigin": true
+          },
+          "national": {
+            "routePath": "/kibana-upgrade/s/national-supervisor/app/dashboards#/view/27ba5a75-644a-4087-8c00-5785d7df91f9?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+            "isOrigin": true,
+            "title": "NATIONAL_DASHBOARD"
+          },
+          "district": {
+            "routePath": "/kibana-upgrade/s/district-supervisor/app/dashboards#/view/58f3f6e8-ad7c-40be-b203-aa3cdc9cde4f?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+            "isOrigin": true,
+            "title": "DISTRICT_DASHBOARD"
+          },
+          "province": {
+            "routePath": "/kibana-upgrade/s/national-supervisor/app/dashboards#/view/95cef51b-9ec0-4ca0-aee0-d312ffbf3f23?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+            "isOrigin": true,
+            "title": "PROVINCE_DASHBOARD"
+          },
+          "hf": {
+            "routePath": "/kibana-upgrade/s/health-facility-supervisor/app/dashboards#/view/3fea3bb8-53db-4629-afd5-4cbac39956aa?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+            "isOrigin": true,
+            "title": "LOCALITY_DASHBOARD"
+          },
+          "cs": {
+            "routePath": "/kibana-upgrade/s/community-supervisor/app/dashboards#/view/dc7e853b-706d-4164-988f-8114d7d8e11f?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+            "isOrigin": true,
+            "title": "LOCALITY_DASHBOARD"
+          }
+        }
+      }
+    }
+  ]
+}

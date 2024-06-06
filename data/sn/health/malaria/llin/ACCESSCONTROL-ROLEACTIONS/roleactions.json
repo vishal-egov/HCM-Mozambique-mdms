@@ -1,0 +1,42 @@
+{
+  "tenantId": "sn.health.malaria.llin",
+  "moduleName": "ACCESSCONTROL-ROLEACTIONS",
+  "roleactions": [
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8001,
+      "actioncode": "",
+      "tenantId": "sn.health.malaria.llin"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8002,
+      "actioncode": "",
+      "tenantId": "sn.health.malaria.llin"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8003,
+      "actioncode": "",
+      "tenantId": "sn.health.malaria.llin"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8004,
+      "actioncode": "",
+      "tenantId": "sn.health.malaria.llin"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8005,
+      "actioncode": "",
+      "tenantId": "sn"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8006,
+      "actioncode": "",
+      "tenantId": "sn"
+    }
+  ]
+}

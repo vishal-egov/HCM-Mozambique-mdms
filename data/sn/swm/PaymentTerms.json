@@ -1,0 +1,26 @@
+{
+  "tenantId": "sn",
+  "moduleName": "swm",
+  "PaymentTerms": [
+    {
+      "tenantId": "sn",
+      "noOfDays": 30,
+      "label": "Monthly"
+    },
+    {
+      "tenantId": "sn",
+      "noOfDays": 60,
+      "label": "Bi-monthly"
+    },
+    {
+      "tenantId": "sn",
+      "noOfDays": 90,
+      "label": "Quarterly"
+    },
+    {
+      "tenantId": "sn",
+      "noOfDays": 365,
+      "label": "Yearly"
+    }
+  ]
+}
