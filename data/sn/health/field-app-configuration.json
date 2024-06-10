@@ -38,6 +38,10 @@
       ],
       "LANGUAGES": [
         {
+          "label": "English",
+          "value": "en_SN"
+        },
+        {
           "label": "Portuguese",
           "value": "fr_SN"
         }
