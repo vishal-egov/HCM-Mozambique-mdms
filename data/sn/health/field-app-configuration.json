@@ -192,12 +192,12 @@
       ],
       "DELIVERY_COMMENT_OPTIONS_POPULATOR": [
         {
-          "code": "INSUFFICIENT_RESOURCES",
-          "name": "Insuficiência de redes"
+          "code": "VOMITED",
+          "name": "Vomited"
         },
         {
-          "code": "PROGRAM_MANDATE",
-          "name": "Orientação nacional"
+          "code": "NOT_TREATED",
+          "name": "Not Treated"
         }
       ],
       "DELIVERY_COMMENT_OPTIONS_SMC_POPULATOR": [
