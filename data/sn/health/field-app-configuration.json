@@ -148,12 +148,8 @@
           "name": "DEFAULT"
         },
         {
-          "code": "AADHAAR",
-          "name": "AADHAAR"
-        },
-        {
-          "code": "PAN",
-          "name": "PAN"
+          "code": "CPS_CARD",
+          "name": "CPS_CARD"
         }
       ],
       "GENDER_OPTIONS_POPULATOR": [
