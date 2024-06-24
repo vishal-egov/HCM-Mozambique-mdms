@@ -16359,7 +16359,7 @@
       "tenantid": "sn"
     },
     {
-      "rolecode": "NATIONAL_SUPERVISOR",
+      "rolecode": "FIELD_SUPERVISOR",
       "actionid": 1665,
       "actioncode": "",
       "tenantid": "sn"
@@ -16371,73 +16371,13 @@
       "tenantid": "sn"
     },
     {
-      "rolecode": "DISTRICT_SUPERVISOR",
-      "actionid": 1665,
-      "actioncode": "",
-      "tenantid": "sn"
-    },
-    {
-      "rolecode": "FIELD_SUPERVISOR",
-      "actionid": 1665,
-      "actioncode": "",
-      "tenantid": "sn"
-    },
-    {
-      "rolecode": "SUPERVISOR",
-      "actionid": 1665,
-      "actioncode": "",
-      "tenantid": "sn"
-    },
-    {
       "rolecode": "NATIONAL_SUPERVISOR",
       "actionid": 1665,
       "actioncode": "",
       "tenantid": "sn"
     },
     {
-      "rolecode": "PROVINCIAL_SUPERVISOR",
-      "actionid": 1665,
-      "actioncode": "",
-      "tenantid": "sn"
-    },
-    {
       "rolecode": "DISTRICT_SUPERVISOR",
-      "actionid": 1665,
-      "actioncode": "",
-      "tenantid": "sn"
-    },
-    {
-      "rolecode": "FIELD_SUPERVISOR",
-      "actionid": 1665,
-      "actioncode": "",
-      "tenantid": "sn"
-    },
-    {
-      "rolecode": "SUPERVISOR",
-      "actionid": 1665,
-      "actioncode": "",
-      "tenantid": "sn"
-    },
-    {
-      "rolecode": "NATIONAL_SUPERVISOR",
-      "actionid": 1665,
-      "actioncode": "",
-      "tenantid": "sn"
-    },
-    {
-      "rolecode": "PROVINCIAL_SUPERVISOR",
-      "actionid": 1665,
-      "actioncode": "",
-      "tenantid": "sn"
-    },
-    {
-      "rolecode": "DISTRICT_SUPERVISOR",
-      "actionid": 1665,
-      "actioncode": "",
-      "tenantid": "sn"
-    },
-    {
-      "rolecode": "FIELD_SUPERVISOR",
       "actionid": 1665,
       "actioncode": "",
       "tenantid": "sn"
@@ -17507,12 +17447,6 @@
     {
       "rolecode": "COMMUNITY_DISTRIBUTOR",
       "actionid": 1662,
-      "actioncode": "",
-      "tenantId": "sn"
-    },
-    {
-      "rolecode": "COMMUNITY_DISTRIBUTOR",
-      "actionid": 1665,
       "actioncode": "",
       "tenantId": "sn"
     },
