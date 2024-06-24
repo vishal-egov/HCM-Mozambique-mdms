@@ -18973,6 +18973,12 @@
       "actionid": 1935,
       "actioncode": "",
       "tenantid": "sn"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1551,
+      "actioncode": "",
+      "tenantId": "sn"
     }
   ]
 }
