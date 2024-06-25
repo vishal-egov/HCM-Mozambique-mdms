@@ -18567,6 +18567,12 @@
       "tenantId": "sn"
     },
     {
+      "rolecode": "COMMUNITY_SUPERVISOR",
+      "actionid": 1664,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
       "rolecode": "LOGISTIC_FOCAL_POINT",
       "actionid": 1544,
       "actioncode": "",
