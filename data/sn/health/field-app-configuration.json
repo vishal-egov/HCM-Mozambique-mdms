@@ -190,10 +190,6 @@
         {
           "code": "VOMITED",
           "name": "Vomited"
-        },
-        {
-          "code": "NOT_TREATED",
-          "name": "Not Treated"
         }
       ],
       "DELIVERY_COMMENT_OPTIONS_SMC_POPULATOR": [
