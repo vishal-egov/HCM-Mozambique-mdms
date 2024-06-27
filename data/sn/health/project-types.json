@@ -1091,6 +1091,128 @@
               ]
             }
           ]
+        },
+        {
+          "mandatoryWaitSinceLastCycleInDays": null,
+          "startDate": 1722450600000,
+          "endDate": 1725128999000,
+          "id": 3,
+          "deliveries": [
+            {
+              "id": 1,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-05-30-000006",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-05-30-000004",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-05-30-000006",
+                      "quantity": 1
+                    },
+                    {
+                      "productVariantId": "PVAR-2024-05-30-000004",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-05-30-000006",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-05-30-000004",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-05-30-000006",
+                      "quantity": 1
+                    },
+                    {
+                      "productVariantId": "PVAR-2024-05-30-000004",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-05-30-000006",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-05-30-000004",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "60<=age<120",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-05-30-000006",
+                      "quantity": 1
+                    },
+                    {
+                      "productVariantId": "PVAR-2024-05-30-000004",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "boundaryData": {
