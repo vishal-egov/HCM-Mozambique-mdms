@@ -3,7 +3,7 @@
   "moduleName": "HCM-PROJECT-TYPES",
   "projectTypes": [
     {
-      "id": "644c4356-5214-11ee-be56-0242ac120004",
+      "id": "644c4356-5214-11ee-be56-0242ac120004-dummy",
       "name": "Configuration for Multi Round Campaigns",
       "code": "SMC",
       "group": "MALARIA",
