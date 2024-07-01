@@ -63,6 +63,11 @@
             "active": true
         },
         {
+            "code": "Bleeding",
+            "name": "Saignement",
+            "active": true
+        },
+        {
             "code": "OTHER",
             "name": "Other",
             "active": true
