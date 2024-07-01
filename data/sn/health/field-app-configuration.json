@@ -58,88 +58,28 @@
       ],
       "CHECKLIST_TYPES": [
         {
-          "name": "REGISTRATION_BASIC",
-          "code": "REGISTRATION_BASIC"
+          "name": "SPC_ADMINISTRATION",
+          "code": "SPC_ADMINISTRATION"
         },
         {
-          "name": "LOCAL_MONITOR_TRAINING",
-          "code": "LOCAL_MONITOR_TRAINING"
+          "name": "AWARENESS",
+          "code": "AWARENESS"
         },
         {
-          "name": "DISTRICT_MONITOR_TRAINING",
-          "code": "DISTRICT_MONITOR_TRAINING"
+          "name": "SURVEY_FORM",
+          "code": "SURVEY_FORM"
         },
         {
-          "name": "REGISTRATION_TEAM_TRAINING",
-          "code": "REGISTRATION_TEAM_TRAINING"
+          "name": "CAMPAIGN_PREPARATION",
+          "code": "CAMPAIGN_PREPARATION"
         },
         {
-          "name": "AS_MONITORING",
-          "code": "AS_MONITORING"
+          "name": "TREATMENT_EVALUATION",
+          "code": "TREATMENT_EVALUATION"
         },
         {
-          "name": "MATERIAL_RECEIVED",
-          "code": "MATERIAL_RECEIVED"
-        },
-        {
-          "name": "MATERIAL_ISSUED",
-          "code": "MATERIAL_ISSUED"
-        },
-        {
-          "name": "SOCIAL_MOBILIZATION",
-          "code": "SOCIAL_MOBILIZATION"
-        },
-        {
-          "name": "REFERRAL",
-          "code": "REFERRAL"
-        },
-        {
-          "name": "HEALTH_PROFESSIONAL",
-          "code": "HEALTH_PROFESSIONAL"
-        },
-        {
-          "name": "TEAM_SUPERVISION",
-          "code": "TEAM_SUPERVISION"
-        },
-        {
-          "name": "STOCK_MANAGEMENT",
-          "code": "STOCK_MANAGEMENT"
-        },
-        {
-          "name": "PERFORMANCE_STANDARD",
-          "code": "PERFORMANCE_STANDARD"
-        },
-        {
-          "name": "PHARMACOVIGILANCE",
-          "code": "PHARMACOVIGILANCE"
-        },
-        {
-          "name": "SPAQ_RECEIVED",
-          "code": "SPAQ_RECEIVED"
-        },
-        {
-          "name": "SPAQ_ISSUED",
-          "code": "SPAQ_ISSUED"
-        },
-        {
-          "name": "PAYMENT_DATA",
-          "code": "PAYMENT_DATA"
-        },
-        {
-          "name": "HF_RF_SICK",
-          "code": "HF_RF_SICK"
-        },
-        {
-          "name": "HF_RF_FEVER",
-          "code": "HF_RF_FEVER"
-        },
-        {
-          "name": "HF_RF_DRUG_SE_PC",
-          "code": "HF_RF_DRUG_SE_PC"
-        },
-        {
-          "name": "HF_RF_DRUG_SE_CC",
-          "code": "HF_RF_DRUG_SE_CC"
+          "name": "SUMMARY_FULL_TREATMENT",
+          "code": "SUMMARY_FULL_TREATMENT"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
@@ -190,10 +130,6 @@
         {
           "code": "VOMITED",
           "name": "Vomited"
-        },
-        {
-          "code": "NOT_TREATED",
-          "name": "Not Treated"
         }
       ],
       "DELIVERY_COMMENT_OPTIONS_SMC_POPULATOR": [
