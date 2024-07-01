@@ -7,23 +7,19 @@
       "indexLabel": "country"
     },
     {
-      "label": "Provincia",
-      "indexLabel": "province"
+      "label": "DRS",
+      "indexLabel": "drs"
     },
     {
-      "label": "Distrito",
+      "label": "District",
       "indexLabel": "district"
     },
     {
-      "label": "Localidade",
-      "indexLabel": "locality"
+      "label": "Poste De Sante",
+      "indexLabel": "healthFacility"
     },
     {
-      "label": "Posto Administrativo",
-      "indexLabel": "administrativeProvince"
-    },
-    {
-      "label": "Aldeia",
+      "label": "Village",
       "indexLabel": "village"
     }
   ]
