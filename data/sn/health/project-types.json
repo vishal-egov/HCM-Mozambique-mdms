@@ -427,43 +427,50 @@
           "label": "Village"
         },
         "targetColumnHeaders": [
-          "total_individuals",
-          "targeted_individuals",
-          "total_3_11",
-          "targeted_3_11",
-          "total_12_59",
-          "targeted_12_59",
-          "total_spaq_1",
-          "targeted_spaq_1",
-          "total_spaq_2",
-          "targeted_spaq_2",
-          "total_spaq"
+          "total_4",
+          "target_4",
+          "total_1",
+          "target_1",
+          "total_2",
+          "target_2",
+          "total_3",
+          "target_3",
+          "total_5",
+          "target_5",
+          "total_6",
+          "target_6",
+          "total_7",
+          "target_7"
         ],
         "totalVsTarget": [],
         "projectTargets": [
           {
             "beneficiarytype": "INDIVIDUAL",
-            "targetedColumn": "targeted_individuals"
+            "targetedColumn": "target_4"
           },
           {
             "beneficiarytype": "3-11MONTH",
-            "targetedColumn": "targeted_3_11"
+            "targetedColumn": "target_1"
           },
           {
             "beneficiarytype": "12-59MONTH",
-            "targetedColumn": "targeted_12_59"
+            "targetedColumn": "target_2"
+          },
+          {
+            "beneficiarytype": "60-120MONTH",
+            "targetedColumn": "target_3"
           },
           {
             "beneficiarytype": "PRODUCT",
-            "targetedColumn": "total_spaq"
+            "targetedColumn": "total_7"
           },
           {
-            "beneficiarytype": "SPAQ1",
-            "targetedColumn": "targeted_spaq_1"
+            "beneficiarytype": "COB1",
+            "targetedColumn": "target_5"
           },
           {
-            "beneficiarytype": "SPAQ2",
-            "targetedColumn": "targeted_spaq_2"
+            "beneficiarytype": "COB2",
+            "targetedColumn": "target_6"
           }
         ]
       }
