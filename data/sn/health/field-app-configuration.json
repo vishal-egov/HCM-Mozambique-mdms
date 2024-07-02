@@ -84,10 +84,6 @@
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
         {
-          "code": "DEFAULT",
-          "name": "DEFAULT"
-        },
-        {
           "code": "CPS_CARD",
           "name": "CPS_CARD"
         }
