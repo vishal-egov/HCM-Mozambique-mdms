@@ -12604,7 +12604,7 @@
       "id": 1668,
       "name": "DB",
       "url": "",
-      "displayName": "DB",
+      "displayName": "HOME_DB_LABEL",
       "orderNumber": 1,
       "parentModule": "cards",
       "enabled": true,
