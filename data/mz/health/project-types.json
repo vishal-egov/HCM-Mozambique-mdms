@@ -1189,8 +1189,8 @@
           "total_spaq"
         ],
         "targetHFColumnHeaders": [
-          "hf_target_1",
-          "hf_target_2"
+          "COB_1",
+          "COB_2"
         ],
         "totalVsTarget": [],
         "projectTargets": [

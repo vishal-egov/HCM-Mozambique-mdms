@@ -84,10 +84,6 @@
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
         {
-          "code": "DEFAULT",
-          "name": "DEFAULT"
-        },
-        {
           "code": "CPS_CARD",
           "name": "CPS_CARD"
         }
@@ -296,6 +292,13 @@
           {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-inventory-details",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-attendance",
             "config": {
               "localStoreTTL": 172800
             }
