@@ -18979,6 +18979,30 @@
       "actionid": 1551,
       "actioncode": "",
       "tenantid": "sn"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1941,
+      "actioncode": "",
+      "tenantId": "sn"
+    },
+    {
+      "rolecode": "FIELD_SUPERVISOR",
+      "actionid": 1941,
+      "actioncode": "",
+      "tenantId": "sn"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1942,
+      "actioncode": "",
+      "tenantId": "sn"
+    },
+    {
+      "rolecode": "FIELD_SUPERVISOR",
+      "actionid": 1942,
+      "actioncode": "",
+      "tenantId": "sn"
     }
   ]
 }
