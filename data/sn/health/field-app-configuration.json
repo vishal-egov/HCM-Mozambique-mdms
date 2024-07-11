@@ -62,10 +62,6 @@
           "code": "SPC_ADMINISTRATION"
         },
         {
-          "name": "AWARENESS",
-          "code": "AWARENESS"
-        },
-        {
           "name": "SURVEY_FORM",
           "code": "SURVEY_FORM"
         },
@@ -80,6 +76,10 @@
         {
           "name": "SUMMARY_FULL_TREATMENT",
           "code": "SUMMARY_FULL_TREATMENT"
+        },
+        {
+          "name": "SUPERVISION_GRID",
+          "code": "SUPERVISION_GRID"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
