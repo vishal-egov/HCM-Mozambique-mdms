@@ -131,6 +131,11 @@
       "code": "LOGISTIC_FOCAL_POINT",
       "name": "Logistic Focal Point",
       "description": "Logistic Focal Point"
+    },
+    {
+      "code": "ATTENDANCE_STAFF",
+      "name": "Attendance Staff",
+      "description": "Attendance staff"
     }
   ]
 }

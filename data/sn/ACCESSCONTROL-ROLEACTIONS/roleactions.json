@@ -19003,6 +19003,84 @@
       "actionid": 1942,
       "actioncode": "",
       "tenantId": "sn"
+    },
+    {
+      "rolecode": "ATTENDANCE_STAFF",
+      "actionid": 1594,
+      "actioncode": "",
+      "tenantId": "sn"
+    },
+    {
+      "rolecode": "ATTENDANCE_STAFF",
+      "actionid": 1545,
+      "actioncode": "",
+      "tenantId": "sn"
+    },
+    {
+      "rolecode": "ATTENDANCE_STAFF",
+      "actionid": 1656,
+      "actioncode": "",
+      "tenantId": "sn"
+    },
+    {
+      "rolecode": "ATTENDANCE_STAFF",
+      "actionid": 1942,
+      "actioncode": "",
+      "tenantId": "sn"
+    },
+    {
+      "rolecode": "ATTENDANCE_STAFF",
+      "actionid": 1941,
+      "actioncode": "",
+      "tenantId": "sn"
+    },
+    {
+      "rolecode": "ATTENDANCE_STAFF",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "ATTENDANCE_STAFF",
+      "actionid": 1658,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "ATTENDANCE_STAFF",
+      "actionid": 1662,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "ATTENDANCE_STAFF",
+      "actionid": 1932,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "ATTENDANCE_STAFF",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "ATTENDANCE_STAFF",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "ATTENDANCE_STAFF",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantid": "sn"
+    },
+    {
+      "rolecode": "ATTENDANCE_STAFF",
+      "actionid": 1551,
+      "actioncode": "",
+      "tenantid": "sn"
     }
   ]
 }
