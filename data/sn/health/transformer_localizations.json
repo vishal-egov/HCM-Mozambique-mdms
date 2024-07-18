@@ -4,43 +4,43 @@
     "transformerLocalizations": [
         {
             "text": "PENDING_ASSIGNMENT",
-            "translatedText": "PENDING_ASSIGNMENT"
+            "translatedText": "En attente d'affectation"
         },
         {
             "text": "RESOLVED",
-            "translatedText": "RESOLVED"
+            "translatedText": "Résolu"
         },
         {
             "text": "REJECTED",
-            "translatedText": "REJECTED"
+            "translatedText": "Refusé"
         },
         {
             "text": "TechnicalIssues",
-            "translatedText": "TechnicalIssues"
+            "translatedText": "Problèmes techniques"
         },
         {
             "text": "LackOfInternet",
-            "translatedText": "LackOfInternet"
+            "translatedText": "Manque d'internet"
         },
         {
             "text": "UserAccountIssues",
-            "translatedText": "UserAccountIssues"
+            "translatedText": "Problèmes de compte utilisateur"
         },
         {
             "text": "DataIssues",
-            "translatedText": "DataIssues"
+            "translatedText": "Problèmes de données/contenu"
         },
         {
             "text": "PerformanceIssue",
-            "translatedText": "PerformanceIssue"
+            "translatedText": "Problème de performance"
         },
         {
             "text": "SecurityIssues",
-            "translatedText": "SecurityIssues"
+            "translatedText": "Problèmes de sécurité"
         },
         {
             "text": "Other",
-            "translatedText": "Other"
+            "translatedText": "Autre"
         }
     ]
 }
