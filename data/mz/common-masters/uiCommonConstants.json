@@ -3,6 +3,7 @@
   "moduleName": "common-masters",
   "uiCommonConstants": [
     {
+      "id": "common-masters.uiCommonConstants.elastic.iframe-routes.mz",
       "elastic": {
         "iframe-routes": {
           "home": {

@@ -3,6 +3,7 @@
   "moduleName": "map-config",
   "angonia": [
     {
+      "id" : "map-config.angonia.mz.1",
       "center": [
         32.2,
         -14.67

@@ -3,6 +3,7 @@
   "moduleName": "dss-dashboard",
   "Calculations": [
     {
+      "id": "dss-dashboard.Calculations.mz",
       "DSS": {
         "Calculations": [
           {

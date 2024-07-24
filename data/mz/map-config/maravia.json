@@ -3,6 +3,7 @@
   "moduleName": "map-config",
   "maravia": [
     {
+      "id": "map-config.maravia.mz.1",
       "center": [
         33.9,
         -15.8

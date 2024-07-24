@@ -3,6 +3,7 @@
     "moduleName": "map-config",
     "mapai": [
         {
+            "id": "map-config.mapai.mz.1",
             "center": [
                 32.97,
                 -21.96

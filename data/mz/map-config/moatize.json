@@ -3,6 +3,7 @@
   "moduleName": "map-config",
   "moatize": [
     {
+      "id": "map-config.moatize.mz.1",
       "center": [
         33.9,
         -15.8

@@ -3,6 +3,7 @@
     "moduleName": "map-config",
     "chigubo": [
         {
+            "id" : "map-config.chigubo.mz.1",
             "center": [
                 33.3,
                 -22.0

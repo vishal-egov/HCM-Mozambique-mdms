@@ -2,6 +2,7 @@
   "tenantId": "mz",
   "moduleName": "HCM-PROJECT",
   "projectConfiguration": [{
+    "projectId" : "1",
       "beneficiaryTypes": [
         "INDIVIDUAL",
         "HOUSEHOLD",

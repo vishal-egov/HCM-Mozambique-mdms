@@ -3,6 +3,7 @@
   "moduleName": "HCM-FIELD-APP-CONFIG",
   "appConfig": [
     {
+      "id" : "HCM-FIELD-APP-CONFIG.appConfig.mz.1",
       "NETWORK_DETECTION": "OFF | ON",
       "PERSISTENCE_MODE": "OFFLINE_FIRST | ONLINE",
       "SYNC_METHOD": "API | OPLOG_UPLOAD",

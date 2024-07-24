@@ -3,6 +3,7 @@
     "moduleName": "map-config",
     "chibuto": [
         {
+            "id" : "map-config.chibuto.mz.1",
             "center": [
                 33.63,
                 -24.17

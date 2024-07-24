@@ -3,6 +3,7 @@
   "moduleName": "dss-dashboard",
   "dashboard-config": [
     {
+      "id": "dss-dashboard.dashboard-config.mz",
       "MODULE_LEVEL": [{ "dashboard": null }],
       "SERVICES": [],
       "MAP_CONFIG": [],

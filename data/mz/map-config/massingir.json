@@ -3,6 +3,7 @@
     "moduleName": "map-config",
     "massingir": [
         {
+            "id": "map-config.massingir.mz.1",
             "center": [
                 32.16,
                 -23.87

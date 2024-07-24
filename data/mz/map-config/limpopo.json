@@ -3,6 +3,7 @@
     "moduleName": "map-config",
     "limpopo": [
         {
+            "id": "map-config.limpopo.mz.1",
             "center": [
                 33.6,
                 -25.0

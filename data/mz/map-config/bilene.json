@@ -3,6 +3,7 @@
     "moduleName": "map-config",
     "bilene": [
         {
+            "id" : "map-config.bilene.mz.1",
             "center": [
                 33.23,
                 -24.9

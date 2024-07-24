@@ -3,6 +3,7 @@
   "moduleName": "HCM-DELIVERY-CONFIGURATION",
   "deliveryConfiguration": [
     {
+      "id" : "HCM-DELIVERY-CONFIGURATION.deliveryConfiguration.mz.1",
       "programMandateValue": 3,
       "dividingFactor": 1.8
     }

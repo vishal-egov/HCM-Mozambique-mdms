@@ -3,6 +3,7 @@
   "moduleName": "dss-dashboard",
   "About": [
     {
+      "id": "dss-dashboard.About.mz",
       "DSS": {
         "About": [
           {

@@ -3,6 +3,7 @@
   "moduleName": "map-config",
   "cahora_bassa": [
     {
+      "id" : "map-config.cahora_bassa.mz.1",
       "center": [
         32.5,
         -16.02

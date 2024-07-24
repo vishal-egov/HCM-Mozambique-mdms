@@ -3,6 +3,7 @@
   "moduleName": "map-config",
   "maputo": [
     {
+      "id": "map-config.maputo.mz.1",
       "center": [
         32.60,
         -25.52
