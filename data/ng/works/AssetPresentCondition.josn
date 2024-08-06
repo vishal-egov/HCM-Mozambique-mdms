@@ -1,0 +1,11 @@
+{
+  "tenantId": "ng",
+  "moduleName": "works",
+  "AssetPresentCondition": [
+    {
+      "id": 1,
+      "name": "Breaking Down Fake",
+      "tenantId": "ng"
+    }
+  ]
+}

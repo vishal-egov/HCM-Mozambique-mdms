@@ -1,0 +1,84 @@
+{
+  "tenantId": "ng",
+  "moduleName": "lcms",
+  "bench": [
+    {
+      "name": "Bombayaa",
+      "code": "BOMBAY",
+      "active": true,
+      "tenantId": "ng"
+    },
+    {
+      "name": "Aurangabad",
+      "code": "AURANGABAD",
+      "active": false,
+      "tenantId": "ng"
+    },
+    {
+      "name": "Nagpur",
+      "code": "NAGPUR",
+      "active": true,
+      "tenantId": "ng"
+    },
+    {
+      "name": "TestBench",
+      "code": "Nass",
+      "active": true,
+      "tenantId": "ng"
+    },
+    {
+      "name": "testing on 14 Bench_updated_2",
+      "code": "Tob",
+      "active": true,
+      "tenantId": "ng"
+    },
+    {
+      "name": "BenchName1",
+      "code": "bench1",
+      "active": true,
+      "tenantId": "ng"
+    },
+    {
+      "name": "test10",
+      "code": "111",
+      "active": true,
+      "tenantId": "ng"
+    },
+    {
+      "name": "Bench/M1",
+      "code": "BM1",
+      "active": false,
+      "tenantId": "ng"
+    },
+    {
+      "name": "aaa",
+      "code": "aaa",
+      "active": true,
+      "tenantId": "ng"
+    },
+    {
+      "name": "test1",
+      "code": "testing",
+      "active": false,
+      "tenantId": "ng"
+    },
+    {
+      "name": "BenchName1",
+      "code": "BN",
+      "active": true,
+      "tenantId": "ng"
+    },
+    {
+      "name": "BenchName2",
+      "code": "BN2",
+      "active": true,
+      "tenantId": "ng"
+    },
+    {
+      "name": "Bench_Name_4",
+      "code": "BN4",
+      "active": true,
+      "tenantId": "ng"
+    }
+  ]
+}

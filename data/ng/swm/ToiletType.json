@@ -1,0 +1,16 @@
+{
+  "tenantId": "ng",
+  "moduleName": "swm",
+  "ToiletType": [
+    {
+      "tenantId": "ng",
+      "name": "Community Toilet",
+      "code": "COM"
+    },
+    {
+      "tenantId": "ng",
+      "name": "Public Toilet",
+      "code": "PUB"
+    }
+  ]
+}

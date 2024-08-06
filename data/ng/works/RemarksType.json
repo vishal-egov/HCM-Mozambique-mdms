@@ -1,0 +1,18 @@
+{
+  "tenantId": "ng",
+  "moduleName": "works",
+  "RemarksType": [
+    {
+      "name": "Approval",
+      "tenantId": "ng"
+    },
+    {
+      "name": "Show Cause",
+      "tenantId": "ng"
+    },
+    {
+      "name": "Rejection",
+      "tenantId": "ng"
+    }
+  ]
+}
