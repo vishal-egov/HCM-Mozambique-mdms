@@ -13381,6 +13381,30 @@
       "serviceCode": "location",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1930,
+      "name": "Close Household",
+      "url": "",
+      "displayName": "HOME_CLOSE_HOUSEHOLD_LABEL",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1931,
+      "name": "Dashboard Label",
+      "url": "",
+      "displayName": "HOME_DASHBOARD_LABEL",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
     }
   ]
 }
