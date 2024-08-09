@@ -43,6 +43,11 @@
       "description": "Supervisor who can view Field health dashboard"
     },
     {
+      "code": "TEAM_SUPERVISOR",
+      "name": "Team Supervisor",
+      "description": "Supervisor who can view spray operator dashboard"
+    },
+    {
       "code": "SUPERVISOR",
       "name": "Supervisor",
       "description": "Supervisor"
