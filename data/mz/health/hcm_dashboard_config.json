@@ -26,13 +26,13 @@
         },
         {
           "name": "coverageByUser",
-          "vizType": null,
+          "vizType": "null",
           "chartType": "TABLE",
           "active": false
         },
         {
           "name": "performanceByUser",
-          "vizType": null,
+          "vizType": "null",
           "chartType": "TABLE",
           "active": false
         }
