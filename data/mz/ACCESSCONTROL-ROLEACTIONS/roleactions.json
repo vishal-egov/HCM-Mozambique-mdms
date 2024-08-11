@@ -19351,6 +19351,114 @@
       "actionid": 1667,
       "actioncode": "",
       "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1660,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1661,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1667,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1585,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1586,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1588,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1589,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1591,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1615,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1616,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1617,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1618,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1621,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1622,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1623,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1624,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1625,
+      "actioncode":"",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1628,
+      "actioncode":"",
+      "tenantid": "mz"
     }
   ]
 }
