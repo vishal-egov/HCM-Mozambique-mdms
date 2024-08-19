@@ -17,6 +17,12 @@
       "defaultLanguage": "pt_MZ",
       "isCitySelectionDisabled": true,
       "defaultCity": "sn",
+      "HRMS_CONSTANTS": {
+        "DEFAULT_DEPARTMENT": "OTHER",
+        "DEFAULT_DOB": "1970-01-01",
+        "INDIA_COUNTRY_CODE": "+91",
+        "COUNTRY_CODE_MOBILE": "+221"
+      },
       "languages": [
         {
           "label": "ENGLISH",
