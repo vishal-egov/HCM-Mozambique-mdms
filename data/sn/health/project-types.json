@@ -268,8 +268,8 @@
         },
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1723766400000,
-          "endDate": 1725148799000,
+          "startDate": 1724284800000,
+          "endDate": 1726444799000,
           "id": 3,
           "deliveries": [
             {
@@ -741,8 +741,8 @@
         },
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1723766400000,
-          "endDate": 1725148799000,
+          "startDate": 1724284800000,
+          "endDate": 1726444799000,
           "id": 3,
           "deliveries": [
             {
