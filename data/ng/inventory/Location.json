@@ -1,0 +1,21 @@
+{
+  "tenantId": "ng",
+  "moduleName": "inventory",
+  "Location": [
+    {
+      "tenantId": "ng",
+      "code": "LOC1",
+      "name": "Location1"
+    },
+    {
+      "tenantId": "ng",
+      "code": "LOC2",
+      "name": "Location1"
+    },
+    {
+      "tenantId": "ng",
+      "code": "LOC3",
+      "name": "Location3"
+    }
+  ]
+}

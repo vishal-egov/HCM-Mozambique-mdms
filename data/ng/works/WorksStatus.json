@@ -1,0 +1,513 @@
+{
+  "tenantId": "ng",
+  "moduleName": "works",
+  "WorksStatus": [
+    {
+      "code": "CREATED",
+      "description": "Created",
+      "moduleType": "DetailedEstimate",
+      "tenantId": "ng",
+      "orderNumber": 1
+    },
+    {
+      "code": "CHECKED",
+      "description": "Checked",
+      "moduleType": "DetailedEstimate",
+      "tenantId": "ng",
+      "orderNumber": 2
+    },
+    {
+      "code": "TECHNICAL_SANCTIONED",
+      "description": "Technical Sanctioned",
+      "moduleType": "DetailedEstimate",
+      "tenantId": "ng",
+      "orderNumber": 3
+    },
+    {
+      "code": "REJECTED",
+      "description": "Rejected",
+      "moduleType": "DetailedEstimate",
+      "tenantId": "ng",
+      "orderNumber": 4
+    },
+    {
+      "code": "RESUBMITTED",
+      "description": "Re-Submitted",
+      "moduleType": "DetailedEstimate",
+      "tenantId": "ng",
+      "orderNumber": 1
+    },
+    {
+      "code": "CANCELLED",
+      "description": "Cancelled",
+      "moduleType": "DetailedEstimate",
+      "tenantId": "ng",
+      "orderNumber": 5
+    },
+    {
+      "code": "NOTICEINVITINGTENDERRELEASED",
+      "description": "Notice inviting tender released",
+      "moduleType": "DetailedEstimateOffline",
+      "tenantId": "ng"
+    },
+    {
+      "code": "TENDER_DOCUMENT_RELEASED",
+      "description": "Tender document released",
+      "moduleType": "DetailedEstimateOffline",
+      "tenantId": "ng"
+    },
+    {
+      "code": "TENDER_OPENED",
+      "description": "Tender opened",
+      "moduleType": "DetailedEstimateOffline",
+      "tenantId": "ng"
+    },
+    {
+      "code": "TECHNICAL_EVALUATION_DONE",
+      "description": "Technical evaluation done",
+      "moduleType": "DetailedEstimateOffline",
+      "tenantId": "ng"
+    },
+    {
+      "code": "COMMERCIAL_EVALUATION_DONE",
+      "description": "Commercial evaluation done",
+      "moduleType": "DetailedEstimateOffline",
+      "tenantId": "ng"
+    },
+    {
+      "code": "L1_TENDER_FINALIZED",
+      "description": "L1 tender finalized",
+      "moduleType": "DetailedEstimateOffline",
+      "tenantId": "ng"
+    },
+    {
+      "code": "NEW",
+      "description": "New",
+      "moduleType": "CONTRACTORADVANCE",
+      "tenantId": "ng"
+    },
+    {
+      "code": "CREATED",
+      "description": "Created",
+      "moduleType": "CONTRACTORADVANCE",
+      "tenantId": "ng"
+    },
+    {
+      "code": "CHECKED",
+      "description": "Checked",
+      "moduleType": "CONTRACTORADVANCE",
+      "tenantId": "ng"
+    },
+    {
+      "code": "APPROVED",
+      "description": "Approved",
+      "moduleType": "CONTRACTORADVANCE",
+      "tenantId": "ng"
+    },
+    {
+      "code": "RESUBMITTED",
+      "description": "Re-Submitted",
+      "moduleType": "CONTRACTORADVANCE",
+      "tenantId": "ng"
+    },
+    {
+      "code": "REJECTED",
+      "description": "Rejected",
+      "moduleType": "CONTRACTORADVANCE",
+      "tenantId": "ng"
+    },
+    {
+      "code": "CANCELLED",
+      "description": "Cancelled",
+      "moduleType": "CONTRACTORADVANCE",
+      "tenantId": "ng"
+    },
+    {
+      "code": "CREATED",
+      "description": "Created",
+      "moduleType": "AbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "CHECKED",
+      "description": "Checked",
+      "moduleType": "AbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "TECHNICALLY_APPROVED",
+      "description": "Technically Approved",
+      "moduleType": "AbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "BUDGET_SANCTIONED",
+      "description": "Budget Sanctioned",
+      "moduleType": "AbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "ADMINISTRATIVE_SANCTIONED",
+      "description": "Administrative Sanctioned",
+      "moduleType": "AbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "CANCELLED",
+      "description": "Cancelled",
+      "moduleType": "AbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "REJECTED",
+      "description": "Rejected",
+      "moduleType": "AbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "RESUBMITTED",
+      "description": "Re-Submitted",
+      "moduleType": "AbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "NEW",
+      "description": "New",
+      "moduleType": "MBHeader",
+      "tenantId": "ng"
+    },
+    {
+      "code": "CREATED",
+      "description": "Created",
+      "moduleType": "MBHeader",
+      "tenantId": "ng"
+    },
+    {
+      "code": "CHECKED",
+      "description": "Checked",
+      "moduleType": "MBHeader",
+      "tenantId": "ng"
+    },
+    {
+      "code": "APPROVED",
+      "description": "Approved",
+      "moduleType": "MBHeader",
+      "tenantId": "ng"
+    },
+    {
+      "code": "CANCELLED",
+      "description": "Cancelled",
+      "moduleType": "MBHeader",
+      "tenantId": "ng"
+    },
+    {
+      "code": "REJECTED",
+      "description": "Rejected",
+      "moduleType": "MBHeader",
+      "tenantId": "ng"
+    },
+    {
+      "code": "RESUBMITTED",
+      "description": "Re-Submitted",
+      "moduleType": "MBHeader",
+      "tenantId": "ng"
+    },
+    {
+      "code": "APPROVED",
+      "description": "Approved",
+      "moduleType": "Milestone",
+      "tenantId": "ng"
+    },
+    {
+      "code": "CANCELLED",
+      "description": "Cancelled",
+      "moduleType": "Milestone",
+      "tenantId": "ng"
+    },
+    {
+      "code": "NEW",
+      "description": "New",
+      "moduleType": "RevisionAbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "CREATED",
+      "description": "Created",
+      "moduleType": "RevisionAbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "BUDGET_SANCTIONED",
+      "description": "Budget Sanctioned",
+      "moduleType": "RevisionAbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "TECH_SANCTIONED",
+      "description": "Technical Sanctioned",
+      "moduleType": "RevisionAbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "APPROVED",
+      "description": "Approved",
+      "moduleType": "RevisionAbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "CHECKED",
+      "description": "Checked",
+      "moduleType": "RevisionAbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "REJECTED",
+      "description": "Rejected",
+      "moduleType": "RevisionAbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "CANCELLED",
+      "description": "Cancelled",
+      "moduleType": "RevisionAbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "RESUBMITTED",
+      "description": "Re-Submitted",
+      "moduleType": "RevisionAbstractEstimate",
+      "tenantId": "ng"
+    },
+    {
+      "code": "CREATED",
+      "description": "Created",
+      "moduleType": "WorkOrder",
+      "tenantId": "ng",
+      "orderNumber": 1
+    },
+    {
+      "code": "CHECKED",
+      "description": "Checked",
+      "moduleType": "WorkOrder",
+      "tenantId": "ng",
+      "orderNumber": 2
+    },
+    {
+      "code": "APPROVED",
+      "description": "Approved",
+      "moduleType": "WorkOrder",
+      "tenantId": "ng",
+      "orderNumber": 3
+    },
+    {
+      "code": "REJECTED",
+      "description": "Rejected",
+      "moduleType": "WorkOrder",
+      "tenantId": "ng",
+      "orderNumber": 4
+    },
+    {
+      "code": "CANCELLED",
+      "description": "Cancelled",
+      "moduleType": "WorkOrder",
+      "tenantId": "ng",
+      "orderNumber": 5
+    },
+    {
+      "code": "RESUBMITTED",
+      "description": "Re-Submitted",
+      "moduleType": "WorkOrder",
+      "tenantId": "ng",
+      "orderNumber": 1
+    },
+    {
+      "code": "ACCEPTANCE_LETTER_ISSUED",
+      "description": "Acceptance letter issued",
+      "moduleType": "LetterOfAcceptanceOffline",
+      "tenantId": "ng"
+    },
+    {
+      "code": "ACCEPTANCE_LETTER_ACKNOWLEDGED",
+      "description": "Acceptance letter acknowledged",
+      "moduleType": "LetterOfAcceptanceOffline",
+      "tenantId": "ng"
+    },
+    {
+      "code": "AGREEMENT_ORDER_SIGNED",
+      "description": "Agreement order signed",
+      "moduleType": "LetterOfAcceptanceOffline",
+      "tenantId": "ng"
+    },
+    {
+      "code": "WORK_ORDER_ACKNOWLEDGED",
+      "description": "Work order acknowledged",
+      "moduleType": "WorkOrderOffline",
+      "tenantId": "ng"
+    },
+    {
+      "code": "SITE_HANDED_OVER",
+      "description": "Site handed over",
+      "moduleType": "WorkOrderOffline",
+      "tenantId": "ng"
+    },
+    {
+      "code": "WORK_COMMENCED",
+      "description": "Work commenced",
+      "moduleType": "WorkOrderOffline",
+      "tenantId": "ng"
+    },
+    {
+      "code": "ACTIVE",
+      "description": "Active",
+      "moduleType": "Contractor",
+      "tenantId": "ng",
+      "orderNumber": 1
+    },
+    {
+      "code": "INACTIVE",
+      "description": "Inactive",
+      "moduleType": "Contractor",
+      "tenantId": "ng",
+      "orderNumber": 2
+    },
+    {
+      "code": "BLACK_LISTED",
+      "description": "Black_Listed",
+      "moduleType": "Contractor",
+      "tenantId": "ng",
+      "orderNumber": 3
+    },
+    {
+      "code": "DEBARRED",
+      "description": "Debarred",
+      "moduleType": "Contractor",
+      "tenantId": "ng",
+      "orderNumber": 4
+    },
+    {
+      "code": "CREATED",
+      "description": "Created",
+      "moduleType": "ProjectCode",
+      "tenantId": "ng",
+      "orderNumber": 1
+    },
+    {
+      "code": "CREATED",
+      "description": "Created",
+      "moduleType": "LetterOfAcceptance",
+      "tenantId": "ng",
+      "orderNumber": 1
+    },
+    {
+      "code": "CHECKED",
+      "description": "Checked",
+      "moduleType": "LetterOfAcceptance",
+      "tenantId": "ng",
+      "orderNumber": 2
+    },
+    {
+      "code": "APPROVED",
+      "description": "Approved",
+      "moduleType": "LetterOfAcceptance",
+      "tenantId": "ng",
+      "orderNumber": 3
+    },
+    {
+      "code": "REJECTED",
+      "description": "Rejected",
+      "moduleType": "LetterOfAcceptance",
+      "tenantId": "ng",
+      "orderNumber": 4
+    },
+    {
+      "code": "CANCELLED",
+      "description": "Cancelled",
+      "moduleType": "LetterOfAcceptance",
+      "tenantId": "ng",
+      "orderNumber": 5
+    },
+    {
+      "code": "RESUBMITTED",
+      "description": "Resubmitted",
+      "moduleType": "LetterOfAcceptance",
+      "tenantId": "ng",
+      "orderNumber": 1
+    },
+    {
+      "code": "SAVED",
+      "description": "Saved",
+      "moduleType": "MeasurementBook",
+      "tenantId": "ng",
+      "orderNumber": 1
+    },
+    {
+      "code": "CREATED",
+      "description": "Created",
+      "moduleType": "MeasurementBook",
+      "tenantId": "ng",
+      "orderNumber": 1
+    },
+    {
+      "code": "CHECKED",
+      "description": "Checked",
+      "moduleType": "MeasurementBook",
+      "tenantId": "ng",
+      "orderNumber": 2
+    },
+    {
+      "code": "APPROVED",
+      "description": "Approved",
+      "moduleType": "MeasurementBook",
+      "tenantId": "ng",
+      "orderNumber": 3
+    },
+    {
+      "code": "REJECTED",
+      "description": "Rejected",
+      "moduleType": "MeasurementBook",
+      "tenantId": "ng",
+      "orderNumber": 4
+    },
+    {
+      "code": "RESUBMITTED",
+      "description": "Resubmitted",
+      "moduleType": "MeasurementBook",
+      "tenantId": "ng",
+      "orderNumber": 1
+    },
+    {
+      "code": "CANCELLED",
+      "description": "Cancelled",
+      "moduleType": "MeasurementBook",
+      "tenantId": "ng",
+      "orderNumber": 5
+    },
+    {
+      "code": "NOT_YET_STARTED",
+      "description": "Not yet started",
+      "moduleType": "TrackMilestone",
+      "tenantId": "ng",
+      "orderNumber": 1
+    },
+    {
+      "code": "IN_PROGRESS",
+      "description": "In Progress",
+      "moduleType": "TrackMilestone",
+      "tenantId": "ng",
+      "orderNumber": 1
+    },
+    {
+      "code": "COMPLETED",
+      "description": "Completed",
+      "moduleType": "TrackMilestone",
+      "tenantId": "ng",
+      "orderNumber": 1
+    },
+    {
+      "code": "FINANCIAL_SANCTIONED",
+      "description": "Financial Sanctioned",
+      "moduleType": "AbstractEstimate",
+      "tenantId": "ng"
+    }
+  ]
+}

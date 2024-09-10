@@ -1,0 +1,11 @@
+{
+  "tenantId": "ng",
+  "moduleName": "Workflow",
+  "AutoEscalationStatesToIgnore": [
+    {
+      "businessService": "NewTL",
+      "module": "TL",
+      "state": ["INITIATED","PENDINGAPPROVAL"]
+    }
+  ]
+}

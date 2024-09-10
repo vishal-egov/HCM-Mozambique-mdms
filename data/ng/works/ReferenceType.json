@@ -1,0 +1,30 @@
+{
+  "tenantId": "ng",
+  "moduleName": "works",
+  "ReferenceType": [
+    {
+      "id": 1,
+      "code": "DemandfromMember",
+      "tenantId": "ng",
+      "name": "Demand from Member"
+    },
+    {
+      "id": 2,
+      "code": "Demandfrompublic",
+      "tenantId": "ng",
+      "name": "Demand from public"
+    },
+    {
+      "id": 3,
+      "code": "DepartmentalInitiative",
+      "tenantId": "ng",
+      "name": "Departmental Initiative"
+    },
+    {
+      "id": 4,
+      "code": "Other",
+      "tenantId": "ng",
+      "name": "Other"
+    }
+  ]
+}
