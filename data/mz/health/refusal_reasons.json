@@ -1,0 +1,26 @@
+{
+  "tenantId": "mz",
+  "moduleName": "HCM",
+  "REFUSAL_REASONS": [
+    {
+      "code": "INCOMPATIBLE",
+      "name": "Incomaptible",
+      "active": true
+    },
+    {
+      "code": "REFUSED",
+      "name": "Refused",
+      "active": true
+    },
+    {
+      "code": "SICK",
+      "name": "Sick",
+      "active": true
+    },
+    {
+      "code": "FUNERAL",
+      "name": "Funeral",
+      "active": true
+    }
+  ]
+}

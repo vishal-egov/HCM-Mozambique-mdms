@@ -131,6 +131,11 @@
       "code": "LOGISTIC_FOCAL_POINT",
       "name": "Logistic Focal Point",
       "description": "Logistic Focal Point"
+    },
+    {
+      "code": "FINANCIAL_CONTROLLER",
+      "name": "Financial Controller",
+      "description": "Supervisor who can monitor campaign costs"
     }
   ]
 }

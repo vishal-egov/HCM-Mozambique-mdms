@@ -8,7 +8,7 @@
         },
         {
             "module": "egov-location",
-            "version": "1.8"
+            "version": "0.6"
         },
         {
             "module": "HCM-FIELD-APP-CONFIG",
