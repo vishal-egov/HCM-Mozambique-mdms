@@ -32,6 +32,7 @@
     "Logistico": "LOGISTIC_FOCAL_POINT",
     "Community Distributor": "COMMUNITY_DISTRIBUTOR",
     "Community Supervisor": "COMMUNITY_SUPERVISOR",
-    "Health Facility Supervisor": "HEALTH_FACILITY_SUPERVISOR"
+    "Health Facility Supervisor": "HEALTH_FACILITY_SUPERVISOR",
+    "Cd Admin": "COMMUNITY_DISTRIBUTOR,SYSTEM_ADMINISTRATOR"
   }]
 }
