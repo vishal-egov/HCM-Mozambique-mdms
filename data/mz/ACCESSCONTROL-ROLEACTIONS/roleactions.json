@@ -10143,6 +10143,12 @@
       "tenantid": "mz"
     },
     {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 954,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 955,
       "actioncode": "",
