@@ -141,6 +141,11 @@
       "code": "FINANCIAL_CONTROLLER",
       "name": "Financial Controller",
       "description": "Supervisor who can monitor campaign costs"
+    },
+    {
+      "code": "MOBILIZER",
+      "name": "Mobilizer",
+      "description": "Mobilizer"
     }
   ]
 }
