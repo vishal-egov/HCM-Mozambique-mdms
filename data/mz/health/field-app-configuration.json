@@ -148,6 +148,14 @@
         {
           "name": "IEC",
           "code": "IEC"
+        },
+        {
+          "name": "MOBILIZER_FORM",
+          "code": "MOBILIZER_FORM"
+        },
+        {
+          "name": "SPECIAL_SPRAYING",
+          "code": "SPECIAL_SPRAYING"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
