@@ -18895,6 +18895,18 @@
       "actionid": 1929,
       "actioncode": "",
       "tenantid": "mz"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 1594,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 1545,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
