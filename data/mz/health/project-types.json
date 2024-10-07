@@ -706,6 +706,18 @@
         {
           "productVariantId": "PVAR-2024-07-25-000023",
           "isBaseUnitVariant": true
+        },
+        {
+          "productVariantId": "PVAR-2024-10-07-000024",
+          "isBaseUnitVariant": true
+        },
+        {
+          "productVariantId": "PVAR-2024-10-07-000025",
+          "isBaseUnitVariant": true
+        },
+        {
+          "productVariantId": "PVAR-2024-10-07-000026",
+          "isBaseUnitVariant": true
         }
       ]
     }
