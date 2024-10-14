@@ -146,6 +146,11 @@
       "code": "MOBILIZER",
       "name": "Mobilizer",
       "description": "Mobilizer"
+    },
+    {
+      "code": "ATTENDANCE_STAFF",
+      "name": "Attendance Staff",
+      "description": "Attendance Staff"
     }
   ]
 }
