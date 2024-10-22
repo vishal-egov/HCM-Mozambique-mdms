@@ -13577,6 +13577,74 @@
       "leftIcon": "",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 1946,
+      "name": "Provincial Health Dashboard LLIN",
+      "url": "url",
+      "displayName": "Provincial Health Dashboard LLIN",
+      "orderNumber": 2,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/provincial-health-dashboard-llin",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 1947,
+      "name": "District Health Dashboard LLIN",
+      "url": "url",
+      "displayName": "District Health Dashboard LLIN",
+      "orderNumber": 2,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/district-health-dashboard-llin",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 1948,
+      "name": "DSS Dashboard Config National Health Dashboard LIIN",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-health-dashboard-llin",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1949,
+      "name": "DSS Dashboard Config Provincial Health Dashboard LLIN",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/provincial-health-dashboard-llin",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1950,
+      "name": "DSS Dashboard Config District Health Dashboard LLIN",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/district-health-dashboard-llin",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
