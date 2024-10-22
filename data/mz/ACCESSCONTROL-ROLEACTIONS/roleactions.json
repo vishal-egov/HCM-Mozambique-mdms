@@ -19747,6 +19747,12 @@
       "actionid": 1594,
       "actioncode": "",
       "tenantId": "mz"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }

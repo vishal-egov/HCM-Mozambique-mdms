@@ -13561,6 +13561,22 @@
       "serviceCode": "attendance-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1945,
+      "name": "National Health Dashboard LLIN",
+      "url": "url",
+      "displayName": "National Health Dashboard LLIN",
+      "orderNumber": 2,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/employee/dss/landing/national-health-dashboard-llin",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
