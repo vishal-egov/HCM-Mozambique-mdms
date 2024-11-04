@@ -13645,6 +13645,42 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1951,
+      "name": "DSS Dashboard Config National IRS Health Dashboard",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-health-dashboard-irs",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1952,
+      "name": "DSS Dashboard Config Provincial IRS Health Dashboard",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/provincial-health-dashboard-irs",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1953,
+      "name": "DSS Dashboard Config District IRS Health Dashboard",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/district-health-dashboard-irs",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
     }
   ]
 }

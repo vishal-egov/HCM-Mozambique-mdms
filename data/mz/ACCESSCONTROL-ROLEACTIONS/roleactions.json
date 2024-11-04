@@ -19795,6 +19795,24 @@
       "actionid": 1948,
       "actioncode": "",
       "tenantId": "mz"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1951,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1952,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1953,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
