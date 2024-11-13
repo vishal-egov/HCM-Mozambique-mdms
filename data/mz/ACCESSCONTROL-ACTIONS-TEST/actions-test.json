@@ -13645,6 +13645,195 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1836,
+      "name": "v1 project type update",
+      "url": "/project-factory/v1/project-type/update",
+      "displayName": "v1 project type update",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1837,
+      "name": "Upload File by FileStoreId",
+      "url": "/filestore/v1/files",
+      "displayName": "Upload File by FileStoreId",
+      "orderNumber": 0,
+      "queryParams": "fileStoreId",
+      "parentModule": "PGR",
+      "enabled": false,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "PGR.Get File by FileStoreId"
+    },
+     {
+      "id": 1838,
+      "name": "Boundary service create",
+      "url": "/boundary-service/boundary/_create",
+      "displayName": "Boundary service create",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1839,
+      "name": "Boundary service update",
+      "url": "/boundary-service/boundary/_update",
+      "displayName": "Boundary service update",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1840,
+      "name": "Boundary service search",
+      "url": "/boundary-service/boundary/_search",
+      "displayName": "Boundary service search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1841,
+      "name": "Boundary relationship create",
+      "url": "/boundary-service/boundary-relationships/_create",
+      "displayName": "Boundary relationship create",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1842,
+      "name": "Boundary relationship update",
+      "url": "/boundary-service/boundary-relationships/_update",
+      "displayName": "Boundary relationship update",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1843,
+      "name": "Boundary relationship search",
+      "url": "/boundary-service/boundary-relationships/_search",
+      "displayName": "Boundary relationship search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1844,
+      "name": "v1 project type create",
+      "url": "/project-factory/v1/project-type/create",
+      "displayName": "v1 project type create",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1845,
+      "name": "project factory data search",
+      "url": "/project-factory/v1/data/_search",
+      "displayName": "project factory data search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 1846,
+      "name": "boundary bulk upload",
+      "url": "/project-factory/v1/data/_autoGenerateBoundaryCode",
+      "displayName": "boundary bulk upload",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 1847,
+      "name": "boundary hierarchy definition create",
+      "url": "/boundary-service/boundary-hierarchy-definition/_create",
+      "displayName": "boundary hierarchy definition create",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1848,
+      "name": "boundary hierarchy definition search",
+      "url": "/boundary-service/boundary-hierarchy-definition/_search",
+      "displayName": "boundary hierarchy definition search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1849,
+      "name": "v1 project type create",
+      "url": "/project-factory/v1/project-type/search",
+      "displayName": "v1 project type create",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1850,
+      "name": "project factory data generate",
+      "url": "/project-factory/v1/data/_generate",
+      "displayName": "project factory data generate",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 1851,
+      "name": "project factory data download",
+      "url": "/project-factory/v1/data/_download",
+      "displayName": "project factory data download",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1852,
+      "name": "project factory data create",
+      "url": "/project-factory/v1/data/_create",
+      "displayName": "project factory data create",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
     }
   ]
 }
