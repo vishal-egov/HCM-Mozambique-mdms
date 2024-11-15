@@ -13325,7 +13325,7 @@
     {
       "id": 1876,
       "name": "User action create",
-      "url": "/health-project/user-action/v1/_create",
+      "url": "/project/user-action/v1/_create",
       "displayName": "User action create",
       "orderNumber": 0,
       "parentModule": "",
@@ -13337,7 +13337,7 @@
     {
       "id": 1877,
       "name": "User action Search",
-      "url": "/health-project/user-action/v1/_search",
+      "url": "/project/user-action/v1/_search",
       "displayName": "User action Search",
       "orderNumber": 0,
       "parentModule": "",
@@ -13349,7 +13349,7 @@
     {
       "id": 1878,
       "name": "User action update",
-      "url": "/health-project/user-action/v1/_update",
+      "url": "/project/user-action/v1/_update",
       "displayName": "User action update",
       "orderNumber": 0,
       "parentModule": "",
@@ -13361,7 +13361,7 @@
     {
       "id": 1879,
       "name": "User location create",
-      "url": "/health-project/user-location/v1/_create",
+      "url": "/project/user-location/v1/_create",
       "displayName": "User location create",
       "orderNumber": 0,
       "parentModule": "",
@@ -13373,7 +13373,7 @@
     {
       "id": 1880,
       "name": "User location search",
-      "url": "/health-project/user-location/v1/_search",
+      "url": "/project/user-location/v1/_search",
       "displayName": "User location search",
       "orderNumber": 0,
       "parentModule": "",
@@ -13561,6 +13561,90 @@
       "serviceCode": "attendance-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1945,
+      "url": "url",
+      "code": "",
+      "name": "National Health Dashboard LLIN",
+      "path": "",
+      "enabled": true,
+      "leftIcon": "",
+      "rightIcon": "",
+      "displayName": "National Health Dashboard LLIN",
+      "orderNumber": 2,
+      "queryParams": "",
+      "serviceCode": "DSS",
+      "parentModule": "dss-dashboard",
+      "navigationURL": "/digit-ui/employee/dss/landing/national-health-dashboard-llin"
+    },
+    {
+      "id": 1946,
+      "url": "url",
+      "code": "",
+      "name": "Provincial Health Dashboard LLIN",
+      "path": "",
+      "enabled": true,
+      "leftIcon": "",
+      "rightIcon": "",
+      "displayName": "Provincial Health Dashboard LLIN",
+      "orderNumber": 2,
+      "queryParams": "",
+      "serviceCode": "DSS",
+      "parentModule": "dss-dashboard",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/provincial-health-dashboard-llin"
+    },
+    {
+      "id": 1947,
+      "url": "url",
+      "code": "",
+      "name": "District Health Dashboard LLIN",
+      "path": "",
+      "enabled": true,
+      "leftIcon": "",
+      "rightIcon": "",
+      "displayName": "District Health Dashboard LLIN",
+      "orderNumber": 2,
+      "queryParams": "",
+      "serviceCode": "DSS",
+      "parentModule": "dss-dashboard",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/district-health-dashboard-llin"
+    },
+    {
+      "id": 1948,
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-health-dashboard-llin",
+      "code": "null",
+      "name": "DSS Dashboard Config National Health Dashboard LIIN",
+      "path": "",
+      "enabled": false,
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "serviceCode": "DSS",
+      "parentModule": ""
+    },
+    {
+      "id": 1949,
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/provincial-health-dashboard-llin",
+      "code": "null",
+      "name": "DSS Dashboard Config Provincial Health Dashboard LLIN",
+      "path": "",
+      "enabled": false,
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "serviceCode": "DSS",
+      "parentModule": ""
+    },
+    {
+      "id": 1950,
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/district-health-dashboard-llin",
+      "code": "null",
+      "name": "DSS Dashboard Config District Health Dashboard LLIN",
+      "path": "",
+      "enabled": false,
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "serviceCode": "DSS",
+      "parentModule": ""
     }
   ]
 }
