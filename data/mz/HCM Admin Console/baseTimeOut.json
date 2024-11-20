@@ -1,0 +1,7 @@
+[
+    {
+    "baseTimeOut": 50,
+   "maxTime": 5000,
+  "timelineRefetch" : 3000
+  }
+]
