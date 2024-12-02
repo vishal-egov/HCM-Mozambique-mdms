@@ -1,0 +1,186 @@
+{
+  "tenantId": "bi",
+  "moduleName": "swm",
+  "VehicleType": [
+    {
+      "tenantId": "bi",
+      "name": "Ghantagadi (TATA-ACE)- 3",
+      "code": "Vehicle Type Code 1"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Tractors - 2",
+      "code": "Vehicle Type Code 2"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Dumper",
+      "code": "Vehicle Type Code 3"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Tractor 19",
+      "code": "T1"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Bharat Benz",
+      "code": "BB"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Test",
+      "code": "Test"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Vehicle Tests",
+      "code": "VT"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Test1 Update",
+      "code": "Test1"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Creating new Vehicle Types",
+      "code": "CNVT"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Creating new Vehicle Types",
+      "code": "CNVTS"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Truck",
+      "code": "TruckCode"
+    },
+    {
+      "tenantId": "bi",
+      "name": "SGK",
+      "code": "SGK01"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Luxury",
+      "code": "TS"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Ghantagadi (TATA-ACE)- 3",
+      "code": "Vehicle Type Code 1 Test"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Ghantagadi (TATA-ACE)- 3",
+      "code": "Vehicle Type Code 1 Test updated"
+    },
+    {
+      "tenantId": "bi",
+      "name": "LorriesName",
+      "code": "Lorry"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Ghanta Trin Trin gadis",
+      "code": "123"
+    },
+    {
+      "tenantId": "bi",
+      "name": "BakwaasL",
+      "code": "BKL"
+    },
+    {
+      "tenantId": "bi",
+      "name": "TATA Dumper Vehicle",
+      "code": "LKP/346"
+    },
+    {
+      "tenantId": "bi",
+      "name": "????? ???? ??????",
+      "code": "? ????/???"
+    },
+    {
+      "tenantId": "bi",
+      "name": "SDfsag!@#$$%%^^\u0026*(){}L:\u003e\u003c?",
+      "code": "Jds!@#$%%^^\u0026*()_+|}{:\"\u003c\u003e?"
+    },
+    {
+      "tenantId": "bi",
+      "name": "???? ????",
+      "code": "?? ?????? / 678"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Dumper001",
+      "code": "D0001"
+    },
+    {
+      "tenantId": "bi",
+      "name": "मराठी भाषा ऑनलाईन",
+      "code": "Marathi Text Test"
+    },
+    {
+      "tenantId": "bi",
+      "name": "मराठी भाषा ऑनलाईन",
+      "code": "मराठी भाषा ऑनलाईन1"
+    },
+    {
+      "tenantId": "bi",
+      "name": "घंटागाडी",
+      "code": "घंटागाडी००१"
+    },
+    {
+      "tenantId": "bi",
+      "name": "thertrt",
+      "code": "ddfgdg"
+    },
+    {
+      "tenantId": "bi",
+      "name": "dfgdfg",
+      "code": "dfgdfghre"
+    },
+    {
+      "tenantId": "bi",
+      "name": "fgbfgb",
+      "code": "fgnfgn"
+    },
+    {
+      "tenantId": "bi",
+      "name": "fdsvdfbfg",
+      "code": "fgbfgnbfgn"
+    },
+    {
+      "tenantId": "bi",
+      "name": "VehicleTypeName ",
+      "code": "VTC"
+    },
+    {
+      "tenantId": "bi",
+      "name": "VechicleTypeName",
+      "code": "V T"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Murari Kumar ",
+      "code": "MK01"
+    },
+    {
+      "tenantId": "bi",
+      "name": "PullingBike2",
+      "code": "TP"
+    },
+    {
+      "tenantId": "bi",
+      "name": "M_Type_Name_1",
+      "code": "MTN"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Garbage truck",
+      "code": "GT"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "tenantId": "bi",
+  "moduleName": "swm",
+  "WasteType": [
+    {
+      "tenantId": "bi",
+      "name": "Dry Waste1",
+      "code": "Waste Type Code 1"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Wet Waste",
+      "code": "Waste Type Code 2"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Medical Waste",
+      "code": "Medical Wate"
+    },
+    {
+      "tenantId": "bi",
+      "name": "hjghjgj",
+      "code": "jgjhg"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Dry Waste",
+      "code": "Waste Type Code 3"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Bio Medical Waste",
+      "code": "Bio Medical Waste"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Dry",
+      "code": "DD1"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Building Construction Waste",
+      "code": "BCW"
+    },
+    {
+      "tenantId": "bi",
+      "name": "House Hold and factory plastic wastes",
+      "code": "HHPW"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Construction",
+      "code": "Cons"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Industrial Waste",
+      "code": "IWS001"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Vegetable Waste",
+      "code": "VW"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Plastic Waste",
+      "code": "PLASTIC/001"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Bio Waste",
+      "code": "BW001"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Electronic Wastes",
+      "code": "EW"
+    },
+    {
+      "tenantId": "bi",
+      "name": "M_Waste_Name",
+      "code": "MWN"
+    },
+    {
+      "tenantId": "bi",
+      "name": "sdD",
+      "code": "DDSD"
+    }
+  ]
+}

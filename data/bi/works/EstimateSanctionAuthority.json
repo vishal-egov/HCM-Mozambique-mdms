@@ -1,0 +1,66 @@
+{
+  "tenantId": "bi",
+  "moduleName": "works",
+  "EstimateSanctionAuthority": [
+    {
+      "id": 1,
+      "name": "Municipal Engineer",
+      "tenantId": "bi"
+    },
+    {
+      "id": 2,
+      "name": "Chief Officer",
+      "tenantId": "bi"
+    },
+    {
+      "id": 3,
+      "name": "Commissioner",
+      "tenantId": "bi"
+    },
+    {
+      "id": 4,
+      "name": "Collector",
+      "tenantId": "bi"
+    },
+    {
+      "id": 5,
+      "name": "Regional Commissioner",
+      "tenantId": "bi"
+    },
+    {
+      "id": 6,
+      "name": "PWD- Executive Engineer",
+      "tenantId": "bi"
+    },
+    {
+      "id": 7,
+      "name": "Executive Engineer MJP",
+      "tenantId": "bi"
+    },
+    {
+      "id": 8,
+      "name": "Director Of Municipal Administraction",
+      "tenantId": "bi"
+    },
+    {
+      "id": 9,
+      "name": "Principle Secretary",
+      "tenantId": "bi"
+    },
+    {
+      "id": 10,
+      "name": "Municipal Body",
+      "tenantId": "bi"
+    },
+    {
+      "id": 11,
+      "name": "President",
+      "tenantId": "bi"
+    },
+    {
+      "id": 12,
+      "name": "Chair Person",
+      "tenantId": "bi"
+    }
+  ]
+}

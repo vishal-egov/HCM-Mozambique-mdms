@@ -1,0 +1,21 @@
+{
+  "tenantId": "bi",
+  "moduleName": "inventory",
+  "Location": [
+    {
+      "tenantId": "bi",
+      "code": "LOC1",
+      "name": "Location1"
+    },
+    {
+      "tenantId": "bi",
+      "code": "LOC2",
+      "name": "Location1"
+    },
+    {
+      "tenantId": "bi",
+      "code": "LOC3",
+      "name": "Location3"
+    }
+  ]
+}

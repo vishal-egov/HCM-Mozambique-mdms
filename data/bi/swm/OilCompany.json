@@ -1,0 +1,36 @@
+{
+  "tenantId": "bi",
+  "moduleName": "swm",
+  "OilCompany": [
+    {
+      "tenantId": "bi",
+      "name": "Indian Oil (IOCL)",
+      "code": "Code IOCL"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Reliance Industries",
+      "code": "Code RIO"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Hindustan Petroleum (HP)",
+      "code": "Code HP"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Bharat Petroleum (BP)",
+      "code": "Code BP"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Shell",
+      "code": "Code Shell"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Essar Oil",
+      "code": "Code Essar"
+    }
+  ]
+}

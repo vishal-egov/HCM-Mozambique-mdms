@@ -1,0 +1,87 @@
+{
+    "tenantId": "bi",
+    "moduleName": "HCM-PROJECT-TYPES-BOUNDARY",
+    "projectTypesBoundaryData": [
+        {
+            "id": "192a20d1-0edd-4108-925a-f37bf544d6c4",
+            "boundaryData": {
+                "boundaryHierarchy": [
+                    {
+                        "level": 0,
+                        "label": null,
+                        "indexLabel": null
+                    },
+                    {
+                        "level": 1,
+                        "label": "Country",
+                        "indexLabel": "country"
+                    },
+                    {
+                        "level": 2,
+                        "label": "Provincia",
+                        "indexLabel": "province"
+                    },
+                    {
+                        "level": 3,
+                        "label": "Distrito",
+                        "indexLabel": "district"
+                    },
+                    {
+                        "level": 4,
+                        "label": "Posto Administrativo",
+                        "indexLabel": "administrativeProvince"
+                    },
+                    {
+                        "level": 5,
+                        "label": "Localidade",
+                        "indexLabel": "locality"
+                    },
+                    {
+                        "level": 6,
+                        "label": "Aldeia",
+                        "indexLabel": "village"
+                    }
+                ],
+                "aggregateTarget": {
+                    "level": 6,
+                    "label": "Village"
+                },
+                "targetColumnHeaders": [
+                    "total_households",
+                    "targeted_households",
+                    "total_individuals",
+                    "targeted_individuals",
+                    "estimated_bednets"
+                ],
+                "totalVsTarget": [
+                    {
+                        "total": "total_households",
+                        "target": "targeted_households"
+                    },
+                    {
+                        "total": "total_individuals",
+                        "target": "targeted_individuals"
+                    },
+                    {
+                        "total": "total_bednets",
+                        "target": "estimated_bednets"
+                    }
+                ],
+                "projectTargets": [
+                    {
+                        "beneficiarytype": "INDIVIDUAL",
+                        "targetedColumn": "targeted_individuals"
+                    },
+                    {
+                        "beneficiarytype": "HOUSEHOLD",
+                        "targetedColumn": "targeted_households"
+                    },
+                    {
+                        "beneficiarytype": "PRODUCT",
+                        "targetedColumn": "estimated_bednets"
+                    }
+                ]
+            }
+        }
+    ]
+}

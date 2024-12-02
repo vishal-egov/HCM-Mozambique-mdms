@@ -1,0 +1,136 @@
+{
+  "tenantId": "bi",
+  "moduleName": "swm",
+  "ShiftType": [
+    {
+      "tenantId": "bi",
+      "name": "Morning Shift",
+      "code": "Shift Type Code 1"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Afternoon Shift",
+      "code": "Shift Type Code 2"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Night Shift",
+      "code": "Shift Type Code 3"
+    },
+    {
+      "tenantId": "bi",
+      "name": "jhjhdj",
+      "code": "shift code 4"
+    },
+    {
+      "tenantId": "bi",
+      "name": "saffafa",
+      "code": "fdfsdfsdfd"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Evening Shifts",
+      "code": "ES"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Night Shift",
+      "code": "NS1"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Mid Night Shift",
+      "code": "MNS"
+    },
+    {
+      "tenantId": "bi",
+      "name": "ABCDF",
+      "code": "ABCD"
+    },
+    {
+      "tenantId": "bi",
+      "name": "ABCDE",
+      "code": "ABCDE"
+    },
+    {
+      "tenantId": "bi",
+      "name": "2 to 4 Shift",
+      "code": "2To4Shift"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Mid Day shift",
+      "code": "MDS"
+    },
+    {
+      "tenantId": "bi",
+      "name": "New shifts",
+      "code": "NS"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Shift Shift",
+      "code": "SS"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Breakfast Shift",
+      "code": "BFS"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Snacks Shift",
+      "code": "SNS"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Coffee Shift",
+      "code": "CS"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Tea",
+      "code": "Tea"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Empty Shift entered",
+      "code": "ES11"
+    },
+    {
+      "tenantId": "bi",
+      "name": "Afternoon Shift",
+      "code": "Shift002"
+    },
+    {
+      "tenantId": "bi",
+      "name": "10 to 6",
+      "code": "shift106"
+    },
+    {
+      "tenantId": "bi",
+      "name": "5 To 10 Shift",
+      "code": "5TO8"
+    },
+    {
+      "tenantId": "bi",
+      "name": "SGK-Morning",
+      "code": "SGK555"
+    },
+    {
+      "tenantId": "bi",
+      "name": "M_ShiftTypeName",
+      "code": "MSTC"
+    },
+    {
+      "tenantId": "bi",
+      "name": "M_ShiftTypeName",
+      "code": "MSTCs"
+    },
+    {
+      "tenantId": "bi",
+      "name": "morning",
+      "code": "12345"
+    }
+  ]
+}

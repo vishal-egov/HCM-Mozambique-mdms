@@ -1,0 +1,162 @@
+{
+  "tenantId": "bi",
+  "moduleName": "lcms",
+  "caseStatus": [
+    {
+      "name": "UpdateCaseStatus",
+      "code": "RUNNING",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Final Order",
+      "code": "FO",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "For Order/Judgement",
+      "code": "FO/J",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Disposed",
+      "code": "DISPOSED",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Dismissed",
+      "code": "DISMISSED",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Dismissed For Default",
+      "code": "DFD",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Allowed",
+      "code": "ALLOWED",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Decreed",
+      "code": "DECREED",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Partly Allowed",
+      "code": "PA",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "9A –Allowed suit is dismissed",
+      "code": "9AASID",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Withdrawn",
+      "code": "WITHDRAWN",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Rejected",
+      "code": "REJECT",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Withdrawn \u0026 settled by mediation",
+      "code": "WSM",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Stay Order",
+      "code": "STAY_ORDER",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "DND1",
+      "code": "DND",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Pending",
+      "code": "Pending",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Ohhold",
+      "code": "OH",
+      "active": false,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Case status_added_updated",
+      "code": "CS",
+      "active": false,
+      "tenantId": "bi"
+    },
+    {
+      "name": "TestData2",
+      "code": "1123",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "CaseStaus1",
+      "code": "status1",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "dfdf",
+      "code": "dfd",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Case Status ",
+      "code": "CS1",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Case Status /M2",
+      "code": "CS5",
+      "active": false,
+      "tenantId": "bi"
+    },
+    {
+      "name": "CaseStatus2",
+      "code": "5665656565",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "CaseStatus3",
+      "code": "CS3",
+      "active": true,
+      "tenantId": "bi"
+    },
+    {
+      "name": "Case_Status_Name_4",
+      "code": "CSN4",
+      "active": true,
+      "tenantId": "bi"
+    }
+  ]
+}
