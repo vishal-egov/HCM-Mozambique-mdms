@@ -1,5 +1,5 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "egf-master",
   "FundSource": [
     {
@@ -11,7 +11,7 @@
       "active": false,
       "parent": null,
       "isParent": true,
-      "tenantid": "mz"
+      "tenantId": "bi"
     },
     {
       "id": "2",
@@ -22,7 +22,7 @@
       "active": false,
       "parent": null,
       "isParent": true,
-      "tenantid": "mz"
+      "tenantId": "bi"
     },
     {
       "id": "3",
@@ -33,7 +33,7 @@
       "active": false,
       "parent": null,
       "isParent": true,
-      "tenantid": "mz"
+      "tenantId": "bi"
     }
   ]
 }

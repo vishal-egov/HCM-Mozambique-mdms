@@ -1,5 +1,5 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "egf-master",
   "Functionary": [
     {
@@ -7,21 +7,21 @@
       "name": "Fake Functionary 1",
       "code": "11",
       "active": true,
-      "tenantid": "mz"
+      "tenantId": "bi"
     },
     {
       "id": "2",
       "name": "Fake Functionary 2",
       "code": "22",
       "active": true,
-      "tenantid": "mz"
+      "tenantId": "bi"
     },
     {
       "id": "3",
       "name": "Fake Functionary 3",
       "code": "33",
       "active": true,
-      "tenantid": "mz"
+      "tenantId": "bi"
     }
   ]
 }

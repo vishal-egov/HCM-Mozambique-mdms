@@ -1,5 +1,5 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "lcms",
   "court": [
     {
@@ -13,7 +13,7 @@
       "type": "District Court",
       "code": "PDC",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "address": {
@@ -26,7 +26,7 @@
       "type": "Motor Accident Claim Tribunal",
       "code": "PDCMACT",
       "active": false,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "address": {
@@ -39,7 +39,7 @@
       "type": "National Human Rights Commission",
       "code": "NHRC",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "address": {
@@ -52,7 +52,7 @@
       "type": "Supreme Court",
       "code": "SC",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "address": {
@@ -65,7 +65,7 @@
       "type": "High Court",
       "code": "HCD",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "address": {
@@ -78,7 +78,7 @@
       "type": "State Human Rights Commission Court",
       "code": "MSHRC",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "address": {
@@ -91,7 +91,7 @@
       "type": "District Consumer Court",
       "code": "CC",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "address": {
@@ -104,7 +104,7 @@
       "type": "Industrial Court",
       "code": "CLCIC",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "address": {
@@ -117,7 +117,7 @@
       "type": "Labour Court",
       "code": "CLCLC",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "address": {
@@ -130,7 +130,7 @@
       "type": "Criminal Court",
       "code": "PDCCRC",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "address": {
@@ -143,7 +143,7 @@
       "type": "Civil Court",
       "code": "PDCCVC",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "address": {
@@ -156,7 +156,7 @@
       "type": "Session Court",
       "code": "PDCSEC",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "address": {
@@ -169,7 +169,7 @@
       "type": "308 Court",
       "code": "PDC308C",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "address": {
@@ -182,7 +182,7 @@
       "type": "Judicial Magistrate of First Class Court",
       "code": "JMFCC",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "address": {
@@ -195,7 +195,7 @@
       "type": "National Green Tribunal Court",
       "code": "NGTC",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "address": {
@@ -208,7 +208,7 @@
       "type": "Quasi Judicator",
       "code": "DC",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Supreme Court of India",
@@ -220,7 +220,7 @@
         "pincode": "110503"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Consumer Court",
@@ -232,7 +232,7 @@
         "pincode": "411042"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "SriNagar Court",
@@ -244,7 +244,7 @@
         "pincode": "411042"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Consumer Court",
@@ -256,7 +256,7 @@
         "pincode": "411042"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "SriNagar Court",
@@ -268,7 +268,7 @@
         "pincode": "411042"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "SriNagar Court",
@@ -280,7 +280,7 @@
         "pincode": "411042"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Consumer Court",
@@ -292,7 +292,7 @@
         "pincode": "411042"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Consumer Court",
@@ -304,7 +304,7 @@
         "pincode": "411042"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Consumer Court",
@@ -316,7 +316,7 @@
         "pincode": "411042"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "SriNagar",
@@ -328,7 +328,7 @@
         "pincode": "411042"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Bangalore Court",
@@ -340,7 +340,7 @@
         "pincode": "560048"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Consumer Court",
@@ -352,7 +352,7 @@
         "pincode": "560048"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "court_2",
@@ -364,7 +364,7 @@
         "pincode": "50025"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "maha court",
@@ -376,7 +376,7 @@
         "pincode": "12345"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Financial court",
@@ -388,7 +388,7 @@
         "pincode": "500025"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "PTestt",
@@ -400,7 +400,7 @@
         "pincode": "Test"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Court Name 2",
@@ -412,7 +412,7 @@
         "pincode": "411042"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "TTest",
@@ -424,7 +424,7 @@
         "pincode": "Test"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Ftest1",
@@ -436,7 +436,7 @@
         "pincode": "TEst"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Prakash Cour",
@@ -448,7 +448,7 @@
         "pincode": "2233"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "qwerty",
@@ -460,7 +460,7 @@
         "pincode": "112233"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "test data",
@@ -472,7 +472,7 @@
         "pincode": "112255"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "testAfterQaDeployment",
@@ -484,7 +484,7 @@
         "pincode": "12345"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Court Name 4",
@@ -496,7 +496,7 @@
         "pincode": "411005"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "FTTest",
@@ -508,7 +508,7 @@
         "pincode": "Test"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "test",
@@ -520,7 +520,7 @@
         "pincode": "201588"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "GTest",
@@ -532,7 +532,7 @@
         "pincode": "test"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "HTest",
@@ -544,7 +544,7 @@
         "pincode": "Test"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "www",
@@ -556,7 +556,7 @@
         "pincode": "123"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "courtali",
@@ -568,7 +568,7 @@
         "pincode": "10023"
       },
       "active": false,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Consumer Court Kurla",
@@ -580,7 +580,7 @@
         "pincode": "400055555555555666"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "PPteste_updated_2",
@@ -592,7 +592,7 @@
         "pincode": "tEST1"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "test",
@@ -604,7 +604,7 @@
         "pincode": "1234586"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Court Name 1 ",
@@ -616,7 +616,7 @@
         "pincode": "939393"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Court Name 2 ",
@@ -628,7 +628,7 @@
         "pincode": "939393"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Court Name 3",
@@ -640,7 +640,7 @@
         "pincode": "847252"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "CourtName 23",
@@ -652,7 +652,7 @@
         "pincode": "456788"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "New Court 101",
@@ -664,7 +664,7 @@
         "pincode": "445566"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "1234",
@@ -676,7 +676,7 @@
         "pincode": "411042"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "5678",
@@ -688,7 +688,7 @@
         "pincode": "411005"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "3456",
@@ -700,7 +700,7 @@
         "pincode": "445566"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Court Name 1234",
@@ -712,7 +712,7 @@
         "pincode": "411005"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "New Court",
@@ -724,7 +724,7 @@
         "pincode": "411005"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Court_Name_Murari_4",
@@ -736,7 +736,7 @@
         "pincode": "884848"
       },
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     }
   ]
 }

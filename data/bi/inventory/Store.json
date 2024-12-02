@@ -1,10 +1,10 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "inventory",
   "Store": [
     {
       "id": 1,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "STORE1",
       "name": "Fake Store Name 1",
       "department": {
@@ -12,7 +12,7 @@
         "name": "Store Department",
         "code": "SD",
         "active": "true",
-        "tenantId": "mz"
+        "tenantId": "bi"
       },
       "description": "Fake Store Description 1",
       "centralStore": false,
@@ -24,7 +24,7 @@
     },
     {
       "id": 2,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "STORE2",
       "name": "Fake Store Name 2",
       "department": {
@@ -32,7 +32,7 @@
         "name": "Store Department",
         "code": "SD",
         "active": "true",
-        "tenantId": "mz"
+        "tenantId": "bi"
       },
       "description": "Fake Store Description 2",
       "centralStore": false,
@@ -44,7 +44,7 @@
     },
     {
       "id": 3,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "STORE3",
       "name": "Fake Store Name 3",
       "department": {
@@ -52,7 +52,7 @@
         "name": "Light Department",
         "code": "LT",
         "active": "true",
-        "tenantId": "mz"
+        "tenantId": "bi"
       },
       "description": "Fake Store Description 3",
       "centralStore": true,

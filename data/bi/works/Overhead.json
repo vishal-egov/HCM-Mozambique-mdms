@@ -1,10 +1,10 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "works",
   "Overhead": [
     {
       "id": 1,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "TAXFake",
       "name": "TAXFake",
       "description": "TAX - Fake",
@@ -12,7 +12,7 @@
       "overheadRates": [
         {
           "id": 1,
-          "tenantId": "mz",
+          "tenantId": "bi",
           "lumpsumAmount": 0,
           "percentage": 100,
           "fromDate": 1546541452157,
@@ -22,7 +22,7 @@
     },
     {
       "id": 2,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "TDSFake",
       "name": "TDSFake",
       "description": "TDS - Fake",
@@ -30,7 +30,7 @@
       "overheadRates": [
         {
           "id": 1,
-          "tenantId": "mz",
+          "tenantId": "bi",
           "lumpsumAmount": 2548,
           "percentage": 0,
           "fromDate": 1546541452157,

@@ -1,10 +1,10 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "common-masters",
   "StateInfo": [
     {
       "name": "Tete",
-      "code":"mz",
+      "code":"bi",
       "bannerUrl": "https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/moz-mal-cmpn.png",
       "logoUrl":"https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/moz-gov-logo.jpeg",
       "digitLogoUrl":"https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/digit-logo.png",
@@ -16,7 +16,7 @@
       "isForgotPwdDisabled": true,
       "defaultLanguage": "pt_MZ",
       "isCitySelectionDisabled": true,
-      "defaultCity": "mz",
+      "defaultCity": "bi",
       "languages": [
         {
           "label": "ENGLISH",

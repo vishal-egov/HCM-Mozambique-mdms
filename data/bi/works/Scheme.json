@@ -1,5 +1,5 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "works",
   "Scheme": [{
       "id": 6,
@@ -17,7 +17,7 @@
       "lastmodifieddate": null,
       "createdby": 1,
       "lastmodifiedby": null,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "id": 35,
@@ -35,7 +35,7 @@
       "lastmodifieddate": null,
       "createdby": 1,
       "lastmodifiedby": null,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "id": 36,
@@ -53,7 +53,7 @@
       "lastmodifieddate": null,
       "createdby": 1,
       "lastmodifiedby": null,
-      "tenantId": "mz"
+      "tenantId": "bi"
     }
   ]
 }

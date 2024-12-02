@@ -1,5 +1,5 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "PM",
   "KpiCategory": [
     {
@@ -10,19 +10,19 @@
       "id": 2,
       "code": "WW",
       "name": "Waste Water",
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "id": 3,
       "code": "SWM",
       "name": "Solid Waste Management",
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "id": 4,
       "code": "SWD",
       "name": "Storm Water Drainage",
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "NCC",

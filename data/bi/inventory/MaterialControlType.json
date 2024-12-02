@@ -1,14 +1,14 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "inventory",
   "MaterialControlType": [
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "LOTCONTROL",
       "name": "LOT Control"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "SHELF_LIFE_CONTROL",
       "name": "Shelf_life_Control"
     }

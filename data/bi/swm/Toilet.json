@@ -1,10 +1,10 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "swm",
   "Toilet": [
     {
       "code": "1",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "publicToilet": false,
       "name": "Toilet Name 1",
       "location": {
@@ -20,7 +20,7 @@
     },
     {
       "code": "2",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "publicToilet": true,
       "name": "Toilet Name 2",
       "location": {
@@ -37,7 +37,7 @@
       "publicToilet": true,
       "name": "toilet name 4",
       "code": "Toilet-1516613013746",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "address": "assdf colony",
       "location": {
         "code": "352"
@@ -53,7 +53,7 @@
       "publicToilet": true,
       "name": "toilet 55",
       "code": "Toilet-1516613613275",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "address": "dsfgfdg",
       "seatCount": "10",
       "location": {
@@ -69,7 +69,7 @@
       "publicToilet": true,
       "name": "toilet name 007",
       "code": "Toilet-1516619493464",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "address": "007 street ",
       "location": {
         "code": "203"
@@ -85,7 +85,7 @@
       "publicToilet": true,
       "name": "toilet new ",
       "code": "Toilet-1516624460923",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "address": "dfbdfgbfgd",
       "location": {
         "code": "350"
@@ -101,7 +101,7 @@
       "publicToilet": false,
       "name": "test1",
       "code": "Toilet-1516794364390",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "location": {
         "code": "302"
       },
@@ -117,7 +117,7 @@
       "publicToilet": true,
       "name": "gfn",
       "code": "Toilet-1516884775882",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "address": "fgngfn",
       "location": {
         "code": "202"
@@ -133,7 +133,7 @@
       "publicToilet": false,
       "name": "new toilet and new",
       "code": "Toilet-1517219692024",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "address": "new colony",
       "location": {
         "code": "203"
@@ -149,7 +149,7 @@
       "publicToilet": true,
       "name": "hyd/madhapur/Neerja col/001",
       "code": "Toilet-1517372953285",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "address": "12-22 Neerja colony",
       "location": {
         "code": "200"
@@ -164,7 +164,7 @@
     {
       "name": "new toilet dtaa",
       "code": "Toilet-1517403555696",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "toiletType": "PUB",
       "address": "new toilet dtaa address",
       "location": {
@@ -177,7 +177,7 @@
     {
       "name": "COM -005",
       "code": "Toilet-1517403800145",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "toiletType": "COM",
       "address": "hjgkjb",
       "location": {
@@ -190,7 +190,7 @@
     {
       "name": "cars acce 0012",
       "code": "Toilet-1517404006667",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "toiletType": "PUB",
       "address": "dscdsvdfv",
       "location": {
@@ -203,7 +203,7 @@
     {
       "name": "ghoul area",
       "code": "Toilet-1517404423890",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "toiletType": {
         "code": "PUB"
       },
@@ -218,7 +218,7 @@
     {
       "name": "name - 007",
       "code": "Toilet-1517404609201",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "address": "log horizon",
       "toiletType": {
         "code": "COM"
@@ -233,7 +233,7 @@
     {
       "name": "toilet name - 31/01",
       "code": "Toilet-1517405611547",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "toiletType": {
         "code": "PUB"
       },
@@ -248,7 +248,7 @@
     {
       "name": "code geass",
       "code": "Toilet-1517406682053",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "toiletType": {
         "code": "PUB"
       },
@@ -263,7 +263,7 @@
     {
       "name": "toilte -- hyd",
       "code": "Toilet-1517407581644",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "toiletType": {
         "code": "COM"
       },
@@ -278,7 +278,7 @@
     {
       "name": "gbdfgbdfb",
       "code": "Toilet-1517407999508",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "toiletType": {
         "code": "PUB"
       },
@@ -293,7 +293,7 @@
     {
       "name": "vbn fgn",
       "code": "Toilet-1517408239731",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "toiletType": {
         "code": "PUB"
       },
@@ -308,7 +308,7 @@
     {
       "name": "nbm ghmgh",
       "code": "Toilet-1517409353307",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "toiletType": {
         "code": "COM"
       },
@@ -323,7 +323,7 @@
     {
       "name": "reyhgdrfghfc",
       "code": "Toilet-1517410316078",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "toiletType": {
         "code": "COM"
       },
@@ -337,7 +337,7 @@
     },
     {
       "name": "cfvbhfchfc",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517410532327",
       "toiletType": {
         "code": "COM"
@@ -352,7 +352,7 @@
     },
     {
       "name": "hvgmkjghk",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517410560407",
       "toiletType": {
         "code": "COM"
@@ -367,7 +367,7 @@
     },
     {
       "name": "Madhapur/001",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517413179316",
       "toiletType": {
         "code": "COM"
@@ -382,7 +382,7 @@
     },
     {
       "name": "Madhapur/003",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517413301436",
       "longitude": 78.39205560000005,
       "latitude": 17.494568,
@@ -397,7 +397,7 @@
     },
     {
       "name": "Toilet 1",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517467244669",
       "toiletType": {
         "code": "PUB"
@@ -409,7 +409,7 @@
     },
     {
       "name": "xyz new toilet",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517479495229",
       "toiletType": {
         "code": "COM"
@@ -424,7 +424,7 @@
     },
     {
       "name": "saitama",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517485184206",
       "toiletType": {
         "code": "PUB"
@@ -439,7 +439,7 @@
     },
     {
       "name": "t1",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517486961471",
       "toiletType": {
         "code": "COM"
@@ -454,7 +454,7 @@
     },
     {
       "name": "t2",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517486998825",
       "toiletType": {
         "code": "PUB"
@@ -469,7 +469,7 @@
     },
     {
       "name": "t3",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517487032927",
       "toiletType": {
         "code": "PUB"
@@ -484,7 +484,7 @@
     },
     {
       "name": "ohjoijop",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517487333749",
       "toiletType": {
         "code": "PUB"
@@ -499,7 +499,7 @@
     },
     {
       "name": "dfsvdfgv",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517487528850",
       "toiletType": {
         "code": "COM"
@@ -514,7 +514,7 @@
     },
     {
       "name": "gmm",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517488592623",
       "toiletType": {
         "code": "COM"
@@ -529,7 +529,7 @@
     },
     {
       "name": "bgfgbfg",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517488722746",
       "toiletType": {
         "code": "COM"
@@ -544,7 +544,7 @@
     },
     {
       "name": "ghnghn",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517488953304",
       "toiletType": {
         "code": "COM"
@@ -559,7 +559,7 @@
     },
     {
       "name": "qqq",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517489089553",
       "toiletType": {
         "code": "COM"
@@ -574,7 +574,7 @@
     },
     {
       "name": "sss",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517489119750",
       "toiletType": {
         "code": "PUB"
@@ -589,7 +589,7 @@
     },
     {
       "name": "wert",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Toilet-1517489157431",
       "toiletType": {
         "code": "PUB"
@@ -604,8 +604,8 @@
     },
     {
       "name": "dfbgfgb",
-      "tenantId": "mz",
-      "code": "MH-mz-COM-1517489811866",
+      "tenantId": "bi",
+      "code": "MH-bi-COM-1517489811866",
       "toiletType": {
         "code": "PUB"
       },
@@ -619,8 +619,8 @@
     },
     {
       "name": "Public Toilet at Colony 1",
-      "tenantId": "mz",
-      "code": "MH-mz-null-1517552026820",
+      "tenantId": "bi",
+      "code": "MH-bi-null-1517552026820",
       "toiletType": {
         "code": "PUB"
       },
@@ -631,8 +631,8 @@
     },
     {
       "name": "Toilet At Colony 2",
-      "tenantId": "mz",
-      "code": "MH-mz-PUB-1517552219086",
+      "tenantId": "bi",
+      "code": "MH-bi-PUB-1517552219086",
       "toiletType": {
         "code": "COM"
       },
@@ -645,8 +645,8 @@
     },
     {
       "name": "abcxyz",
-      "tenantId": "mz",
-      "code": "MH-mz-null-1517553025739",
+      "tenantId": "bi",
+      "code": "MH-bi-null-1517553025739",
       "toiletType": {
         "code": "PUB"
       },
@@ -675,8 +675,8 @@
     },
     {
       "name": "va - new ",
-      "tenantId": "mz",
-      "code": "MH-mz-COM-1517564517031",
+      "tenantId": "bi",
+      "code": "MH-bi-COM-1517564517031",
       "toiletType": {
         "code": "COM"
       },
@@ -690,8 +690,8 @@
     },
     {
       "name": "ni- new",
-      "tenantId": "mz",
-      "code": "MH-mz-PUB-1517564616818",
+      "tenantId": "bi",
+      "code": "MH-bi-PUB-1517564616818",
       "toiletType": {
         "code": "COM"
       },
@@ -705,8 +705,8 @@
     },
     {
       "name": "PUNE T1",
-      "tenantId": "mz",
-      "code": "MH-mz-null-1517564806679",
+      "tenantId": "bi",
+      "code": "MH-bi-null-1517564806679",
       "toiletType": {
         "code": "COM"
       },
@@ -720,8 +720,8 @@
     },
     {
       "name": "fgfgn",
-      "tenantId": "mz",
-      "code": "MH-mz-PUB-1517567863454",
+      "tenantId": "bi",
+      "code": "MH-bi-PUB-1517567863454",
       "toiletType": {
         "code": "PUB"
       },
@@ -735,8 +735,8 @@
     },
     {
       "name": "jk,kj,kj",
-      "tenantId": "mz",
-      "code": "MH-mz-COM-1517567929591",
+      "tenantId": "bi",
+      "code": "MH-bi-COM-1517567929591",
       "toiletType": {
         "code": "PUB"
       },
@@ -750,8 +750,8 @@
     },
     {
       "name": "ghnmghmgh",
-      "tenantId": "mz",
-      "code": "MH-mz-COM-1517569436103",
+      "tenantId": "bi",
+      "code": "MH-bi-COM-1517569436103",
       "toiletType": {
         "code": "COM"
       },
@@ -765,8 +765,8 @@
     },
     {
       "name": "tatsuya",
-      "tenantId": "mz",
-      "code": "MH-mz-PUB-1517569528617",
+      "tenantId": "bi",
+      "code": "MH-bi-PUB-1517569528617",
       "toiletType": {
         "code": "PUB"
       },
@@ -780,8 +780,8 @@
     },
     {
       "name": "community Miyapur",
-      "tenantId": "mz",
-      "code": "MH-mz-COM-1517571146725",
+      "tenantId": "bi",
+      "code": "MH-bi-COM-1517571146725",
       "toiletType": {
         "code": "COM"
       },
@@ -795,8 +795,8 @@
     },
     {
       "name": "Public toilet miyapur 111",
-      "tenantId": "mz",
-      "code": "MH-mz-PUB-1517571366679",
+      "tenantId": "bi",
+      "code": "MH-bi-PUB-1517571366679",
       "toiletType": {
         "code": "PUB"
       },
@@ -810,8 +810,8 @@
     },
     {
       "name": "community toilet for Madhapur 1",
-      "tenantId": "mz",
-      "code": "MH-mz-COM-1517573260761",
+      "tenantId": "bi",
+      "code": "MH-bi-COM-1517573260761",
       "toiletType": {
         "code": "COM"
       },
@@ -825,8 +825,8 @@
     },
     {
       "name": "public toilet Delhi Parliament road",
-      "tenantId": "mz",
-      "code": "MH-mz-PUB-1517573461992",
+      "tenantId": "bi",
+      "code": "MH-bi-PUB-1517573461992",
       "toiletType": {
         "code": "PUB"
       },
@@ -840,8 +840,8 @@
     },
     {
       "name": "sdsad",
-      "tenantId": "mz",
-      "code": "MH-mz-PUB-1517573553419",
+      "tenantId": "bi",
+      "code": "MH-bi-PUB-1517573553419",
       "toiletType": {
         "code": "PUB"
       },
@@ -855,8 +855,8 @@
     },
     {
       "name": "TOI199",
-      "tenantId": "mz",
-      "code": "MH-mz-PUB-1517993376519",
+      "tenantId": "bi",
+      "code": "MH-bi-PUB-1517993376519",
       "toiletType": {
         "code": "COM"
       },
@@ -870,8 +870,8 @@
     },
     {
       "name": "test public 00122",
-      "tenantId": "mz",
-      "code": "MH-mz-PUB-1518073458509",
+      "tenantId": "bi",
+      "code": "MH-bi-PUB-1518073458509",
       "toiletType": {
         "code": "PUB"
       },
@@ -885,8 +885,8 @@
     },
     {
       "name": "3105 testing",
-      "tenantId": "mz",
-      "code": "MH-mz-COM-1518107842184",
+      "tenantId": "bi",
+      "code": "MH-bi-COM-1518107842184",
       "toiletType": {
         "code": "COM"
       },

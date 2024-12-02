@@ -1,184 +1,184 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "swm",
   "VehicleType": [
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Ghantagadi (TATA-ACE)- 3",
       "code": "Vehicle Type Code 1"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Tractors - 2",
       "code": "Vehicle Type Code 2"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Dumper",
       "code": "Vehicle Type Code 3"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Tractor 19",
       "code": "T1"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Bharat Benz",
       "code": "BB"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Test",
       "code": "Test"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Vehicle Tests",
       "code": "VT"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Test1 Update",
       "code": "Test1"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Creating new Vehicle Types",
       "code": "CNVT"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Creating new Vehicle Types",
       "code": "CNVTS"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Truck",
       "code": "TruckCode"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "SGK",
       "code": "SGK01"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Luxury",
       "code": "TS"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Ghantagadi (TATA-ACE)- 3",
       "code": "Vehicle Type Code 1 Test"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Ghantagadi (TATA-ACE)- 3",
       "code": "Vehicle Type Code 1 Test updated"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "LorriesName",
       "code": "Lorry"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Ghanta Trin Trin gadis",
       "code": "123"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "BakwaasL",
       "code": "BKL"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "TATA Dumper Vehicle",
       "code": "LKP/346"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "????? ???? ??????",
       "code": "? ????/???"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "SDfsag!@#$$%%^^\u0026*(){}L:\u003e\u003c?",
       "code": "Jds!@#$%%^^\u0026*()_+|}{:\"\u003c\u003e?"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "???? ????",
       "code": "?? ?????? / 678"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Dumper001",
       "code": "D0001"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "मराठी भाषा ऑनलाईन",
       "code": "Marathi Text Test"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "मराठी भाषा ऑनलाईन",
       "code": "मराठी भाषा ऑनलाईन1"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "घंटागाडी",
       "code": "घंटागाडी००१"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "thertrt",
       "code": "ddfgdg"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "dfgdfg",
       "code": "dfgdfghre"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "fgbfgb",
       "code": "fgnfgn"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "fdsvdfbfg",
       "code": "fgbfgnbfgn"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "VehicleTypeName ",
       "code": "VTC"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "VechicleTypeName",
       "code": "V T"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Murari Kumar ",
       "code": "MK01"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "PullingBike2",
       "code": "TP"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "M_Type_Name_1",
       "code": "MTN"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Garbage truck",
       "code": "GT"
     }

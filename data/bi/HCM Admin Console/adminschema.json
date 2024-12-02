@@ -1,7 +1,7 @@
 [
     {
         "id": "0f05873e-dafa-4d2a-8a30-af6eaf5fdad9",
-        "tenantId": "mz",
+        "tenantId": "bi",
         "schemaCode": "HCM-ADMIN-CONSOLE.adminSchema",
         "uniqueIdentifier": "boundaryWithTarget.MR-DN",
         "data": {
@@ -53,9 +53,9 @@
     },
     {
         "id": "063deacb-3a49-4c48-951d-1a85808f1992",
-        "tenantId": "mz",
+        "tenantId": "bi",
         "schemaCode": "HCM-ADMIN-CONSOLE.adminSchema",
-        "uniqueIdentifier": "boundaryWithTarget.LLIN-mz",
+        "uniqueIdentifier": "boundaryWithTarget.LLIN-bi",
         "data": {
             "title": "boundaryWithTarget",
             "$schema": "http://json-schema.org/draft-07/schema#",
@@ -83,7 +83,7 @@
                     }
                 ]
             },
-            "campaignType": "LLIN-mz"
+            "campaignType": "LLIN-bi"
         },
         "isActive": true,
         "auditDetails": {
@@ -95,9 +95,9 @@
     },
     {
         "id": "94567c84-693b-47bc-b597-523d69d43727",
-        "tenantId": "mz",
+        "tenantId": "bi",
         "schemaCode": "HCM-ADMIN-CONSOLE.adminSchema",
-        "uniqueIdentifier": "boundary.LLIN-mz",
+        "uniqueIdentifier": "boundary.LLIN-bi",
         "data": {
             "title": "boundary",
             "$schema": "http://json-schema.org/draft-07/schema#",
@@ -122,7 +122,7 @@
                     }
                 ]
             },
-            "campaignType": "LLIN-mz"
+            "campaignType": "LLIN-bi"
         },
         "isActive": true,
         "auditDetails": {
@@ -134,7 +134,7 @@
     },
     {
         "id": "e322083b-7b7f-4fb5-929f-185d8f084d97",
-        "tenantId": "mz",
+        "tenantId": "bi",
         "schemaCode": "HCM-ADMIN-CONSOLE.adminSchema",
         "uniqueIdentifier": "boundary.MR-DN",
         "data": {
@@ -180,7 +180,7 @@
     },
     {
         "id": "b0b867d7-93cd-43e8-b61b-292e8a185e35",
-        "tenantId": "mz",
+        "tenantId": "bi",
         "schemaCode": "HCM-ADMIN-CONSOLE.adminSchema",
         "uniqueIdentifier": "facility.all",
         "data": {
@@ -265,7 +265,7 @@
     },
     {
         "id": "2005d578-6274-47da-a88e-93044c2e2320",
-        "tenantId": "mz",
+        "tenantId": "bi",
         "schemaCode": "HCM-ADMIN-CONSOLE.adminSchema",
         "uniqueIdentifier": "user.all",
         "data": {

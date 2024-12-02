@@ -1,5 +1,5 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "egf-master",
   "Scheme": [
     {
@@ -14,7 +14,7 @@
       "active": false,
       "description": "description",
       "boundary": "boundary",
-      "tenantid": "mz"
+      "tenantId": "bi"
     },
     {
       "id": "2",
@@ -28,7 +28,7 @@
       "active": false,
       "description": "description",
       "boundary": "boundary",
-      "tenantid": "mz"
+      "tenantId": "bi"
     },
     {
       "id": "3",
@@ -42,7 +42,7 @@
       "active": false,
       "description": "description",
       "boundary": "boundary",
-      "tenantid": "mz"
+      "tenantId": "bi"
     }
   ]
 }

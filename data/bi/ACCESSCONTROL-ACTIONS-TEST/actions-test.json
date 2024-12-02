@@ -1,5 +1,5 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "ACCESSCONTROL-ACTIONS-TEST",
   "actions-test": [
     {
@@ -9769,7 +9769,7 @@
     },
     {
       "id": 1447,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Create Quality testing",
       "url": "/works-qualitycontrol/v1/qualitytestings/_create",
       "displayName": "Create Quality testing",
@@ -9782,7 +9782,7 @@
     },
     {
       "id": 1440,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Create Quality testing",
       "url": "/works-qualitycontrol/v1/qualitytestings/_update",
       "displayName": "Create Quality testing",
@@ -9795,7 +9795,7 @@
     },
     {
       "id": 1441,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Create Quality testing",
       "url": "/works-qualitycontrol/v1/qualitytestings/_search",
       "displayName": "Create Quality testing",
@@ -9808,7 +9808,7 @@
     },
     {
       "id": 1448,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Create Quality testing",
       "url": "/works-qualitytesting/v1/qualitytestings/_create",
       "displayName": "Create Quality testing",
@@ -9821,7 +9821,7 @@
     },
     {
       "id": 1455,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Create Quality testing",
       "url": "/works-qualitytesting/v1/qualitytestings/_update",
       "displayName": "Create Quality testing",
@@ -9834,7 +9834,7 @@
     },
     {
       "id": 1451,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Create Quality testing",
       "url": "/works-qualitytesting/v1/qualitytestings/_search",
       "displayName": "Create Quality testing",
@@ -9847,7 +9847,7 @@
     },
     {
       "id": 1449,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Create Quality testing",
       "url": "/works-qualitytesting/v1/qualitytestings/_create",
       "displayName": "Create Quality testing",
@@ -9860,7 +9860,7 @@
     },
     {
       "id": 1456,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Create Quality testing",
       "url": "/works-qualitytesting/v1/qualitytestings/_update",
       "displayName": "Create Quality testing",
@@ -9873,7 +9873,7 @@
     },
     {
       "id": 1452,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Create Quality testing",
       "url": "/works-qualitytesting/v1/qualitytestings/_search",
       "displayName": "Create Quality testing",
@@ -9886,7 +9886,7 @@
     },
     {
       "id": 1450,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Create Quality testing",
       "url": "/works-qualitycontrol/v1/qualitytestings/_create",
       "displayName": "Create Quality testing",
@@ -9899,7 +9899,7 @@
     },
     {
       "id": 1457,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Create Quality testing",
       "url": "/works-qualitycontrol/v1/qualitytestings/_update",
       "displayName": "Create Quality testing",
@@ -9912,7 +9912,7 @@
     },
     {
       "id": 1453,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Create Quality testing",
       "url": "/works-qualitycontrol/v1/qualitytestings/_search",
       "displayName": "Create Quality testing",

@@ -1,19 +1,19 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "inventory",
   "Location": [
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "LOC1",
       "name": "Location1"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "LOC2",
       "name": "Location1"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "LOC3",
       "name": "Location3"
     }

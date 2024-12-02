@@ -1,10 +1,10 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "inventory",
   "MaterialType": [
     {
       "id": 1,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MT1",
       "name": "check update ",
       "parent": null,
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MT2",
       "name": "Fake Material Type Name 2",
       "parent": null,
@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MT3",
       "name": "Fake Material Type Name 3",
       "parent": null,
@@ -31,7 +31,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "2211",
       "name": "mango carrt",
       "description": "mango is apple , and apple is tasty but apple is not mango",
@@ -40,7 +40,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "matnew01",
       "name": "matname",
       "description": "hhh jshshjd",
@@ -49,7 +49,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MT_Dry",
       "name": "Sand\u0027s Brick",
       "description": "this is avval brick and good for foundation and walls construction.",
@@ -58,7 +58,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MTC001",
       "name": "MTN001",
       "description": "MTD001"
@@ -66,7 +66,7 @@
     {
       "isParent": true,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MATCODE",
       "name": "MatName",
       "description": "Mat Desc",
@@ -75,7 +75,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MatTypeCode1",
       "name": "MatTypeName1",
       "description": "MaterialTypeDesc1"
@@ -83,7 +83,7 @@
     {
       "isParent": true,
       "active": false,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MatTypeCodeTest2",
       "name": "MatTypeName2",
       "description": "Material Type Desc",
@@ -92,7 +92,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "123",
       "name": "kjhg",
       "description": "dfvdfvdfvfdv"
@@ -100,7 +100,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "123dsfc",
       "name": "sdfvdsds",
       "description": "dsfvdvdfv"
@@ -108,7 +108,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "dfvgfd",
       "name": "vfdvfd",
       "description": "vfdbfdb"
@@ -116,7 +116,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "vc c b",
       "name": "bdfbfd",
       "description": "bfdbfdb"
@@ -124,7 +124,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "1234fgbnfg",
       "name": "nnfs",
       "description": "bfgbfgn"
@@ -132,7 +132,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "sdfcdsc",
       "name": "dsvdfvbdf",
       "description": "bdfbdfb"
@@ -140,7 +140,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "fc123123",
       "name": "dfvdfv43",
       "description": "dfvfdbdfbdfb"
@@ -148,7 +148,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "dfbdfb43",
       "name": "fgbfgnb5",
       "description": "fdbfgnhj"
@@ -156,7 +156,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "vb vb ",
       "name": "bv ",
       "description": "fghnfgnfgn"
@@ -164,7 +164,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "fgbfgn",
       "name": "fgnfgn",
       "description": "gnfgnfgn"
@@ -172,7 +172,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "fdgdf",
       "name": "gfdbgdf",
       "description": "bhfghbfgh"
@@ -180,7 +180,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "45632178",
       "name": "parrot wrap",
       "description": "khvbkbv.kjndbsvl/dsv"
@@ -188,7 +188,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "gngfnfg",
       "name": "nfgnfgnfg",
       "description": "nfgnfnhtryntyn"
@@ -196,7 +196,7 @@
     {
       "isParent": false,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "nhgnmgh",
       "name": "mghm",
       "description": "ghmhjmfghmghm"
@@ -204,7 +204,7 @@
     {
       "isParent": true,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "100",
       "name": "Biomaterials",
       "description": "A biomaterial is any substance that has been engineered to interact with biological systems for a medical purpose - either a therapeutic (treat, augment, repair or replace a tissue function of the body) or a diagnostic one. The study of biomaterials is called biomaterials science or biomaterials engineering. Biomaterials science encompasses elements of medicine, biology, chemistry, tissue engineering and materials science.",
@@ -213,7 +213,7 @@
     {
       "isParent": true,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "parent": "",
       "code": "101",
       "name": "Ceramics",
@@ -222,7 +222,7 @@
     {
       "isParent": true,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "STN001",
       "name": "Stationary..",
       "description": "Stationary Material..",
@@ -231,7 +231,7 @@
     {
       "isParent": true,
       "active": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "parent": "MTC001",
       "code": "MTN001",
       "name": "MTN001",

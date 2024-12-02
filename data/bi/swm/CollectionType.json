@@ -1,174 +1,174 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "swm",
   "CollectionType": [
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Door to Door Collection (Wet \u0026 Dry)",
       "code": "Collection Type Code 1"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "(Day to Day Basis)",
       "code": "Collection Type Code 2"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Collection from collection point",
       "code": "Collection Type Code 3"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "From demolished apartments",
       "code": "asdsad"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Weekly Collection (Door to Door)",
       "code": "Weekly Collection"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Test Collection",
       "code": "Test Collection"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "CP Name",
       "code": "CPN"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "CT Name",
       "code": "CTN"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "12",
       "code": "11"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Coll Type updated",
       "code": "CTS"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "From Dust Bin",
       "code": "FDB"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Door To Door",
       "code": "CollectionTypeCode001"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Road Bin",
       "code": "RB"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Wastage",
       "code": "WASTAGE"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "TTT",
       "code": "Test"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "TestForTest",
       "code": "TFT"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "VVV",
       "code": "VVV"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "NNN",
       "code": "NNN"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "CCC",
       "code": "CSD"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "KKK",
       "code": "KKK"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "New CT Test 101",
       "code": "CT 101"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "M_Collection_Point",
       "code": "MCollect"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "M_Colleaction_Point_2",
       "code": "MCollection"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "New Collection Type 23",
       "code": "NCT 23"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Collection Type 24",
       "code": "CT 24"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "ttt",
       "code": "TTT"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "RRR",
       "code": "RRR"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "COll Type 999",
       "code": "CT999"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "mmmm",
       "code": "MMM"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "CT Dev",
       "code": "CTD 1"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "CT Name 999",
       "code": "CTN 999"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Collection Test 101",
       "code": "CT Test 101"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Test 2424",
       "code": "CT 2424"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Test 2525",
       "code": "CT 2525"
     }

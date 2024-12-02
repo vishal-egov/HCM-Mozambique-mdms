@@ -1,14 +1,14 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "common-masters",
   "CensusYear": [
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "2001",
       "code": "2001"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "2011",
       "code": "2011"
     }

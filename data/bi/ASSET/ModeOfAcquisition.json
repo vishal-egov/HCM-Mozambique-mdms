@@ -1,38 +1,38 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "ASSET",
   "ModeOfAcquisition": [
     {
       "id": 1,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "ACQUIRED",
       "name": "Acquired",
       "isActive": true
     },
     {
       "id": 2,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "CONSTRUCTION",
       "name": "Construction",
       "isActive": true
     },
     {
       "id": 3,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "PURCHASE",
       "name": "Purchase",
       "isActive": true
     },
     {
       "id": 4,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "TENDER",
       "name": "Tender",
       "isActive": true
     },
     {
       "id": 5,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DONATION",
       "name": "Donation",
       "isActive": true

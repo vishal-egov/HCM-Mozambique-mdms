@@ -1,14 +1,14 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "inventory",
   "InventoryType": [
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "ASSET",
       "name": "Asset"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "CONSUMABLE",
       "name": "consumable"
     }

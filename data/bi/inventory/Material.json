@@ -1,10 +1,10 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "inventory",
   "Material": [
     {
       "code": "MAT1",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT1"
       },
@@ -35,7 +35,7 @@
     },
     {
       "code": "MAT2",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT2"
       },
@@ -66,7 +66,7 @@
     },
     {
       "code": "MAT3",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT3"
       },
@@ -96,7 +96,7 @@
     },
     {
       "code": "MAT4",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT1"
       },
@@ -127,7 +127,7 @@
     },
     {
       "code": "MAT5",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT2"
       },
@@ -158,7 +158,7 @@
     },
     {
       "code": "MAT6",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT3"
       },
@@ -189,7 +189,7 @@
     },
     {
       "code": "MAT7",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT1"
       },
@@ -220,7 +220,7 @@
     },
     {
       "code": "MAT8",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT2"
       },
@@ -251,7 +251,7 @@
     },
     {
       "code": "MAT9",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT3"
       },
@@ -282,7 +282,7 @@
     },
     {
       "code": "MAT10",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT1"
       },
@@ -313,7 +313,7 @@
     },
     {
       "code": "MAT11",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT2"
       },
@@ -344,7 +344,7 @@
     },
     {
       "code": "MA12",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT3"
       },
@@ -375,7 +375,7 @@
     },
     {
       "code": "MAT13",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT1"
       },
@@ -406,7 +406,7 @@
     },
     {
       "code": "MAT14",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT2"
       },
@@ -437,7 +437,7 @@
     },
     {
       "code": "MAT15",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT3"
       },
@@ -468,7 +468,7 @@
     },
     {
       "code": "MAT16",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT1"
       },
@@ -499,7 +499,7 @@
     },
     {
       "code": "MAT17",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT2"
       },
@@ -530,7 +530,7 @@
     },
     {
       "code": "MAT18",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT3"
       },
@@ -561,7 +561,7 @@
     },
     {
       "code": "MAT19",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT1"
       },
@@ -592,7 +592,7 @@
     },
     {
       "code": "MAT20",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT2"
       },
@@ -653,7 +653,7 @@
     },
     {
       "code": "MAT3",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "materialType": {
         "code": "MT3"
       },
@@ -686,7 +686,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "YYY",
       "oldCode": "CCCC",
       "materialType": {
@@ -719,7 +719,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "143",
       "oldCode": "34543",
       "materialType": {
@@ -751,7 +751,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MAT25",
       "materialType": {
         "code": "MT_Dry"
@@ -787,7 +787,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MAT",
       "materialType": {
         "code": "MT1"
@@ -823,7 +823,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MC1",
       "materialType": {
         "code": "MatTypeCode1"
@@ -859,7 +859,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MatTypeCodeTest3",
       "materialType": {
         "code": "MT3"
@@ -887,7 +887,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MatTypeCodeTest1",
       "materialType": {
         "code": "MT3"
@@ -918,7 +918,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MC2",
       "materialType": {
         "code": "MTC001"
@@ -945,7 +945,7 @@
       "serialNumber": false,
       "shelfLifeControl": false,
       "scrapable": false,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MC001@",
       "oldCode": "Old",
       "materialType": {
@@ -977,7 +977,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Old",
       "oldCode": "Old",
       "materialType": {
@@ -1045,7 +1045,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": false,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "mat55",
       "materialType": {
         "code": "MATCODE"
@@ -1072,7 +1072,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MAT55",
       "oldCode": "Old55",
       "materialType": {
@@ -1101,7 +1101,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MatTypeCodeTest4",
       "oldCode": "Oldeer@33",
       "materialType": {
@@ -1129,7 +1129,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MatTypeCodeTest5",
       "materialType": {
         "code": "MT3"
@@ -1165,7 +1165,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "1313",
       "oldCode": "knlknlkn",
       "materialType": {
@@ -1201,7 +1201,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "454634",
       "oldCode": "4tgrt4",
       "materialType": {
@@ -1237,7 +1237,7 @@
       "serialNumber": true,
       "shelfLifeControl": true,
       "scrapable": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "76545",
       "oldCode": "dsse",
       "materialType": {

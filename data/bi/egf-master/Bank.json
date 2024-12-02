@@ -1,5 +1,5 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "egf-master",
   "Bank": [
     {
@@ -10,7 +10,7 @@
       "active": true,
       "type": null,
       "version": 0,
-      "tenantid": "mz"
+      "tenantid": "bi"
     },
     {
       "id": "2",
@@ -20,7 +20,7 @@
       "active": true,
       "type": null,
       "version": 0,
-      "tenantid": "mz"
+      "tenantid": "bi"
     },
     {
       "id": "3",
@@ -30,7 +30,7 @@
       "active": true,
       "type": null,
       "version": 0,
-      "tenantid": "mz"
+      "tenantid": "bi"
     }
   ]
 }

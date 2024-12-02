@@ -1,89 +1,89 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "swm",
   "WasteType": [
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Dry Waste1",
       "code": "Waste Type Code 1"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Wet Waste",
       "code": "Waste Type Code 2"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Medical Waste",
       "code": "Medical Wate"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "hjghjgj",
       "code": "jgjhg"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Dry Waste",
       "code": "Waste Type Code 3"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Bio Medical Waste",
       "code": "Bio Medical Waste"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Dry",
       "code": "DD1"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Building Construction Waste",
       "code": "BCW"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "House Hold and factory plastic wastes",
       "code": "HHPW"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Construction",
       "code": "Cons"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Industrial Waste",
       "code": "IWS001"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Vegetable Waste",
       "code": "VW"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Plastic Waste",
       "code": "PLASTIC/001"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Bio Waste",
       "code": "BW001"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Electronic Wastes",
       "code": "EW"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "M_Waste_Name",
       "code": "MWN"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "sdD",
       "code": "DDSD"
     }

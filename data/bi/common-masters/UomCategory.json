@@ -1,10 +1,10 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "common-masters",
   "UomCategory": [
     {
       "id": 1,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "uomCategory": "WEIGHT",
       "name": "Weight",
       "code": "WEIGHT",
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "uomCategory": "LENGTH",
       "name": "Length",
       "code": "LENGTH",
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "uomCategory": "AREA",
       "name": "Area",
       "code": "AREA",
@@ -34,7 +34,7 @@
     },
     {
       "id": 4,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "uomCategory": "QUANTITY",
       "name": "Quantity",
       "code": "QUANTITY",
@@ -44,7 +44,7 @@
     },
     {
       "id": 5,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "uomCategory": "VOLUME",
       "name": "Volume",
       "code": "VOLUME",
@@ -54,7 +54,7 @@
     },
     {
       "id": 6,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "uomCategory": "POWER",
       "name": "Power",
       "code": "POWER",

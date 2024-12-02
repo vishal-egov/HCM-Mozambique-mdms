@@ -1,11 +1,11 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "works",
   "AssetPresentCondition": [
     {
       "id": 1,
       "name": "Breaking Down Fake",
-      "tenantId": "mz"
+      "tenantId": "bi"
     }
   ]
 }

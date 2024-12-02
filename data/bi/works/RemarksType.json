@@ -1,18 +1,18 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "works",
   "RemarksType": [
     {
       "name": "Approval",
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Show Cause",
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Rejection",
-      "tenantId": "mz"
+      "tenantId": "bi"
     }
   ]
 }

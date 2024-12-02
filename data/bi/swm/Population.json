@@ -1,10 +1,10 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "swm",
   "Population": [
     {
       "code": "Trimbak MC Code",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "censusYear": "2001",
       "population": 13383,
       "garbageToBeCollected": 5,
@@ -12,7 +12,7 @@
         "code": "200"
       },
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "ward": "3",
       "zone": "Revenue Zone No 2"
@@ -22,7 +22,7 @@
         "code": "mh.aliba"
       },
       "code": "Population-1516630930024",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "censusYear": "2018",
       "population": "12",
       "garbageToBeCollected": "3",
@@ -34,7 +34,7 @@
     },
     {
       "code": "Population-1516685115133",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "ulb": {
         "code": "panavel"
       },
@@ -49,7 +49,7 @@
     },
     {
       "code": "Population-1517313781695",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "ulb": {
         "code": "129"
       },
@@ -61,9 +61,9 @@
     },
     {
       "code": "Population-1517397818303",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "censusYear": "2000",
       "population": "1000",
@@ -73,7 +73,7 @@
     },
     {
       "code": "Population-1517407987686",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "ulb": {
         "code": "mh.aliba"
       },
@@ -85,7 +85,7 @@
     },
     {
       "code": "Population-1517409751013",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "ulb": {
         "code": "mh.khopoli"
       },
@@ -97,7 +97,7 @@
     },
     {
       "code": "Population-1517410456253",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "ulb": {
         "code": "panavel"
       },
@@ -108,7 +108,7 @@
       "zone": 4
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517412661879",
       "ulb": {
         "code": "mh.roha"
@@ -120,7 +120,7 @@
       "zone": 1
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517412855987",
       "ulb": {
         "code": "mh.pen0"
@@ -132,10 +132,10 @@
       "zone": 2
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517463929449",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "censusYear": "2001",
       "population": "2",
@@ -144,10 +144,10 @@
       "zone": 1
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517464844422",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "censusYear": "2003",
       "population": "12",
@@ -156,10 +156,10 @@
       "zone": 4
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517465023905",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "censusYear": "2020",
       "population": "1200",
@@ -168,10 +168,10 @@
       "zone": 1
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517466578523",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "censusYear": "2002",
       "population": "20",
@@ -180,10 +180,10 @@
       "zone": 4
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517468154231",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "censusYear": "2000",
       "population": "500000",
@@ -192,7 +192,7 @@
       "zone": 1
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517468407969",
       "ulb": {
         "code": "panavel"
@@ -204,10 +204,10 @@
       "zone": 1
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517475324037",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "censusYear": "2011",
       "population": "158",
@@ -216,10 +216,10 @@
       "zone": 4
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517478165380",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "censusYear": "2000",
       "population": "21",
@@ -228,10 +228,10 @@
       "zone": 2
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517479327753",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "censusYear": "2000",
       "population": 21,
@@ -240,10 +240,10 @@
       "zone": 1
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517483701845",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "ward": 1,
       "zone": 2,
@@ -252,11 +252,11 @@
       "garbageToBeCollected": 10
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517486294733",
       "censusYear": "2001",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "ward": 8,
       "zone": 4,
@@ -264,10 +264,10 @@
       "garbageToBeCollected": 120
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517488357108",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "censusYear": "2001",
       "population": "12",
@@ -276,10 +276,10 @@
       "zone": 2
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517488862472",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "censusYear": "2001",
       "population": "12",
@@ -288,7 +288,7 @@
       "zone": 3
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517488897085",
       "ulb": {
         "code": "mh.roha"
@@ -300,7 +300,7 @@
       "zone": 3
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517489296331",
       "ulb": {
         "code": "mh.rohatest"
@@ -312,10 +312,10 @@
       "garbageToBeCollected": 100
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517490220067",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "censusYear": "2011",
       "population": "122",
@@ -324,10 +324,10 @@
       "zone": 1
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517490262143",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "censusYear": "2001",
       "population": "123",
@@ -336,10 +336,10 @@
       "zone": 4
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517490305756",
       "ulb": {
-        "code": "mz"
+        "code": "bi"
       },
       "censusYear": "2011",
       "population": "12",
@@ -348,7 +348,7 @@
       "zone": 3
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517491870287",
       "ward": 8,
       "zone": 1,
@@ -357,7 +357,7 @@
       "garbageToBeCollected": 12
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517491892441",
       "ward": 2,
       "zone": 2,
@@ -366,7 +366,7 @@
       "garbageToBeCollected": 11
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517491909020",
       "ward": 6,
       "zone": 2,
@@ -375,7 +375,7 @@
       "garbageToBeCollected": 22
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517564763120",
       "ward": 4,
       "zone": 4,
@@ -384,7 +384,7 @@
       "garbageToBeCollected": 1000
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517809057476",
       "ward": "2",
       "zone": "10",
@@ -393,7 +393,7 @@
       "garbageToBeCollected": 12
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517989113959",
       "ward": "3",
       "zone": "Revenue Zone No 2",
@@ -402,7 +402,7 @@
       "garbageToBeCollected": 10
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517989190893",
       "ward": "5",
       "zone": "Revenue Zone No 5",
@@ -411,7 +411,7 @@
       "garbageToBeCollected": 169
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517989291589",
       "ward": "4",
       "zone": "Revenue Zone: 6",
@@ -420,7 +420,7 @@
       "garbageToBeCollected": 179
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517989361369",
       "ward": "5",
       "zone": "Revenue Zone No 5",
@@ -429,7 +429,7 @@
       "garbageToBeCollected": 198
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517989441524",
       "censusYear": "2011",
       "ward": "4",
@@ -438,7 +438,7 @@
       "garbageToBeCollected": 100
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517989525183",
       "ward": "4",
       "zone": "Revenue Zone: 6",
@@ -447,7 +447,7 @@
       "garbageToBeCollected": 124
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517989662470",
       "ward": "2",
       "zone": "Revenue Zone No 5",
@@ -456,7 +456,7 @@
       "garbageToBeCollected": 121
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517989701042",
       "ward": "2",
       "zone": "Gandhi Road",
@@ -465,7 +465,7 @@
       "garbageToBeCollected": 121
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517989734986",
       "ward": "2",
       "zone": "Gandhi Road",
@@ -474,7 +474,7 @@
       "garbageToBeCollected": 121
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517989790344",
       "ward": "5",
       "zone": "Zone-4",
@@ -483,7 +483,7 @@
       "garbageToBeCollected": 100
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517989921548",
       "ward": "4",
       "zone": "Revenue Zone: 6",
@@ -492,7 +492,7 @@
       "garbageToBeCollected": 123
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1517990241504",
       "ward": "2",
       "zone": "Revenue Zone No 1",
@@ -501,7 +501,7 @@
       "garbageToBeCollected": 100
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1518000692960",
       "ward": "2",
       "zone": "Gandhi Road",
@@ -510,7 +510,7 @@
       "garbageToBeCollected": 0.4
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1518010449480",
       "ward": "2",
       "zone": "Revenue Zone No 1",
@@ -519,7 +519,7 @@
       "garbageToBeCollected": 1
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "Population-1518010860783",
       "ward": "5",
       "zone": "Zone-4",

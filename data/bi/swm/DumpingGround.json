@@ -1,14 +1,14 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "swm",
   "DumpingGround": [
     {
       "code": "DG Code 1",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Trimbak Muncipal Council",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         },
         {
           "code": "mh.roha"
@@ -69,7 +69,7 @@
     },
     {
       "code": "DG Code 2",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Fake dumping ground 2",
       "ulbs": [
         {
@@ -135,7 +135,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1513848687844",
       "ulbs": [
         {
@@ -179,7 +179,7 @@
         "code": "PP 999"
       },
       "distanceFromProcessingSite": "23",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1513861139509",
       "ulbs": [
         {
@@ -220,7 +220,7 @@
         "code": "ProcessingSite-1515613498522"
       },
       "distanceFromProcessingSite": "56",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1514973406014",
       "ulbs": [
         {
@@ -230,7 +230,7 @@
           "code": "mh.khop"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -264,7 +264,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1514987736095",
       "ulbs": [
         {
@@ -274,7 +274,7 @@
           "code": "mh.khop"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -308,7 +308,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1514988115500",
       "ulbs": [
         {
@@ -349,7 +349,7 @@
         "code": "ProcessingSite-1515082999610"
       },
       "distanceFromProcessingSite": "8",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515044610349",
       "ulbs": [
         {
@@ -390,7 +390,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515047138226",
       "ulbs": [
         {
@@ -403,7 +403,7 @@
           "code": "mh.khop"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -437,7 +437,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515050513105",
       "ulbs": [
         {
@@ -473,7 +473,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515051215814",
       "ulbs": [
         {
@@ -512,7 +512,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515052292849",
       "ulbs": [
         {
@@ -548,7 +548,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515056086418",
       "ulbs": [
         {
@@ -581,7 +581,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515058487254"
     },
     {
@@ -614,7 +614,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515058965273",
       "ulbs": [
         {
@@ -653,7 +653,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515059286172"
     },
     {
@@ -684,7 +684,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515059661822"
     },
     {
@@ -720,7 +720,7 @@
         "code": "jfgjg"
       },
       "distanceFromProcessingSite": "7867",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515063607649",
       "ulbs": [
         {
@@ -764,7 +764,7 @@
         "code": "ProcessingSite-1513864087389"
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515086866208",
       "ulbs": [
         {
@@ -802,7 +802,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515088854653",
       "ulbs": [
         {
@@ -843,7 +843,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515094189862",
       "ulbs": [
         {
@@ -878,7 +878,7 @@
         "code": "ProcessingSite-1515119291633"
       },
       "distanceFromProcessingSite": "100",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515141251745",
       "ulbs": [
         {
@@ -913,7 +913,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515141927222",
       "ulbs": [
         {
@@ -945,11 +945,11 @@
         "code": "ProcessingSite-1513865191921"
       },
       "distanceFromProcessingSite": "1000",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515154098084",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -980,7 +980,7 @@
         "code": "ProcessingSite-1515082999610"
       },
       "distanceFromProcessingSite": "12",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515231773363",
       "ulbs": []
     },
@@ -1008,7 +1008,7 @@
         "code": "ProcessingSite-1515082999610"
       },
       "distanceFromProcessingSite": "15",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515243828306",
       "ulbs": []
     },
@@ -1036,7 +1036,7 @@
         "code": "ProcessingSite-1515075903699"
       },
       "distanceFromProcessingSite": "12",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515241287982",
       "ulbs": []
     },
@@ -1070,14 +1070,14 @@
         "code": "ProcessingSite-1515082999610"
       },
       "distanceFromProcessingSite": "4",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515410175062",
       "ulbs": [
         {
           "code": "mh.khop"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -1108,7 +1108,7 @@
         "code": "Pro. Plant Code 1"
       },
       "distanceFromProcessingSite": "10",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515486265225",
       "ulbs": []
     },
@@ -1139,7 +1139,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515494260933",
       "ulbs": [
         {
@@ -1180,7 +1180,7 @@
         "code": "ProcessingSite-1513865191921"
       },
       "distanceFromProcessingSite": "1",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515496983960",
       "ulbs": [
         {
@@ -1221,7 +1221,7 @@
         "code": "ProcessingSite-1513864087389"
       },
       "distanceFromProcessingSite": "12",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515497597964",
       "ulbs": [
         {
@@ -1259,7 +1259,7 @@
         "code": "ProcessingSite-1513864087389"
       },
       "distanceFromProcessingSite": "1",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515497975650",
       "ulbs": [
         {
@@ -1297,7 +1297,7 @@
         "code": "Pro. Plant Code 1"
       },
       "distanceFromProcessingSite": "10",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515498270470",
       "ulbs": [
         {
@@ -1332,11 +1332,11 @@
         "code": "ProcessingSite-1515119291633"
       },
       "distanceFromProcessingSite": "1",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515498678538",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -1373,11 +1373,11 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515506833229",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -1414,7 +1414,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515503898060",
       "ulbs": [
         {
@@ -1455,7 +1455,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515508859554",
       "ulbs": [
         {
@@ -1499,7 +1499,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515508968288",
       "ulbs": [
         {
@@ -1509,7 +1509,7 @@
           "code": "mh.amba"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -1543,7 +1543,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515509439651",
       "ulbs": [
         {
@@ -1587,14 +1587,14 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515510261512",
       "ulbs": [
         {
           "code": "mh.aliba"
         },
         {
-          "code": "mz"
+          "code": "bi"
         },
         {
           "code": "mh.amba"
@@ -1634,7 +1634,7 @@
         "code": "ProcessingSite-1515119291633"
       },
       "distanceFromProcessingSite": "26",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515510456037",
       "ulbs": [
         {
@@ -1678,7 +1678,7 @@
         "code": "ProcessingSite-1513864087389"
       },
       "distanceFromProcessingSite": "256",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515511182385",
       "ulbs": [
         {
@@ -1688,7 +1688,7 @@
           "code": "mh.amba"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -1719,7 +1719,7 @@
         "code": "ProcessingSite-1515075903699"
       },
       "distanceFromProcessingSite": "11",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515566698236",
       "ulbs": [
         {
@@ -1757,7 +1757,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515571906341",
       "ulbs": [
         {
@@ -1801,14 +1801,14 @@
         "code": "ProcessingSite-1513864087389"
       },
       "distanceFromProcessingSite": "34",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515572126018",
       "ulbs": [
         {
           "code": "mh.khop"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -1842,14 +1842,14 @@
         "code": "ProcessingSite-1513864087389"
       },
       "distanceFromProcessingSite": "423",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515572852960",
       "ulbs": [
         {
           "code": "mh.khopoli"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -1883,7 +1883,7 @@
         "code": "ProcessingSite-1513864087389"
       },
       "distanceFromProcessingSite": "543",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515573002907",
       "ulbs": [
         {
@@ -1924,11 +1924,11 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515576696918",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         },
         {
           "code": "mh.khop"
@@ -1965,7 +1965,7 @@
         "code": "Pro. Plant Code 1"
       },
       "distanceFromProcessingSite": "57",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515576917041",
       "ulbs": [
         {
@@ -2006,14 +2006,14 @@
         "code": "Pro. Plant Code 1"
       },
       "distanceFromProcessingSite": "464",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515577261023",
       "ulbs": [
         {
           "code": "mh.khop"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -2047,14 +2047,14 @@
         "code": "ProcessingSite-1513864087389"
       },
       "distanceFromProcessingSite": "43",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515594099399",
       "ulbs": [
         {
           "code": "mh.amba"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -2097,11 +2097,11 @@
         "code": "ProcessingSite-1513865191921"
       },
       "distanceFromProcessingSite": "09",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515664858372",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -2135,7 +2135,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515666926022",
       "ulbs": [
         {
@@ -2145,7 +2145,7 @@
           "code": "mh.amba"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -2176,7 +2176,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515667847132",
       "ulbs": [
         {
@@ -2217,7 +2217,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515669363633",
       "ulbs": [
         {
@@ -2258,11 +2258,11 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515670318729",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         },
         {
           "code": "mh.amba"
@@ -2296,11 +2296,11 @@
         "code": "ProcessingSite-1515615040373"
       },
       "distanceFromProcessingSite": "40",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515676693816",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         },
         {
           "code": "mh.khopoli"
@@ -2337,7 +2337,7 @@
         "code": "ProcessingSite-1515615040373"
       },
       "distanceFromProcessingSite": "24",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515680530754",
       "ulbs": [
         {
@@ -2381,7 +2381,7 @@
         "code": "ProcessingSite-1515075903699"
       },
       "distanceFromProcessingSite": "12313",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515682032423",
       "ulbs": [
         {
@@ -2422,14 +2422,14 @@
         "code": "ProcessingSite-1515082999610"
       },
       "distanceFromProcessingSite": "34",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515682259052",
       "ulbs": [
         {
           "code": "mh.khop"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -2463,7 +2463,7 @@
         "code": "ProcessingSite-1513864087389"
       },
       "distanceFromProcessingSite": "56",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515682436178",
       "ulbs": [
         {
@@ -2501,7 +2501,7 @@
         "code": "ProcessingSite-1515082999610"
       },
       "distanceFromProcessingSite": "40",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515692013245",
       "ulbs": [
         {
@@ -2539,7 +2539,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515752407324",
       "ulbs": [
         {
@@ -2574,14 +2574,14 @@
         "code": "ProcessingSite-1513864087389"
       },
       "distanceFromProcessingSite": "1",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515753933306",
       "ulbs": [
         {
           "code": "mh.aliba"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -2612,11 +2612,11 @@
         "code": "ProcessingSite-1515612368621"
       },
       "distanceFromProcessingSite": "9",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515754027503",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -2647,7 +2647,7 @@
         "code": "ProcessingSite-1513865191921"
       },
       "distanceFromProcessingSite": "1",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515759011146",
       "ulbs": [
         {
@@ -2685,14 +2685,14 @@
         "code": "ProcessingSite-1513864087389"
       },
       "distanceFromProcessingSite": "10",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515772494106",
       "ulbs": [
         {
           "code": "mh.amba"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -2732,7 +2732,7 @@
         "code": "ProcessingSite-1515082999610"
       },
       "distanceFromProcessingSite": "12",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1515774283403",
       "ulbs": [
         {
@@ -2767,7 +2767,7 @@
         "code": "ProcessingSite-1515082999610"
       },
       "distanceFromProcessingSite": "45",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516098014869",
       "ulbs": [
         {
@@ -2805,7 +2805,7 @@
         "code": "ProcessingSite-1515503331395"
       },
       "distanceFromProcessingSite": "4",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516180027948",
       "ulbs": [
         {
@@ -2846,14 +2846,14 @@
         "code": "ProcessingSite-1515075903699"
       },
       "distanceFromProcessingSite": "6",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516197739674",
       "ulbs": [
         {
           "code": "mh.khop"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -2887,14 +2887,14 @@
         "code": "ProcessingSite-1515759184380"
       },
       "distanceFromProcessingSite": "45",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516253414973",
       "ulbs": [
         {
           "code": "mh.khop"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -2928,11 +2928,11 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516253819155",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         },
         {
           "code": "mh.amba"
@@ -2969,7 +2969,7 @@
         "code": "Pro. Plant Code 1"
       },
       "distanceFromProcessingSite": "78",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516254467285",
       "ulbs": [
         {
@@ -3007,7 +3007,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516254797390",
       "ulbs": [
         {
@@ -3045,7 +3045,7 @@
         "code": "ProcessingSite-1515570915015"
       },
       "distanceFromProcessingSite": "47",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516256253382",
       "ulbs": [
         {
@@ -3083,7 +3083,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516260563462",
       "ulbs": [
         {
@@ -3118,7 +3118,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516260866623",
       "ulbs": [
         {
@@ -3156,11 +3156,11 @@
         "code": "ProcessingSite-1515640889212"
       },
       "distanceFromProcessingSite": "2",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516261047951",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -3191,7 +3191,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516273208775",
       "ulbs": [
         {
@@ -3226,7 +3226,7 @@
         "code": "ProcessingSite-1513864087389"
       },
       "distanceFromProcessingSite": "1",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516274243769",
       "ulbs": [
         {
@@ -3261,7 +3261,7 @@
         "code": "ProcessingSite-1515615040373"
       },
       "distanceFromProcessingSite": "1",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516276209941",
       "ulbs": [
         {
@@ -3302,11 +3302,11 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516352364188",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -3346,7 +3346,7 @@
         "code": "ProcessingSite-1513864087389"
       },
       "distanceFromProcessingSite": "56",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516352654154",
       "ulbs": [
         {
@@ -3384,11 +3384,11 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516352911462",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         },
         {
           "code": "mh.amba"
@@ -3422,7 +3422,7 @@
         "code": "ProcessingSite-1515772855866"
       },
       "distanceFromProcessingSite": "5",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516355082748",
       "ulbs": [
         {
@@ -3463,7 +3463,7 @@
         "code": "ProcessingSite-1515569430289"
       },
       "distanceFromProcessingSite": "1",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516356469112",
       "ulbs": [
         {
@@ -3473,7 +3473,7 @@
           "code": "mh.khop"
         },
         {
-          "code": "mz"
+          "code": "bi"
         },
         {
           "code": "panavel"
@@ -3519,7 +3519,7 @@
         "code": "ProcessingSite-1513865191921"
       },
       "distanceFromProcessingSite": "5",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516692045192",
       "ulbs": [
         {
@@ -3554,11 +3554,11 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516714732840",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -3589,7 +3589,7 @@
         "code": "ProcessingSite-1515082999610"
       },
       "distanceFromProcessingSite": "1",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516774180587",
       "ulbs": [
         {
@@ -3624,11 +3624,11 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516776412928",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         },
         {
           "code": "mh.amba"
@@ -3674,7 +3674,7 @@
         "code": "ProcessingSite-1513864087389"
       },
       "distanceFromProcessingSite": "1",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516876649972",
       "ulbs": [
         {
@@ -3687,7 +3687,7 @@
           "code": "mh.khop"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -3721,7 +3721,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1516880521908",
       "ulbs": [
         {
@@ -3731,7 +3731,7 @@
           "code": "mh.amba"
         },
         {
-          "code": "mz"
+          "code": "bi"
         },
         {
           "code": "mh.khop"
@@ -3780,7 +3780,7 @@
         "code": "ProcessingSite-1515615040373"
       },
       "distanceFromProcessingSite": "23",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1517210911850",
       "ulbs": [
         {
@@ -3821,7 +3821,7 @@
         "code": "ProcessingSite-1513864087389"
       },
       "distanceFromProcessingSite": "6",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1517390887762",
       "ulbs": [
         {
@@ -3862,14 +3862,14 @@
         "code": "ProcessingSite-1515075903699"
       },
       "distanceFromProcessingSite": "8",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1517407385000",
       "ulbs": [
         {
           "code": "mh.khop"
         },
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -3903,11 +3903,11 @@
         "code": "ProcessingSite-1515082767504"
       },
       "distanceFromProcessingSite": "22",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1517407442957",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         },
         {
           "code": "mh.amba"
@@ -3941,7 +3941,7 @@
         "code": "ProcessingSite-1515075903699"
       },
       "distanceFromProcessingSite": "5",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1517469426891",
       "ulbs": [
         {
@@ -3985,7 +3985,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1517482153420",
       "ulbs": [
         {
@@ -3998,7 +3998,7 @@
           "code": "mh.khop"
         },
         {
-          "code": "mz"
+          "code": "bi"
         },
         {
           "code": "panavel"
@@ -4038,7 +4038,7 @@
         "code": "ProcessingSite-1513865191921"
       },
       "distanceFromProcessingSite": "4",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1517559849336",
       "ulbs": [
         {
@@ -4079,11 +4079,11 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1517572368750",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -4120,11 +4120,11 @@
         "code": "ProcessingSite-1515613498522"
       },
       "distanceFromProcessingSite": "20",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1517896840357",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -4155,7 +4155,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1517994568123",
       "ulbs": [
         {
@@ -4190,7 +4190,7 @@
         "code": "ProcessingSite-1517995112558"
       },
       "distanceFromProcessingSite": "10",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1517995955923",
       "ulbs": [
         {
@@ -4225,7 +4225,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1518416757117",
       "ulbs": [
         {
@@ -4260,11 +4260,11 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1518426827969",
       "ulbs": [
         {
-          "code": "mz"
+          "code": "bi"
         }
       ]
     },
@@ -4295,7 +4295,7 @@
         "code": ""
       },
       "distanceFromProcessingSite": "",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "DumpingGround-1518427085338",
       "ulbs": [
         {

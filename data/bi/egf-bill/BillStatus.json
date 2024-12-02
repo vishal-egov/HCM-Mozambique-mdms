@@ -1,9 +1,9 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "egf-bill",
   "BillStatus": [
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Created",
       "code": "Created",
       "moduleType": "Bill",
@@ -11,7 +11,7 @@
       "orderNumber": 1
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Approved",
       "code": "Approved",
       "moduleType": "Bill",
@@ -19,7 +19,7 @@
       "orderNumber": 2
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Cancelled",
       "code": "Cancelled",
       "moduleType": "Bill",

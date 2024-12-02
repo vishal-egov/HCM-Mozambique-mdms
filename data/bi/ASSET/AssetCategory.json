@@ -1,9 +1,9 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "ASSET",
   "AssetCategory": [
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "1",
       "name": "Building",
       "code": "1",
@@ -100,7 +100,7 @@
       "parent": null
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "2",
       "name": "Infrastructure assets",
       "code": "2",
@@ -115,7 +115,7 @@
       "depreciationRate": "2"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "3",
       "name": "Plant and Machinery",
       "code": "3",
@@ -129,7 +129,7 @@
       "parent": "2006"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "4",
       "name": "Electrical Installations",
       "code": "4",
@@ -143,7 +143,7 @@
       "parent": null
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "5",
       "name": "Office Building",
       "code": "5",
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "6",
       "name": "School",
       "code": "6",
@@ -337,7 +337,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "7",
       "name": "Fire Station",
       "code": "7",
@@ -434,7 +434,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "8",
       "name": "Hospitals",
       "code": "8",
@@ -531,7 +531,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "9",
       "name": "Gym",
       "code": "9",
@@ -628,7 +628,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "10",
       "name": "Library",
       "code": "10",
@@ -725,7 +725,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "11",
       "name": "Hall",
       "code": "11",
@@ -822,7 +822,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "12",
       "name": "Roads and Bridges",
       "code": "012",
@@ -943,7 +943,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "13",
       "name": "Drainage",
       "code": "013",
@@ -1003,7 +1003,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "14",
       "name": "Water Ways",
       "code": "014",
@@ -1096,7 +1096,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "15",
       "name": "Water Treatment Plant",
       "code": "015",
@@ -1127,7 +1127,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "16",
       "name": "Generator Plan",
       "code": "016",
@@ -1142,7 +1142,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "17",
       "name": "Public Lighting",
       "code": "017",
@@ -1157,7 +1157,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "18",
       "name": "Commercial Vehicles",
       "code": "18",
@@ -1171,7 +1171,7 @@
       "parent": null
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "19",
       "name": "Other Vehicles",
       "code": "19",
@@ -1185,7 +1185,7 @@
       "parent": null
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "20",
       "name": "Office Equipments, computers and peripherals",
       "code": "020",
@@ -1198,7 +1198,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "21",
       "name": "Furniture and Fixtures",
       "code": "021",
@@ -1211,7 +1211,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "22",
       "name": "Intangible Assets",
       "code": "022",
@@ -1224,7 +1224,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "23",
       "name": "Buses",
       "code": "023",
@@ -1239,7 +1239,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "24",
       "name": "Dumpers etc.",
       "code": "024",
@@ -1254,7 +1254,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "25",
       "name": "Tipper",
       "code": "025",
@@ -1269,7 +1269,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "26",
       "name": "Fire Brigade",
       "code": "026",
@@ -1284,7 +1284,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "27",
       "name": "Tractor",
       "code": "027",
@@ -1299,7 +1299,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "28",
       "name": "Car",
       "code": "028",
@@ -1314,7 +1314,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "29",
       "name": "Boat",
       "code": "29",
@@ -1340,7 +1340,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "30",
       "name": "Air Conditioner",
       "code": "030",
@@ -1355,7 +1355,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "31",
       "name": "Inverters",
       "code": "031",
@@ -1370,7 +1370,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "32",
       "name": "UPS",
       "code": "032",
@@ -1385,7 +1385,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "33",
       "name": "Plotters",
       "code": "033",
@@ -1400,7 +1400,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "34",
       "name": "Printers",
       "code": "034",
@@ -1415,7 +1415,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "35",
       "name": "computers and peripherals",
       "code": "035",
@@ -1430,7 +1430,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "36",
       "name": "Furniture",
       "code": "036",
@@ -1445,7 +1445,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "37",
       "name": "Fittings ",
       "code": "037",
@@ -1460,7 +1460,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "38",
       "name": "electrical appliances",
       "code": "038",
@@ -1475,7 +1475,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "39",
       "name": "Fixtures",
       "code": "039",
@@ -1490,7 +1490,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "40",
       "name": "Computer software Licences",
       "code": "040",
@@ -1505,7 +1505,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "41",
       "name": "NOC",
       "code": "041",
@@ -1520,7 +1520,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "42",
       "name": "Land",
       "code": "042",
@@ -1590,7 +1590,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "43",
       "name": "Open Land",
       "code": "043",
@@ -1661,7 +1661,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "44",
       "name": "Play ground",
       "code": "044",
@@ -1732,7 +1732,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "45",
       "name": "Open Market",
       "code": "045",
@@ -1803,7 +1803,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "46",
       "name": "Dumping Ground",
       "code": "046",
@@ -1874,7 +1874,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "47",
       "name": "Lakes and ponds",
       "code": "047",
@@ -1945,7 +1945,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "48",
       "name": "Open Space",
       "code": "048",
@@ -2016,7 +2016,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "49",
       "name": "Land with Encroachments",
       "code": "049",
@@ -2087,7 +2087,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "50",
       "name": "Open Theatre",
       "code": "050",
@@ -2158,7 +2158,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "51",
       "name": "Sewerage",
       "code": "051",
@@ -2200,7 +2200,7 @@
       "id": "52",
       "code": "52",
       "isAssetAllow": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2243,7 +2243,7 @@
       "id": "2001",
       "code": "2001",
       "isAssetAllow": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2290,7 +2290,7 @@
       "id": "2002",
       "code": "2002",
       "isAssetAllow": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2324,7 +2324,7 @@
       "id": "2003",
       "code": "2003",
       "isAssetAllow": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2364,7 +2364,7 @@
       "id": "2004",
       "code": "2004",
       "isAssetAllow": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2376,7 +2376,7 @@
       "id": "2005",
       "code": "2005",
       "isAssetAllow": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2388,7 +2388,7 @@
       "id": "2006",
       "code": "2006",
       "isAssetAllow": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2400,7 +2400,7 @@
       "id": "2007",
       "code": "2007",
       "isAssetAllow": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2413,7 +2413,7 @@
       "id": "2008",
       "code": "2008",
       "isAssetAllow": true,
-      "tenantId": "mz",
+      "tenantId": "bi",
       "assetFieldsDefination": [
         {
           "name": "Length",
@@ -2434,7 +2434,7 @@
       ]
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "2009",
       "name": "Cultivation Land",
       "code": "2009",
@@ -2447,7 +2447,7 @@
       "isDepreciationApplicable": true
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "id": "2010",
       "name": "RI-Office",
       "code": "2010",
@@ -2500,7 +2500,7 @@
       "id": "2011",
       "code": "2011",
       "isAssetAllow": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2534,7 +2534,7 @@
       "isAssetAllow": true,
       "id": "2012",
       "code": "2012",
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2547,7 +2547,7 @@
       "isAssetAllow": true,
       "id": "2013",
       "code": "2013",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "assetFieldsDefination": [
         {
           "name": "number of persons",
@@ -2578,7 +2578,7 @@
       "isAssetAllow": true,
       "id": "2014",
       "code": "2014",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "depreciationRate": "2"
     },
     {
@@ -2592,7 +2592,7 @@
       "isAssetAllow": false,
       "id": "2015",
       "code": "2015",
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2606,7 +2606,7 @@
       "isAssetAllow": false,
       "id": "2016",
       "code": "2016",
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2620,7 +2620,7 @@
       "isAssetAllow": false,
       "id": "2017",
       "code": "2017",
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2633,7 +2633,7 @@
       "isAssetAllow": false,
       "id": "2018",
       "code": "2018",
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2646,7 +2646,7 @@
       "isAssetAllow": false,
       "id": "2019",
       "code": "2019",
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2659,7 +2659,7 @@
       "isAssetAllow": false,
       "id": "2020",
       "code": "2020",
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2672,7 +2672,7 @@
       "isAssetAllow": false,
       "id": "2021",
       "code": "2021",
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "depreciationMethod": "Straight Line method",
@@ -2685,7 +2685,7 @@
       "isAssetAllow": false,
       "id": "2022",
       "code": "2022",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "depreciationRate": "3"
     }
   ]

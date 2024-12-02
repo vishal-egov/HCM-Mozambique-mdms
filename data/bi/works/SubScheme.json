@@ -1,5 +1,5 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "works",
   "SubScheme": [{
       "id": 1,
@@ -13,7 +13,7 @@
       "createddate": "123151351",
       "createdby": 1,
       "lastmodifiedby": null,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
       "createddate": "2016-08-11T00:00:00",
       "createdby": 1,
       "lastmodifiedby": null,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "id": 3,
@@ -41,7 +41,7 @@
       "createddate": "2016-08-11T00:00:00",
       "createdby": 1,
       "lastmodifiedby": null,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "id": 4,
@@ -55,7 +55,7 @@
       "createddate": "2016-08-11T00:00:00",
       "createdby": 1,
       "lastmodifiedby": null,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
       "createddate": "2016-08-11T00:00:00",
       "createdby": 1,
       "lastmodifiedby": null,
-      "tenantId": "mz"
+      "tenantId": "bi"
     }
   ]
 }

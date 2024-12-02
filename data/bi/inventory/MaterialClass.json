@@ -1,19 +1,19 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "inventory",
   "MaterialClass": [
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "HIGHUSAGE",
       "name": "HighUsage"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "MEDIUMUSAGE",
       "name": "MediumUsage"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "LOWUSAGE",
       "name": "LowUsage"
     }

@@ -1,11 +1,11 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "swm",
   "Shift": [
     {
       "code": "Morning Collection Shift Code",
       "name": "Morning Collection Shift Name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 1"
       },
@@ -25,7 +25,7 @@
     {
       "code": "Afternoon Collection Shift Code",
       "name": "Afternoon Collection Shift Name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 2"
       },
@@ -45,7 +45,7 @@
     {
       "code": "Morning Segregation Shift Code",
       "name": "Morning Segregation Shift Name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 1"
       },
@@ -65,7 +65,7 @@
     {
       "code": "Afternoon Segregation Shift Code",
       "name": "Afternoon Segregation Shift Name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 2"
       },
@@ -85,7 +85,7 @@
     {
       "code": "Morning Disposal Shift Code",
       "name": "Morning Disposal Shift Name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 1"
       },
@@ -105,7 +105,7 @@
     {
       "code": "Afternoon Disposal Shift Code",
       "name": "Afternoon Disposal Shift Name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 2"
       },
@@ -125,7 +125,7 @@
     {
       "code": "Shift-1513690523382",
       "name": "Shift-1513690523382 Name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 3"
       },
@@ -155,7 +155,7 @@
       },
       "code": "Shift-1515052480206",
       "name": "Shift-1515052480206-name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftStartTime": "1515073338896",
       "shiftEndTime": "1515040920000",
       "lunchStartTime": "1515008538896",
@@ -176,7 +176,7 @@
       },
       "code": "Shift-1515067765271",
       "name": "Shift-1515067765271-name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftStartTime": "1515445080000",
       "shiftEndTime": "1515445080000",
       "lunchStartTime": "1515445080000",
@@ -197,7 +197,7 @@
       },
       "code": "Shift-1515069341461",
       "name": "Shift-1515069341462-name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftStartTime": "1515070800000",
       "shiftEndTime": "1515085200000",
       "lunchStartTime": "1515069059339",
@@ -218,7 +218,7 @@
       },
       "code": "Shift-1515144855108",
       "name": "Shift-1515144855108-name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftStartTime": "1515101640000",
       "shiftEndTime": "1515101640000",
       "lunchStartTime": "1515101640000",
@@ -239,7 +239,7 @@
       },
       "code": "Shift-1515145244540",
       "name": "Shift-1515145244540-name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftStartTime": "1515102000000",
       "shiftEndTime": "1515102000000",
       "lunchStartTime": "1515102000000",
@@ -251,7 +251,7 @@
     {
       "code": "Shift-1515254905673",
       "name": "Shift-1515254905673-name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "ABCDE"
       },
@@ -265,7 +265,7 @@
     {
       "code": "Shift-1515262145049",
       "name": "Shift-1515262145049-name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "2To4Shift"
       },
@@ -286,7 +286,7 @@
     {
       "code": "Shift-1515262748675",
       "name": "Shift-1515262748675-name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "MDS"
       },
@@ -307,7 +307,7 @@
     {
       "code": "Shift-1515494504965",
       "name": "Shift-1515494504965-name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "2To4Shift"
       },
@@ -327,7 +327,7 @@
     {
       "code": "Shift-1515498218544",
       "name": "Shift-1515498218544-name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "2To4Shift"
       },
@@ -347,7 +347,7 @@
     {
       "code": "Shift-1515514849211",
       "name": "Shift-1515514849211-name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "2To4Shift"
       },
@@ -368,7 +368,7 @@
     {
       "code": "Shift-1515565039381",
       "name": "Shift-1515565039381-name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftStartTime": "1515573000000",
       "shiftEndTime": "1515580200000",
       "lunchStartTime": "1515576600000",
@@ -389,7 +389,7 @@
     {
       "code": "Shift-1515565533804",
       "name": "Shift-1515565533804-name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "2To4Shift"
       },
@@ -410,7 +410,7 @@
     {
       "code": "Shift-1515577561795",
       "name": "Shift-1515577561795-name",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 2"
       },
@@ -429,7 +429,7 @@
     },
     {
       "code": "Shift-1515599348229",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "ABCDE"
       },
@@ -450,7 +450,7 @@
     },
     {
       "code": "Shift-1515599528201",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "ABCDE"
       },
@@ -471,7 +471,7 @@
     },
     {
       "code": "Shift-1515602544676",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "NS"
       },
@@ -491,7 +491,7 @@
     },
     {
       "code": "Shift-1515615681799",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 2"
       },
@@ -512,7 +512,7 @@
     },
     {
       "code": "Shift-1515639275198",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "SS"
       },
@@ -532,7 +532,7 @@
     },
     {
       "code": "Shift-1515639877650",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "BFS"
       },
@@ -552,7 +552,7 @@
     },
     {
       "code": "Shift-1515642861201",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 2"
       },
@@ -572,7 +572,7 @@
     },
     {
       "code": "Shift-1515654266374",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 2"
       },
@@ -593,7 +593,7 @@
     },
     {
       "code": "Shift-1515654579162",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "BFS"
       },
@@ -614,7 +614,7 @@
     },
     {
       "code": "Shift-1515654999927",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 2"
       },
@@ -634,7 +634,7 @@
     },
     {
       "code": "Shift-1515656188031",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 2"
       },
@@ -654,7 +654,7 @@
     },
     {
       "code": "Shift-1515656880520",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "BFS"
       },
@@ -675,7 +675,7 @@
     },
     {
       "code": "Shift-1515663432288",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "BFS"
       },
@@ -696,7 +696,7 @@
     },
     {
       "code": "Shift-1515669176108",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "NS"
       },
@@ -717,7 +717,7 @@
     },
     {
       "code": "Shift-1515677037569",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 1"
       },
@@ -738,7 +738,7 @@
     },
     {
       "code": "Shift-1515678551012",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 2"
       },
@@ -759,7 +759,7 @@
     },
     {
       "code": "Shift-1515683331759",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "2To4Shift"
       },
@@ -780,7 +780,7 @@
     },
     {
       "code": "Shift-1515735867583",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Shift Type Code 2"
       },
@@ -800,7 +800,7 @@
     },
     {
       "code": "Shift-1515742203224",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "ShiftName 1",
       "shiftType": {
         "code": "2To4Shift"
@@ -821,7 +821,7 @@
     },
     {
       "code": "Shift-1515753291737",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "SNS"
       },
@@ -841,7 +841,7 @@
     },
     {
       "code": "Shift-1515755946074",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Release Shift",
       "shiftType": {
         "code": "Shift Type Code 2"
@@ -861,7 +861,7 @@
     },
     {
       "code": "Shift-1515756428406",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "test ran",
       "shiftType": {
         "code": "Shift Type Code 2"
@@ -881,7 +881,7 @@
     },
     {
       "code": "Shift-1515762104199",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Special Shift",
       "shiftType": {
         "code": "MNS"
@@ -902,7 +902,7 @@
     },
     {
       "code": "Shift-1515761702721",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "test2ran",
       "shiftType": {
         "code": "Shift Type Code 2"
@@ -922,7 +922,7 @@
     },
     {
       "code": "Shift-1515762540257",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Special Shift 2",
       "shiftType": {
         "code": "Shift Type Code 2"
@@ -943,7 +943,7 @@
     },
     {
       "code": "Shift-1515764525655",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Coffee Shift Name",
       "shiftType": {
         "code": "CS"
@@ -963,7 +963,7 @@
     },
     {
       "code": "Shift-1515764954632",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "ran-2",
       "shiftType": {
         "code": "Shift Type Code 2"
@@ -983,7 +983,7 @@
     },
     {
       "code": "Shift-1515765207480",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "ran-3",
       "shiftType": {
         "code": "Shift Type Code 2"
@@ -1003,7 +1003,7 @@
     },
     {
       "code": "Shift-1515765424175",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "shiftType": {
         "code": "Tea"
       },
@@ -1023,7 +1023,7 @@
     },
     {
       "code": "Shift-1515765784332",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "ran-3",
       "shiftType": {
         "code": "Shift Type Code 2"
@@ -1043,7 +1043,7 @@
     },
     {
       "code": "Shift-1515767137348",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "ran-6",
       "shiftType": {
         "code": "Shift Type Code 2"
@@ -1063,7 +1063,7 @@
     },
     {
       "code": "Shift-1515767221200",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "ran-7",
       "shiftType": {
         "code": "Shift Type Code 2"
@@ -1083,7 +1083,7 @@
     },
     {
       "code": "Shift-1515768530405",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "ran-9",
       "shiftType": {
         "code": "SS"
@@ -1102,7 +1102,7 @@
       "graceTimeTo": "1515725280000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1515771121778",
       "name": "test9",
       "shiftType": {
@@ -1123,7 +1123,7 @@
     },
     {
       "code": "Shift-1515772081512",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "name": "Empty ",
       "shiftType": {
         "code": "ES11"
@@ -1143,7 +1143,7 @@
       "remarks": "QWERTYHJK"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1515772098879",
       "name": "ran-10",
       "shiftType": {
@@ -1163,7 +1163,7 @@
       "graceTimeTo": "1515728880000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1515772179221",
       "name": "ran-11",
       "shiftType": {
@@ -1183,7 +1183,7 @@
       "graceTimeTo": "1515728880000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1515772299294",
       "name": "shift32",
       "shiftType": {
@@ -1203,7 +1203,7 @@
       "graceTimeTo": "1515725487172"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516256030866",
       "name": "test",
       "shiftType": {
@@ -1223,7 +1223,7 @@
       "graceTimeTo": "1516255980000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516256142210",
       "name": "TTTT",
       "shiftType": {
@@ -1244,7 +1244,7 @@
       "remarks": "test"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516354005594",
       "name": "New SHift",
       "shiftType": {
@@ -1264,7 +1264,7 @@
       "graceTimeTo": "1516347000000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516358162461",
       "name": "202",
       "shiftType": {
@@ -1284,7 +1284,7 @@
       "graceTimeTo": "1516357800000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516360742074",
       "name": "New SHift",
       "shiftType": {
@@ -1304,7 +1304,7 @@
       "graceTimeTo": "1516361400000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516368593772",
       "name": "KK",
       "shiftType": {
@@ -1325,7 +1325,7 @@
       "remarks": "asdfasdfasdfasfd asdfasdf asdfasfasfasdf"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516368686520",
       "name": "GGGG",
       "shiftType": {
@@ -1346,7 +1346,7 @@
       "remarks": "123"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516369036979",
       "name": "asd",
       "shiftType": {
@@ -1366,7 +1366,7 @@
       "graceTimeTo": "1516370400000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516372725573",
       "shiftStartTime": "1516325925144",
       "shiftEndTime": "1516374045144",
@@ -1386,7 +1386,7 @@
       }
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516373028239",
       "name": "GG",
       "shiftType": {
@@ -1406,7 +1406,7 @@
       "graceTimeTo": "1516350600000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516373258961",
       "name": "GG",
       "shiftType": {
@@ -1426,7 +1426,7 @@
       "graceTimeTo": "1516365000000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516373267049",
       "name": "GG",
       "shiftType": {
@@ -1446,7 +1446,7 @@
       "lunchEndTime": "1516354500000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516387942644",
       "shiftStartTime": "1516320944838",
       "shiftEndTime": "1516403744838",
@@ -1466,7 +1466,7 @@
       }
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516591621491",
       "name": "Supervision first shift",
       "shiftType": {
@@ -1490,7 +1490,7 @@
       "publicToilet": true,
       "name": "toilet 3",
       "code": "Shift-1516611371271",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "address": "xuz ",
       "location": {
         "code": "200"
@@ -1503,7 +1503,7 @@
       "publicToilet": true,
       "name": "toilet 4",
       "code": "Shift-1516612757012",
-      "tenantId": "mz",
+      "tenantId": "bi",
       "address": "akhibara",
       "location": {
         "code": "352"
@@ -1513,7 +1513,7 @@
       "seatCount": "6"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516619415184",
       "name": "New Shift Name",
       "shiftType": {
@@ -1533,7 +1533,7 @@
       "graceTimeTo": "1516599000000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516622887828",
       "name": "New Shift Name 2",
       "shiftType": {
@@ -1554,7 +1554,7 @@
       "remarks": ""
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516624795758",
       "name": "New Shift One",
       "shiftType": {
@@ -1574,7 +1574,7 @@
       "graceTimeTo": "1516590000000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516628175813",
       "name": "asdasd",
       "shiftType": {
@@ -1594,7 +1594,7 @@
       "graceTimeTo": "1516584060000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516696251329",
       "name": "Shift Home",
       "shiftType": {
@@ -1614,7 +1614,7 @@
       "graceTimeTo": "1516719600000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516699297909",
       "name": "New SHift 722",
       "shiftType": {
@@ -1634,7 +1634,7 @@
       "graceTimeTo": "1516719600000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1516986772236",
       "name": "5 To 10 Shift",
       "shiftType": {
@@ -1654,7 +1654,7 @@
       "graceTimeTo": "1516935900000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1517305599917",
       "name": "ABC Shift",
       "shiftType": {
@@ -1675,7 +1675,7 @@
       "remarks": "khjkhjkjkhjkhjkh"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1517306395804",
       "name": "Morning1 shift",
       "shiftType": {
@@ -1695,7 +1695,7 @@
       "graceTimeTo": "1517277649701"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1517306711379",
       "name": "Morning11 shift",
       "shiftType": {
@@ -1715,7 +1715,7 @@
       "graceTimeTo": "1517277600000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1517473123976",
       "name": "qqqq",
       "shiftType": {
@@ -1736,7 +1736,7 @@
       "remarks": "eeedwsderf23213213@@@@@@"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1517473438868",
       "name": "test ",
       "shiftType": {
@@ -1757,7 +1757,7 @@
       "remarks": "dsdsadsadsadsfdsgdfgdag"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1517990771291",
       "name": "M_Shift_Type_Singh",
       "shiftType": {
@@ -1778,7 +1778,7 @@
       "remarks": "this is remark make sure every thing is working here need to check more effective way "
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1518505143683",
       "name": "Shift Name 3",
       "shiftType": {
@@ -1798,7 +1798,7 @@
       "graceTimeTo": "1518466500000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1518524409303",
       "name": "Morning",
       "shiftType": {
@@ -1819,7 +1819,7 @@
       "remarks": "hghghgghggghjgjjggj"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1518582051761",
       "name": "Test Shift",
       "shiftType": {
@@ -1839,7 +1839,7 @@
       "graceTimeTo": "1518611400000"
     },
     {
-      "tenantId": "mz",
+      "tenantId": "bi",
       "code": "-1518582757673",
       "name": "Accounts  Acc first shift ",
       "shiftType": {

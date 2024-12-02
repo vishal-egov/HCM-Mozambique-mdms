@@ -1,84 +1,84 @@
 {
-  "tenantId": "mz",
+  "tenantId": "bi",
   "moduleName": "lcms",
   "bench": [
     {
       "name": "Bombayaa",
       "code": "BOMBAY",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Aurangabad",
       "code": "AURANGABAD",
       "active": false,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Nagpur",
       "code": "NAGPUR",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "TestBench",
       "code": "Nass",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "testing on 14 Bench_updated_2",
       "code": "Tob",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "BenchName1",
       "code": "bench1",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "test10",
       "code": "111",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Bench/M1",
       "code": "BM1",
       "active": false,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "aaa",
       "code": "aaa",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "test1",
       "code": "testing",
       "active": false,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "BenchName1",
       "code": "BN",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "BenchName2",
       "code": "BN2",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     },
     {
       "name": "Bench_Name_4",
       "code": "BN4",
       "active": true,
-      "tenantId": "mz"
+      "tenantId": "bi"
     }
   ]
 }
