@@ -1,0 +1,14 @@
+[
+  {
+  "hierarchy": "ADMIN",
+  "lowestHierarchy": "Post Administrative",
+  "splitBoundariesOn" : "District",
+  "isActive": true
+},
+{
+  "hierarchy": "Workbench",
+  "lowestHierarchy": "Post Administrative",
+  "splitBoundariesOn" : "District",
+  "isActive": false
+}
+]
