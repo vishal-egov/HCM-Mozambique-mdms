@@ -11087,54 +11087,6 @@
       "queryParams": ""
     },
     {
-      "id": 1896,
-      "name": "National About",
-      "url": "url",
-      "displayName": "National About",
-      "orderNumber": 1,
-      "parentModule": "dss-dashboard",
-      "enabled": true,
-      "serviceCode": "DSS",
-      "code": "",
-      "path": "national.about",
-      "navigationURL": "/digit-ui/employee/dss/about",
-      "leftIcon": "",
-      "rightIcon": "",
-      "queryParams": ""
-    },
-    {
-      "id": 1897,
-      "name": "National FAQ",
-      "url": "url",
-      "displayName": "National FAQ",
-      "orderNumber": 2,
-      "parentModule": "dss-dashboard",
-      "enabled": true,
-      "serviceCode": "DSS",
-      "code": "",
-      "path": "national.faq",
-      "navigationURL": "/digit-ui/employee/dss/faqs",
-      "leftIcon": "",
-      "rightIcon": "",
-      "queryParams": ""
-    },
-    {
-      "id": 1902,
-      "name": "National Calculations",
-      "url": "url",
-      "displayName": "National Calculations",
-      "orderNumber": 3,
-      "parentModule": "dss-dashboard",
-      "enabled": true,
-      "serviceCode": "DSS",
-      "code": "",
-      "path": "national.calculations",
-      "navigationURL": "/digit-ui/employee/dss/calculations",
-      "leftIcon": "",
-      "rightIcon": "",
-      "queryParams": ""
-    },
-    {
       "id": 1893,
       "name": "Provincial Health Dashboard",
       "url": "url",
@@ -12761,7 +12713,7 @@
     {
       "id": 1681,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/tenant.tenants",
+      "url": "/mdms-v2/v2/_create/tenant.tenants",
       "displayName": "Create tenant tenants",
       "orderNumber": 1,
       "parentModule": "",
@@ -12773,7 +12725,7 @@
     {
       "id": 1682,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/tenant.tenants",
+      "url": "/mdms-v2/v2/_update/tenant.tenants",
       "displayName": "Update tenant tenants",
       "orderNumber": 1,
       "parentModule": "",
@@ -12799,7 +12751,7 @@
     {
       "id": 1684,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/ACCESSCONTROL-ACTIONS-TEST.actions-test",
+      "url": "/mdms-v2/v2/_create/ACCESSCONTROL-ACTIONS-TEST.actions-test",
       "displayName": "Create ACCESSCONTROL-ACTIONS-TEST actions-test",
       "orderNumber": 1,
       "parentModule": "",
@@ -12811,7 +12763,7 @@
     {
       "id": 1685,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/ACCESSCONTROL-ACTIONS-TEST.actions-test",
+      "url": "/mdms-v2/v2/_update/ACCESSCONTROL-ACTIONS-TEST.actions-test",
       "displayName": "Update ACCESSCONTROL-ACTIONS-TEST actions-test",
       "orderNumber": 1,
       "parentModule": "",
@@ -12837,7 +12789,7 @@
     {
       "id": 1687,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/ACCESSCONTROL-ROLES.roles",
+      "url": "/mdms-v2/v2/_create/ACCESSCONTROL-ROLES.roles",
       "displayName": "Create ACCESSCONTROL-ROLES roles",
       "orderNumber": 1,
       "parentModule": "",
@@ -12849,7 +12801,7 @@
     {
       "id": 1688,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/ACCESSCONTROL-ROLES.roles",
+      "url": "/mdms-v2/v2/_update/ACCESSCONTROL-ROLES.roles",
       "displayName": "Update ACCESSCONTROL-ROLES roles",
       "orderNumber": 1,
       "parentModule": "",
@@ -12875,7 +12827,7 @@
     {
       "id": 1690,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/ACCESSCONTROL-ROLEACTIONS.roleactions",
+      "url": "/mdms-v2/v2/_create/ACCESSCONTROL-ROLEACTIONS.roleactions",
       "displayName": "Create ACCESSCONTROL-ROLEACTIONS roleactions",
       "orderNumber": 1,
       "parentModule": "",
@@ -12887,7 +12839,7 @@
     {
       "id": 1691,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/ACCESSCONTROL-ROLEACTIONS.roleactions",
+      "url": "/mdms-v2/v2/_update/ACCESSCONTROL-ROLEACTIONS.roleactions",
       "displayName": "Update ACCESSCONTROL-ROLEACTIONS roleactions",
       "orderNumber": 1,
       "parentModule": "",
