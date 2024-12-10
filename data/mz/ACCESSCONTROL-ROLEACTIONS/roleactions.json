@@ -19041,6 +19041,12 @@
       "tenantId": "mz"
     },
     {
+      "rolecode": "COMMUNITY_SUPERVISOR",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
       "rolecode": "TEAM_SUPERVISOR",
       "actionid": 1544,
       "actioncode": "",
@@ -19467,7 +19473,19 @@
       "tenantId": "mz"
     },
     {
+      "rolecode": "COMMUNITY_SUPERVISOR",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
       "rolecode": "TEAM_SUPERVISOR",
+      "actionid": 1551,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "COMMUNITY_SUPERVISOR",
       "actionid": 1551,
       "actioncode": "",
       "tenantId": "mz"
